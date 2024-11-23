@@ -15,6 +15,7 @@ python-dotenv = "^1.0.1"
 langchain-experimental = "^0.3.3"
 json-repair = "^0.30.2"
 neo4j = "^5.26.0"
+langchain-ollama = "^0.2.0"
 
 
 [build-system]
