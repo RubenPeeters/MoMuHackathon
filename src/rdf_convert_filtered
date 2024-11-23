@@ -1,0 +1,35 @@
+# filter the json-ld file and convert it to turtle format
+# properties to omit:
+# o:item_set
+# o:created
+# o:modified
+# for this ontology: "http://omeka.org/s/vocabs/o#"
+
+from rdflib import Graph
+import json
+
+# Load JSON-LD file
+with open("Data/items.json") as f:
+    data = json.load(f)
+
+    # remove unwanted properties from the JSON-LD file
+    for item in data:
+        item.pop("o:item_set", None)
+        item.pop("o:created", None)
+        item.pop("o:modified", None)
+        item.pop("o:resource_template", None)
+        item.pop("o:resource_class", None)
+        item.pop("o:owner", None)
+        item.pop("o:is_public", None)
+        item.pop("o:site", None)
+
+    # Save the filtered JSON-LD file
+    with open("Data/items_filtered.json", "w") as f:
+        json.dump(data, f)
+
+
+
+# Convert JSON-LD to TTL
+g = Graph()
+g.parse("Data/items_filtered.json", format="json-ld")
+g.serialize(destination="Data/items_filtered.ttl", format="turtle")
