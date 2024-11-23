@@ -1,0 +1,871 @@
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://omeka.org/s/vocabs/o#> .
+@prefix ns2: <http://www.loc.gov/mods/rdf/v1#> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns4: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://heron.libis.be/momu/api/items/14390> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 14390 ;
+    ns1:media <https://heron.libis.be/momu/api/media/194011> ;
+    ns1:title "ST80062" ;
+    dcterms:creator "LACEY AND SONS" ;
+    dcterms:date "1930-1940" ;
+    dcterms:description "Brede broek in dik, wit linnen. De broek heeft verschillende plooien in de taille, wat een wijd effect geeft aan de broekspijpen, die onderaan terug nauw aansluiten rond de enkels. Daar kan de onderkant van de broek geopend worden met knopen. Er is één achterzak. De broek sluit vooraan met knopen." ;
+    dcterms:identifier <http://data.momu.be/item/id/mtx9c0> ;
+    dcterms:medium "corozo",
+        "katoen",
+        "met de machine genaaid",
+        "metaal" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300209935>,
+        "broek" ;
+    ns4:shortDescription """Professioneel cricketspeler William Lacey verhuist in 1887 vanuit Engeland naar Canada om daar te spelen en coachen. Aan het einde van dat decennium verhuist hij met zijn gezin naar Argentinië. In Buenos Aires zet Lacey zich in voor het in 1888 opgerichte Hurlingham Sports Club, een van de eerste sportclubs in Argentinië voor typisch Britse sporten als cricket, rugby en polo. Wanneer daar de vraag naar uitrustingen voor de sport polo toeneemt, begint hij met de verkoop van polosticks (zogenaamde ‘mallets’).  
+
+Later opent hij in het centrum van de stad een zaak voor (polo)sportkleding en materialen genaamd Lacey and Sons. Ook zoon Lewis Lacey, die internationaal bekend is als polospeler en zowel voor Engeland als Argentinië speelt, is betrokken bij zijn vaders zaak. Lewis ontwerpt in de jaren 1920 als eerste poloshirts met het logo van een polospeler te paard. Dit logo zal pas later in de jaren 1970 echt bekend gemaakt worden als het in aangepaste versie door modeontwerper Ralph Lauren gebruikt wordt bij zijn kledingmerk ‘Polo’. Lacey and Sons wordt overgenomen door Williams kleinzoon Wyndham Lacey, en de zaak sluit uiteindelijk zijn deuren in 1958.  
+
+Deze broek van stevig wit linnen loopt van wijd op heuphoogte naar nauwsluitend onder de knie, waar hij met knopen wordt vastgezet. Dit type broek is geschikt voor sportieve activiteiten zoals polo. Polobroeken worden gedragen met strakke hoge rijlaarzen die tot onder de knie reiken. Hierdoor poft dit model broek op boven de knie.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mtx9c0> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16781> ;
+    ns2:identifier "ST80062" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "49516" ;
+    ns2:partNumber "63641" .
+
+<https://heron.libis.be/momu/api/items/14641> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 14641 ;
+    ns1:media <https://heron.libis.be/momu/api/media/194461> ;
+    ns1:title "ST80519" ;
+    dcterms:date "1900-1910" ;
+    dcterms:description "Dunne, ecrukleurige, lange jas die tijdens het auto rijden over de kleding werd gedragen om deze te beschermen. De jas heeft een kleine kraag, lange mouwen, twee zakken vooraan en sluit vooraan met vijf knopen." ;
+    dcterms:identifier <http://data.momu.be/item/id/mtb2xd> ;
+    dcterms:medium "kunststof",
+        "linnen",
+        "metaal" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046143>,
+        "jas" ;
+    ns4:shortDescription """Dit type losse, lichtgewicht jas wordt ook wel ‘duster’ genoemd. Een duster wordt tijdens het autorijden over de kleding gedragen om deze onderweg tegen vuil en stof (‘dust’ in het Engels) te beschermen. De duster is een aanpassing van een soortgelijke jas die vanaf het einde van de achttiende eeuw werd gedragen voor reizen per paard of koets. Een duster was ruimvallend, reikte van nek tot kuit of enkel, en werd typisch gemaakt van ecrukleurig katoenen canvas of linnen waardoor de kleur van stof minder opviel. 
+
+Hoewel de eerste auto’s al in de jaren 1880 worden gebouwd, zal dit vervoersmiddel pas tijdens de eerste decennia van de twintigste eeuw voor steeds meer mensen beschikbaar worden als alternatief voor reizen per koets of trein. Eerst zitten vooral mannen achter het stuur, maar geleidelijk aan leren steeds meer vrouwen autorijden. De groeiende populariteit van de auto als vervoersmiddel, in Europa vooral in de jaren na de Eerste Wereldoorlog, wordt weerspiegeld in specifieke modes en accessoires voor achter het stuur of in de passagiersstoel.  
+
+De eerste modellen auto’s hadden geen voorruit, ruiten, of dak. Ze boden daarom weinig bescherming tegen de elementen. Niet overal waren wegen bestraat, dus een autorit kon een stoffige aangelegenheid worden. Tijdens het toeren met de auto werden er dus zoals vroeger bij paard en koets wijde jassen ter bescherming over de eigen kleding gedragen. Ook kwamen er modieuze accessoires op de markt, zoals speciale maskers met ingebouwde stofbrillen of ruime petten met vizier die het kapsel beschermden.  
+
+Dit exemplaar duster was vooral geschikt voor zomerse autoritten. Dusters werden aangepast naar smaak met elementen zoals plastic knopen (een nieuw en modieus materiaal) of garneersels als lint of koord. Vanaf de jaren 1920 worden auto’s geavanceerder en zijn er steeds meer wegen bestraat. Men kiest er dan nog wel voor om een lichte, wijde jas over de kleding te dragen, maar dusters als dit exemplaar worden steeds minder gedragen.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mtb2xd> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/23611> ;
+    ns2:identifier "ST80519" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "49650" ;
+    ns2:partNumber "63775" .
+
+<https://heron.libis.be/momu/api/items/15695> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15695 ;
+    ns1:media <https://heron.libis.be/momu/api/media/197557> ;
+    ns1:title "ST1320" ;
+    dcterms:creator "CICERONE" ;
+    dcterms:date "1968-1972" ;
+    dcterms:dateSubmitted "2022-06-28" ;
+    dcterms:description "Poloshirt of hemd met korte mouwen, van crèmekleurige jersey. Drie knopen middenvoor; gesloten vanaf de borst omlaag. Klein opgestikt borstzakje." ;
+    dcterms:identifier <http://data.momu.be/item/id/mw0w0c> ;
+    dcterms:medium "breiwerk",
+        "katoen",
+        "kunststof" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject "poloshirt" ;
+    ns4:shortDescription """Het poloshirt kent zijn oorsprong in India, waar eind negentiende eeuw polospelers in het warme klimaat een luchtiger kledingstuk zochten voor deze sport te paard. Het kledingstuk dat vandaag de dag bekend staat als poloshirt werd echter niet bekend door polo maar door een andere sport: tennis.  
+
+In 1926 introduceert de Franse tennisster René Lacoste, bijgenaamd ‘le Crocodile’, een innovatief kledingstuk. In plaats van het voor tennis gebruikelijke geweven witte hemd met lange mouwen, komt Lacoste met een alternatief in gebreid katoen piqué dat zorgt voor een meer ademend effect. Zijn ontwerp heeft korte mouwen met een manchet in gebreide ribsteek dat met beweging extra meegeeft. De ronde, platvallende kraag is ongesteven, en het shirt heeft een korte halsopening met twee à drie knopen middenvoor. Dit alles zorgt voor meer comfort en bewegingsvrijheid tijdens het tennisspel. Na zijn pensioen van professioneel tennis in 1933 promoot Lacoste zijn ontwerp grootschalig, en het kledingstuk wordt door andere sporters zoals polospelers opgepikt. Vanaf de jaren 1950 wordt het algemeen bekend onder de naam poloshirt.  
+
+Een kenmerk van poloshirts is dat er vaak een geborduurd logo op de linkerborst aanwezig is: denk aan de krokodil van Lacoste of de polospeler te paard als logo van de Amerikaanse modeontwerper Ralph Lauren. Lauren introduceert dit logo in 1971 op een kledinglijn voor vrouwen. In 1972 komt hij met zijn bekende herenlijn met poloshirts in een regenboog aan kleuren. Dit crèmekleurig poloshirt uit de periode 1968-1972 heeft geen logo op de linkerborst maar een borstzak. In kleur blijft het echter trouw aan zijn sportieve oorsprong in tennis en polo. Poloshirts worden allang niet meer enkel voor sportieve aangelegenheden gedragen, al blijft het wel informele kleding.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mw0w0c> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/23581> ;
+    ns2:identifier "ST1320" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "56949" ;
+    ns2:partNumber "71075" .
+
+<https://heron.libis.be/momu/api/items/15706> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15706 ;
+    ns1:media <https://heron.libis.be/momu/api/media/198865> ;
+    ns1:title "ST1332A" ;
+    dcterms:date "1930-1960" ;
+    dcterms:description "Kinderjurkje van gele katoen; Peter Pan-kraagje afgewerkt met blauw garen; smokwerk ter hoogte van de borst afgewerkt met blauw en geel garen; kleine bloemetjes in dezelfde kleuren op de gerimpelde rok. Korte pofmouwtjes. Sluit aan de achterzijde met drie drukknopen, aan de buitenkant is de sluiting afgewerkt met doorzichtige kunststof knopen met reliëf, die opgebouwd zijn uit kleine bolletjes. Netjes uitgevoerd handwerk." ;
+    dcterms:identifier <http://data.momu.be/item/id/mfqzbw> ;
+    dcterms:medium "borduurwerk",
+        "katoen",
+        "kunststof",
+        "smokwerk",
+        "weefsel" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046159>,
+        "jurk" ;
+    ns4:shortDescription "Een Peter Pan-kraag is een platvallende, tweedelige ronde kraag die vanaf ongeveer 1909 modieus werd, hoewel gelijkende kragen al in de negentiende eeuw onder andere namen bestonden. De naam is afkomstig van de hoofdrolspeler uit het gelijknamige toneelstuk (première in 1904) en boek (1911) geschreven door de Schotse auteur J. M. Barrie. Actrice Maude Adams droeg een kostuum met een dergelijke kraag toen zij in 1905 de rol van Peter Pan vertolkte op het Amerikaanse Broadway. De Peter Pan kraag was vooral geliefd als onderdeel van kleding voor jonge meisjes en kleine kinderen en werd dan ook gedurende de rest van de twintigste eeuw gedragen." ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mfqzbw> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/23807> ;
+    ns2:identifier "ST1332A" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "56962" ;
+    ns2:note "Pattern-a-thon" ;
+    ns2:partNumber "71088" .
+
+<https://heron.libis.be/momu/api/items/15766> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15766 ;
+    ns1:media <https://heron.libis.be/momu/api/media/199132> ;
+    ns1:title "ST1342ABCDEFG" ;
+    dcterms:creator "BERNARDY" ;
+    dcterms:date "1950-1970" ;
+    dcterms:description "Pak, Eton-pak, met zwart gilet en jacquet, grijze gestreepte broek en wit hemd met aparte stijve kraag (ronde Eton-kraag) en manchetten.   A. kort jacquet in zwarte wol, met satijnen revers en voering, zwarte kunststof knopen   B. gilet in zwarte wol   C. broek in grijze gestreepte wol   D. wit katoen hemd   E. wit katoen stijve ronde kraag   FG. witte katoenen stijve manchetten" ;
+    dcterms:identifier <http://data.momu.be/item/id/mpzgsv> ;
+    dcterms:medium "katoen",
+        "kunststof",
+        "wol" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300209863>,
+        "kostuum (pak)" ;
+    dcterms:title "ETON-PAK" ;
+    ns4:shortDescription """Het type Eton-pak werd oorspronkelijk vanaf 1798 door Engelse schooljongens gedragen en bestond uit een korte jas met een platte kraag en op taillehoogte puntige of naar achter recht gesneden voorpanden, een gilet met enkele knopenrij, en vaak een grijze broek. Oorspronkelijk was de jas blauw of rood, maar vanaf 1820 werd de jas zwart in rouw om koning George III.  
+
+Kenmerkend onderdeel van het pak is de losse, witte gesteven kraag, de zogenaamde Eton kraag. Deze brede kraag wordt omgeslagen over de kraag van de jas gedragen, in tegenstelling tot de rechtopstaande kragen die toen in de mode waren. De kraag werd zo populair dat hij ook bij andere soorten pakken gedragen werd om deze een voorname uitstraling te geven. 
+
+Het Eton-pak kent zijn oorsprong in het schooluniform van Eton College, een prestigieuze privéschool nabij Windsor in Engeland. In de loop der tijd werd het echter ook gedragen door jongens die niet naar deze school gingen. Zo werd het pak een formeel kostuum voor welgeklede Engelse jongens uit de hogere klassen. In de laatste decennia van de twintigste eeuw raakt het Eton-pak uiteindelijk uit de mode.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mpzgsv> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/23607> ;
+    ns2:identifier "ST1342ABCDEFG" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "58017" ;
+    ns2:partNumber "72173" .
+
+<https://heron.libis.be/momu/api/items/15812> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15812 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196924> ;
+    ns1:title "ST2010" ;
+    dcterms:date "1930-1933" ;
+    dcterms:dateSubmitted "2022-06-28" ;
+    dcterms:description "Rijbroek van beige gabardine, gevoerd met gestreepte tijk. Rijgsluiting op de kuit." ;
+    dcterms:extent "hoogte: 99 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mrn8vq> ;
+    dcterms:medium "katoen",
+        "tijk",
+        "wol" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300209935>,
+        "broek" ;
+    ns4:shortDescription <https://library.momu.be/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=694>,
+        """Eeuwenlang werden vrouwen geacht rokken te dragen tijdens het paardrijden. Zij reden op een zijzadel in amazonezit (met beide benen aan één zijde van het paard). Soms droegen zij onder hun rok een broek, maar deze mocht liefst niet gezien worden. Met de groeiende acceptatie en populariteit vanaf de jaren 1910 van schrijlings paardrijden (met één been aan elke kant van het paard) begonnen pionierende vrouwen rijbroeken zónder overrok te dragen.  
+
+Dit type rijbroek wordt ook wel ‘jodhpur’ genoemd. De jodhpur is een tot kuit of enkelhoogte reikende rijbroek, die typisch wijd bij de heupen maar onderaan nauwsluitend is. Dit exemplaar van beige wollen gabardine heeft rijgveters om de pijpen op kuithoogte extra aan te snoeren. De extra ruimte rond het zitvlak zorgt voor meer bewegingsvrijheid en een meer comfortabele zithouding. Een klassieke jodhpur is gemaakt van beige of kakikleurige stof. Vaak is een jodhpur aan de binnenzijde van de knieën verstevigd met een stevig materiaal als leder. 
+
+De jodhpur is vernoemd naar een prinsdom in het noorden van Brits-Indië. Daar was de jodhpur een typisch door mannen gedragen broek. Tijdens een bezoek in 1897 aan Engeland ter gelegenheid van koningin Victoria’s diamanten jubileumviering introduceerde Pratap Singh, een zoon van de maharadja van Jodhpur en fervent polospeler, dit type broek in de westerse wereld van het paardrijden. Tegelijkertijd namen Britse soldaten in India de jodhpur over voor meer koelte. Vanaf de jaren 1920 versterkte een wijdverbreid gebruik door vrijgevochten paardrijdsters het sportieve, modieuze imago van de jodhpur.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mrn8vq> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16786> ;
+    ns2:identifier "ST2010" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "58742" ;
+    ns2:partNumber "72900" .
+
+<https://heron.libis.be/momu/api/items/15864> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15864 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196852> ;
+    ns1:title "ST2053" ;
+    dcterms:creator "AERTEX" ;
+    dcterms:date "1930-1939" ;
+    dcterms:description "Onderbroek, voor een man, van gemaasde ecrukleurige katoen (zogenaamde 'Aertex' techniek). Model met hoge taille en korte pijpen. Aan bovenzijde aan weerszijden richting zijkant een in twee lussen vastgenaaid wit katoenen bandje. Tailleband in een boog breder wordend richting middenvoor. Split middenvoor tot aan kruis. Brede zoom onderaan pijp. Tailleband achterzijde breder wordend richting middenachter. Twee gefestonneerde oogjes aan weerszijden van middenachter waardoor een witte katoenen veter is geregen. Sluiting middenvoor door middel van drie knoopsgaten en knopen (één met wit katoen beklede knoop, twee ontbreken). Kruis gevoerd met dezelfde stof." ;
+    dcterms:extent "hoogte: 44 cm  tailleomvang: 72 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mg1k2p> ;
+    dcterms:medium "katoen" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300220740>,
+        "onderbroek" ;
+    ns4:shortDescription "Aertex is de naam van een losgeweven en lichtgewicht katoenen weefsel dat voornamelijk wordt gebruikt voor ondergoed en sportkleding. De Cellular Clothing Company (ook wel Aertex Company) werd in 1888 opgericht in Manchester, Engeland. Het bedrijf ontwikkelde een speciale techniek om lucht en warmte vast te houden in de ruimtes tussen schering en inslag van het weefsel. Aertex textiel vormde daardoor een beschermende laag rondom het lichaam en was geschikt om zowel in de zomer als in de winter te dragen. Aertex werd gepromoot als innovatieve ‘cellulaire kleding’ voor mannen, vrouwen en kinderen. Zoals op het label van deze onderbroek uit de jaren 1930 te zien is, werd er geclaimd dat het gezond was om kleding gemaakt van Aertex te dragen. Aertex wordt vandaag de dag nog steeds geproduceerd." ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mg1k2p> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/23731> ;
+    ns2:identifier "ST2053" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59019" ;
+    ns2:partNumber "73177" .
+
+<https://heron.libis.be/momu/api/items/15938> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15938 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196447> ;
+    ns1:title "ST2120" ;
+    dcterms:creator "LA BELLE JARDINIÈRE" ;
+    dcterms:date "ca. 1900" ;
+    dcterms:description "Platte pet, behorende tot een uniform, van donkerblauwe lakense wol. Bovenzijde van kap bestaande uit een cirkel van donkerblauw gelakt imitatieleder. Maanvormige klep van idem imitatieleder. Binnenzijde is bekleed met doorgestikte zwarte zijde in keperbinding met fijne streepjes. Goudkleurig strikje aan achterzijde hoofd." ;
+    dcterms:extent "diameter kap: 18 cm  hoogte: 10 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mxpp25> ;
+    dcterms:medium "bedrukking",
+        "imitatieleder",
+        "katoen",
+        "kunststof",
+        "laken",
+        "wol",
+        "zijde" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046094>,
+        "pet" ;
+    ns4:shortDescription """À La Belle Jardinière was een Franse keten van modepaleizen die in de negentiende eeuw als een van de eerste in zijn soort ontstond. Fourniturenhandelaar Pierre Parissot opende de eerste zaak in 1824 in Parijs vlakbij de Bloemenmarkt, en gaf het de wellicht daarnaar verwijzende naam La Belle Jardinière.  
+
+Parissot verkocht massa geproduceerde confectiekleding tegen vaste, lage prijzen, aan een clientèle uit de middenklasse en arbeidersklasse (arbeiders, ambachtslieden en kooplieden). De kleding werd in ateliers bovenin de warenhuizen gemaakt. Deze productie- en verkoopstrategie was nieuw en bleek een groot succes. Al gauw werden er nieuwe vestigingen geopend in andere Franse steden. 
+
+La Belle Jardinière verkocht uniformen aan scholen, en tijdens de Eerste Wereldoorlog uniformen aan Franse en geallieerde officieren. Bij La Belle Jardinière kon men tevens terecht voor werkkledij en uniformen voor allerlei beroepen: van bakkers, kruideniers en slagers, tot chauffeurs en bezorgers. Deze platte pet met klep is waarschijnlijk onderdeel geweest van een uniform van iemand werkzaam in de dienstensector. 
+
+Vanaf de jaren 1950 gaat het bergafwaarts met de keten, die moet concurreren met een groeiende concurrentie van goedkope confectiewinkels. In 1972 stopte het warenhuis zijn activiteiten.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mxpp25> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/23664> ;
+    ns2:identifier "ST2120" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59132" ;
+    ns2:partNumber "73290" .
+
+<https://heron.libis.be/momu/api/items/15950> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15950 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196738> ;
+    ns1:title "ST2133" ;
+    dcterms:creator "LIVE INS" ;
+    dcterms:date "1970-1979" ;
+    dcterms:description "Spijkerbroek, zogenaamde type bell-bottoms, van donkerblauwe katoenen spijkerstof. Tailleband van dezelfde stof met riemlusjes. Aan de voorzijde op heuphoogte versierd met machinaal geborduurde gestileerde bloemen in gele, groene en paarse katoen. Lange, vanaf de knie wijd uitlopende pijpen. Twee opgestikte zakken op het achterwerk. Sluiting middenvoor door middel van twee paarse plastic knopen (één knoop ontbreekt en één is vervangen door een zwarte plastic knoop) en een grote metalen drukknoop bovenaan." ;
+    dcterms:extent "hoogte: 106 cm  tailleomvang: 66 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mcrjk9> ;
+    dcterms:medium "katoen",
+        "keperbinding",
+        "kunststof",
+        "machinaal borduurwerk" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300209918>,
+        "jeansbroek" ;
+    ns4:shortDescription """Broeken als dit exemplaar, strak op de bovenbenen met onderaan uitlopende pijpen, worden ook wel ‘bell-bottoms’ (bell = klok) genoemd. Oorspronkelijk waren dergelijke aan de onderzijde klokvormige broeken een kenmerkend onderdeel van het uniform van negentiende-eeuwse matrozen. Dit type broek werd echter modieus tijdens het hippie-tijdperk halverwege de jaren 1960 tot en met de jaren 1970. Jongeren begonnen zich in de jaren 1960 te verzetten tegen de gevestigde orde, de heersende consumptiemaatschappij en de oorlog in Vietnam. Een wijze van protest was dat zij hun eigen kleding maakten of tweedehands kochten, bijvoorbeeld uit winkels die overstock van het leger verkochten. Door deze militaire kledingstukken te vermaken en versieren, bijvoorbeeld met vredestekens of geborduurde bloemen, gaven zij uiting aan hun verzet tegen de oorlog in Vietnam.  
+
+Broeken als dit van spijkerstof gemaakte en met bloemen geborduurde exemplaar van het Amerikaanse denim merk ‘Live Ins’, bovenaan hoge en strak, en vanaf de dij, knie of kuit wijd uitlopend, waren destijds een grote afwijking van de gangbare mode van rechte broeken. Bell-bottoms werden populair gemaakt door muzikale sterren als Jimi Hendrix, Mick Jagger van de Rolling Stones, en het duo Sonny en Cher. Een vergelijkbaar model dat nog wijder vanaf dij of knie uitliep, was de ‘elephant bells’, in het Nederlands ook wel ‘broek met olifantenpijpen’ genoemd. Aan het einde van de jaren 1970, met de opkomst van de punk cultuur waarin nauwsluitende, rechte of taps toelopende broeken de mode werden, raken bell-bottoms uit de mode.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mcrjk9> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16780> ;
+    ns2:identifier "ST2133" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59297" ;
+    ns2:partNumber "73455" .
+
+<https://heron.libis.be/momu/api/items/15959> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15959 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196882> ;
+    ns1:title "ST2140" ;
+    dcterms:creator "NIVOSE" ;
+    dcterms:date "ca. 1965" ;
+    dcterms:description "Skibroek van zwarte gekeperde kunstvezel en wol mix. Lang model met elastiek onder de voeten. Hoge taille, met tailleband met twee riemlussen aan de voorzijde. Verticale steekzak met metalen ritssluiting links en rechts op de voorpanden op heuphoogte. Twee plooien links en rechts van middenvoor, waarvan telkens één van bovenaan in een scherpe vouw over de pijp naar beneden loopt. Smalle, taps toelopende pijp, met twee splitten onderaan bij de enkel en twee elastieken banden voor onder de voet. Achterzijde tailleband met twee riemlussen, en vier figuurnaden onder de tailleband. Sluiting in beide zijnaden van taille tot heup door middel van een metalen rits en een flap in de tailleband die met een knoopsgat over een zwarte plastic knoop wordt gehaald. Binnenzijde tailleband verstevigd met ecrukleurig ripsband waardoor elastiek is geregen (elastiek verdroogd en verkruimeld). Zakvoering van lichtblauwe katoen." ;
+    dcterms:extent "hoogte: 95 cm  tailleomvang: 66 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mm90bs> ;
+    dcterms:medium "kunstvezel",
+        "metaal",
+        "plastic",
+        "ripsband",
+        "wol" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300209935>,
+        "broek" ;
+    ns4:shortDescription """Onder invloed van onder meer sociale wetten en tijdbesparende technologieën in verschillende industrieën, wordt aan het begin van de twintigste eeuw het bedrijven van een sport voor meer mensen een optie. Sport is niet langer enkel voor de elite met zeeën van tijd en geld. Ook mensen uit andere sociale klassen hebben door ingekorte arbeidsuren en betere lonen meer tijd en geld over om te sporten en sportkledij en uitrusting kopen. 
+
+Skiën is al vanaf de negentiende eeuw een groeiend populaire wintersport, maar dan voornamelijk voor de gegoede elite. Vanaf de jaren 1930 komt skiën als een vorm van wintervermaak in de mode onder een grotere laag van de bevolking. Vrouwen- en modetijdschriften tonen de laatste trends op gebied van modieuze skikleding en bijpassende accessoires. Deze aandacht zorgt op zijn beurt voor een groeiende belangstelling om ‘s winters te gaan skiën. Halverwege de twintigste eeuw zorgen innovaties in zowel de materialen als het vervaardigen van skiuitrusting en -vervoer voor steeds meer skicomfort. Ook skikleding maakt een ontwikkeling door: van wollen skijassen en -broeken, naar skikleding gemaakt van kunstvezel die een grotere rekbaarheid heeft en waterdicht is. 
+
+Deze skibroek van zwarte kunstvezel/wol is gemaakt door het nog steeds bestaande Franse merk Nivose in Lyon in de Franse Alpen. Nivose maakt sinds 1933 modieuze winterkleding onder het motto: “le vêtement chic du vrai skieur” (“deftige kleding voor de echte skiër”). De taps toelopende broekpijpen worden op de plaats gehouden door twee elastieken banden onder de voet. Hierover worden skischoenen gedragen. Hoewel skibroeken met band onder de voet in wollen uitvoering al sinds het einde van de jaren 1930 gedragen werden, wordt dit sluik model in stretchstof vooral modieus in de jaren 1960 en 1970.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mm90bs> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16786> ;
+    ns2:identifier "ST2140" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59304" ;
+    ns2:partNumber "73462" .
+
+<https://heron.libis.be/momu/api/items/15966> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15966 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196741> ;
+    ns1:title "ST2148" ;
+    dcterms:date "1850-1900" ;
+    dcterms:dateSubmitted "2022-06-28" ;
+    dcterms:description "Pyjamajasje, voor een man, van lichtbeige katoenen popeline met fijne donkerbeige strepen. Ingezette rechte lange mouwen. Brede omgeslagen hemdkraag. Eén borstzak en twee opgestikte zakken aan de voorzijde. Sluit middenvoor met een parelmoeren knoopje in de hals en drie paar wit en blauw geborduurde brandebourgs, waarvan de knopen ontbreken." ;
+    dcterms:extent "hoogte: 78 cm  schouderbreedte (rug): 38 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mq2c1t> ;
+    dcterms:medium "katoen",
+        "parelmoer",
+        "passement",
+        "popeline" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject "pyjamajasje" ;
+    ns4:shortDescription """‘Brandebourg’ is de naam voor een type houtje-touwtjesluiting gebruikt op heren- en dameskleding. Deze tweedelige sluiting bestaat uit ornamentele lussen in passement, waarvan de ene zijde wordt bevestigd rond een knoop in vlechtwerk of koord aan de andere zijde. Brandebourgs werden vaak gemaakt van goud- of zijdedraad. Oorspronkelijk was deze sluiting een onderdeel van de militaire kleding in Brandenburg, een deelstaat van het Pruisische Rijk.  
+
+In oorsprong komt de term van een zeventiende-eeuwse lange losse overjas, ook Brandenburg genaamd, die versierd is met de typische koordversieringen en van goud- of zijdedraad gemaakte knopen. Vanaf het midden van de achttiende eeuw verwijst de term brandebourg naar de rijkelijk versierde sluiting, die onder meer voorkomt op mantels, ochtend- en nachtkleding zoals dit pyjamajasje.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mq2c1t> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P54_has_current_permanent_location <https://heron.libis.be/momu/api/items/16773> ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16773> ;
+    ns2:identifier "ST2148" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59313" ;
+    ns2:note "Pattern-a-thon" ;
+    ns2:partNumber "73471" .
+
+<https://heron.libis.be/momu/api/items/15992> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 15992 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196513> ;
+    ns1:title "ST2174" ;
+    dcterms:creator "BIBA" ;
+    dcterms:date "1966-1974" ;
+    dcterms:description "Blouse van lichtroze kunstzijden satijn. Plat kraagje van dubbele stof. Opgestikte schouderpas die aan het achterpand aangerimpeld is vastgezet. Korte, aangerimpelde mouwen, met aangestikte en omgeslagen manchetten. Figuurnaden op de borst vanuit de zijnaden. De blouse is getailleerd en heeft een aangestikt schootje van dezelfde stof aan de twee voorpanden en het achterpand. Sluitend middenvoor door middel van tien stofknopen (twee ontbreken, één los)." ;
+    dcterms:extent "hoogte: 58 cm  schouderbreedte: 35 cm  tailleomvang: 70 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mvmd1m> ;
+    dcterms:medium "kunstzijde",
+        "satijnbinding" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046133>,
+        "blouse" ;
+    ns4:shortDescription "Modewinkel Biba was een begrip in het Londen van de jaren 1960 en de vroege jaren 1970. De van oorsprong Poolse ontwerpster Barbara Hulanicki ontwierp jeugdige looks die betaalbaar waren voor jonge, werkende vrouwen en studentes. Haar voor de Swinging Sixties typische ontwerpen, zoals ultrakorte minijurken, legden het accent op de benen van de draagster. Hulanicki haalde haar inspiratie uit de kledingstijlen van vervlogen tijden. Het aangestikte, uitlopende schootje (Engels: peplum) van deze lichtroze blouse legt het accent niet op de benen maar op de heupen, en verwijst naar modieuze silhouetten uit de jaren 1940." ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mvmd1m> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16767> ;
+    ns2:identifier "ST2174" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59470" ;
+    ns2:partNumber "73628" .
+
+<https://heron.libis.be/momu/api/items/16009> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16009 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196927> ;
+    ns1:title "ST2191" ;
+    dcterms:date "ca. 1990" ;
+    dcterms:description "Jasje, zogenaamde type safari-jasje of saharienne, van crèmekleurige katoen. Omgevouwen kraag. Beleg op de schouders, als een epaulet, van dezelfde katoen, met een knoopsgat en een witte plastic knoop. Ingezette rechte lange mouwen, met split bij de polsen. Rechte manchet met twee knoopsgaten en één witte plastic knoop. Schouderpas tot halverwege de borst. Opgestikte zak met stolpplooi links en rechts op de borst, met een klep die sluit door middel van een knoopsgat en een witte plastic knoop. Opgestikte tailleband van dezelfde stof. Grotere opgestikte zak met stolpplooi links en rechts de heupen, met een klep die sluit door middel van een knoopsgat en een witte plastic knoop. Naar binnen omgeslagen en vastgestikte zoom. Twee zijpanden. Schouderpas met daaronder twee rugpanden. Vastgestikte tailleband, en split in de rugpanden tot onderaan de zoom, waarbij het linkerpand iets over het rechterpand valt. Sluiting middenvoor van hals tot iets onder de tailleband door middel van vijf knoopsgaten en vijf witte plastic knopen. Zonder voering. Verstevigd en versteld op twee plaatsen op rechter voor- en zijpand bij de zak." ;
+    dcterms:extent "hoogte: 75 cm  schouderbreedte: 41 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mxd2bc> ;
+    dcterms:medium "katoen",
+        "kunststof",
+        "platbinding" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046167>,
+        "vest" ;
+    ns4:shortDescription """Het safari-jasje kent zijn oorsprong in de negentiende-eeuwse koloniale expedities naar voornamelijk India en Oost-Afrika. De kleding van Europeanen moest worden aangepast aan de tropische temperaturen: luchtig, stevig en lichtgewicht was het devies. Safari-jasjes werden gedragen met hemd, een broek van stevig katoen, en laarzen met lederen of stoffen beenwindsels. Een tropenhelm beschermde tegen de felle zon. Vaak waren al deze kledingstukken en accessoires uitgevoerd in lichte kleuren zoals beige en kaki. Kenmerkend voor safari-jasjes zijn de epauletten op de schouders, een geïntegreerde tailleband met vaak een ceintuur van dezelfde stof, een split middenachter op de rug die zorgt voor meer bewegingsruimte, en ruime, opgestikte klepzakken met plooi die sluiten met een knoop.  
+
+Vanaf de jaren 1930 maakte safarikleding een doorbraak naar de mode. Een grote invloed was tevens het uitkomen van Hollywoodfilms in de jaren 1940 en 1950 die gesitueerd waren in Afrika. De hoofdrollen hierin waren weggelegd voor de grootste filmsterren van die tijd, zoals Douglas Fairbanks Jr. in de film ‘Safari’ (1940) en Clark Gable in de film ‘Mogambo’ (1953). 
+
+Hoewel oorspronkelijk een kledingstuk voor mannen werd het safari-jasje later ook door vrouwen gedragen. Belangrijk hierin was de rol van modeontwerper Yves Saint Laurent, die in 1967 een safari-jasje op de Parijse catwalk introduceerde. Vanaf 1969 was een ready-to-wear versie van dit jasje te koop in zijn Saint Laurent Rive Gauche boetiek. De safari-look bleek een groot succes in de jaren 1970.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mxd2bc> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16777> ;
+    ns2:identifier "ST2191" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59489" ;
+    ns2:partNumber "73647" .
+
+<https://heron.libis.be/momu/api/items/16016> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16016 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196528> ;
+    ns1:title "ST2198" ;
+    dcterms:date "1900-1909" ;
+    dcterms:description "Regenjas, zogenaamde type trenchcoat, voor een man, van beige katoenen popeline. Omgevouwen puntige kraag. Lange rechte raglanmouwen, bestaande uit twee panden. Op de polsen drie riemlusjes waardoor een riempje van dezelfde stof is gehaald met vijf metalen nestelringen en een met bruin leder bekleed metalen gespje. Flap, zogenaamde stormflap, op de rechterschouder, met een knoopsgat en een plastic schildpad imitatie knoop. Riemlussen op elke zij (riem ontbreekt). Verticale zak op iedere heup, met knoopsgat en plastic knoop, die naar een opgestikte zak aan de binnenzijde van de jas op de voering leidt. Flap met twee knoopsgaten aan achterzijde van de nek, die aan twee paar plastic knoopjes kan worden bevestigd aan de achterzijde, en zo om de voorzijde van de hals kan worden geslagen. Twee achterpanden, met een split middenachter vanaf het achterwerk tot de onderzijde. Deze wordt halverwege bijeengehouden door een knoopsgat op het rechter achterpand en een plastic knoop aan de binnenzijde van het linker achterpand.  Sluiting (double breasted) links en rechts van middenvoor door middel van twee keer vijf knoopsgaten en twee keer vijf grote plastic knopen. Aan de binnenzijde langs de openingen en in de nek totaal dertien bruine plastic knopen. Voering van katoenen changeant met rode en groene draad, en tussenvoering van grof geweven wit (verkleurd) katoen. Ophanglusje aan achterzijde halsopening." ;
+    dcterms:extent "hoogte: 120 cm  schouderbreedte: 62 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/m15f0n> ;
+    dcterms:medium "katoen",
+        "keperbinding",
+        "leder",
+        "metaal",
+        "plastic",
+        "popeline" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300209850>,
+        "regenjas" ;
+    ns4:shortDescription """Een trenchcoat is een type uniseks, lichtgewicht, waterdichte overjas. Twee bekende Engelse fabrikanten van luxe outdoor kledij claimen de trenchcoat te hebben uitgevonden: Aquascutum (opgericht in 1851) en Burberry (opgericht in 1856). 
+
+Tijdens de Eerste Wereldoorlog werd de overjas aangepast voor gebruik door Britse officieren in de loopgraven. Hierdoor kreeg dit type jas de naam trenchcoat (trench = loopgraaf). De karakteristieke “storm flap” (ook wel “gun flap”) op de rechterschouder zorgt voor ventilatie.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/m15f0n> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16782> ;
+    ns2:identifier "ST2198" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59496" ;
+    ns2:partNumber "73654" .
+
+<https://heron.libis.be/momu/api/items/16020> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16020 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196507> ;
+    ns1:title "ST2203" ;
+    dcterms:date "1937-1948" ;
+    dcterms:description "Jurk van zwart zijden satijn. Nauwsluitend model met diepe V-hals die afgezet is met een band van zwart zijden fluweel. Grote schoudervullingen van witte, opgevulde katoen. Aan de voorkant aangeknipte, rechte lange mouwen met een manchet sluitend met vijf stofknopen en lusjes. De mouwen zijn aangerimpeld op borsthoogte. Spie aan onderzijde armstgat. De jurk is langs middenvoor- en middenachterlijn sterk ingerimpeld en gedrapeerd. Twee gedrapeerde zakken op heuphoogte die afgezet zijn met een band zwart fluweel en doorlopen tot aan de zij. Stolpplooi middenvoor vanaf ritssluiting naar zoom. Sluitend middenvoor door middel van een zwarte metalen rits (20cm) vanaf punt V-hals tot op taillehoogte." ;
+    dcterms:extent "hoogte: 119 cm  schouderbreedte: 35 cm  tailleomvang: 64 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mh70xw> ;
+    dcterms:medium "fluweel",
+        "metaal",
+        "satijnbinding",
+        "zijde" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046159>,
+        "jurk" ;
+    ns4:shortDescription """Niet verstopt in zijnaad of op de rug, maar middenvoor en zichtbaar aanwezig: een lange metalen rits. Deze sluitingsvorm heeft dan een hele ontwikkeling doorgemaakt om zo’n prominente plek in te nemen als in deze zwarte jurk uit de periode 1937-1948. 
+
+De eerste voorloper van de rits werd in 1893 in de Verenigde Staten gepatenteerd, waarna dit ontwerp gedurende de eerste twee decennia van de twintigste eeuw verder zal verfijnd worden. Het zal echter nog even duren vooraleer de rits op grote schaal zal gebruikt worden. 
+
+Een vroege toepassing van ritsen is militair: tijdens de Eerste Wereldoorlog maakt de rits deel uit van de uitrusting van het Amerikaanse leger. In de tweede helft van de jaren ‘20 worden ritsen vaker functioneel toegepast in kinder- en herenkleding. Dameskleding blijft achter, al is de rits wel aanwezig in accessoires als handtassen en overschoenen.  
+
+Dit verandert als de Engels-Amerikaanse couturier Charles James in 1929 zijn ‘Taxi’ jurk ontwerpt. Essentieel onderdeel van dit ontwerp is de lange rits die zichtbaar in een spiraal rondom het lichaam is ingezet. Ook modeontwerpster Elsa Schiaparelli gebruikt voor avondjurken uit haar wintercollectie voor 1935-1936 gekleurde ritsen van het dan nieuwe en zeer modieuze materiaal plastic. De ritssluiting is voortaan niet louter functioneel, maar mag ook decoratief en prominent aanwezig rondom halslijnen, op schouders en op heupen.  
+
+Hoewel de kleur van de metalen ritssluiting haast wegvalt tegen het gefronselde zwarte zijdesatijn van deze jurk, is deze, in de geest van James’ en Schiaparelli’s modeontwerpen, niet enkel functioneel maar een ware blikvanger.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mh70xw> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16780> ;
+    ns2:identifier "ST2203" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59501" ;
+    ns2:partNumber "73659" .
+
+<https://heron.libis.be/momu/api/items/16030> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16030 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196714> ;
+    ns1:title "ST2208" ;
+    dcterms:creator "LEVI STRAUSS & CO" ;
+    dcterms:date "1962-1971" ;
+    dcterms:description "Spijkerjasje van lichtblauwe spijkerstof. Kort model met opstaande hemdkraag. Lange ingezette mouwen met een rechte manchet die sluit door middel van een koperkleurige metalen knoop. Schouderpas, twee opgestikte borstzakken met klep en een metalen knoop. De voorpanden bestaan uit drie delen met verticale doorgestikte naden. Het spijkerjasje eindigt in de taille met een tailleband. Achterpand bestaande uit drie panden met verticale doorgestikte naden. Aan de achterzijde is de tailleband aan weerszijden verstelbaar door middel van een band en twee metalen knopen. Sluiting aan de voorzijde door middel van zes metalen knopen." ;
+    dcterms:extent "hoogte: 58 cm  schouderbreedte: 41 cm  mouwlengte: 64 cm  tailleomvang: 81 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mvhhsq> ;
+    dcterms:medium "katoen",
+        "keperbinding",
+        "metaal" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046167>,
+        "vest" ;
+    ns4:shortDescription """De Duits-Joodse immigrant Levi Strauss opent in 1853 een groothandel in kruidenierswaren en textiel in San Francisco. Een klant van Strauss, kleermaker Jacob Davis, ontdekt onder arbeiders een nood aan stevige werkkleding die tegen een stootje kan. Hij komt op het idee om de zwakke punten van werkbroeken, zoals de naden, hoeken van zakken en onderaan de gulp, te verstevigen met klinknagels (dit zijn metalen pennen met een soort spijkerkop). Davis gebruikt voor het maken van zijn nieuwe ontwerp werkbroek een stevige spijkerstof die hij bij Strauss gekocht heeft. Dit ontwerp blijkt een succes, maar om een patent aan te vragen heeft hij een zakenpartner nodig. Davis stuurt zijn voorstel naar Levi Strauss, die het potentieel inziet en met hem in zee gaat. In 1873 wordt hun patent op met klinknagels verstevigde werkkleding verleend.  
+
+De firma Levi Strauss & Co. maakte hun eerste kledingstukken, overalls, uit een stevige katoenen stof genaamd denim. Deze term verwijst naar de Franse stad Nîmes, waar al in de zeventiende eeuw een stevig (weliswaar wollen) textiel in keperbinding (Frans: serge) werd geweven. De naam ‘serge de Nîmes’ werd in de loop der tijd verbasterd tot denim. Denim was een veelgebruikt textiel voor werkkleding. In de loop der tijd werd dit weefsel ook in katoen uitgevoerd, waarbij de kettingdraden met indigo blauwkleurig geverfd werden en de inslagdraden ongebleekt katoen waren.  
+
+Vanuit hun oorsprong als werkkledij ontwikkelden Levi Strauss’ kledingstukken zich in de tweede helft van de twintigste eeuw tot modieuze stijlen en onderdeel van de mainstream mode. Een van de bekendste modellen dat het bedrijf sinds 1873 maakt is de Levi’s 501 spijkerbroek. Deze werd oorspronkelijk ontworpen als overall maar sindsdien werd het model meerdere keren aangepast. Een ander bekend ontwerp is dit spijkerjasje, dat door Levi’s in 1962 werd geïntroduceerd. Het modelnummer is 557XX, maar het staat bekend als ‘Type III’. Het was de opvolger van twee modellen die Levi’s eerder op de markt bracht, ‘Type I’ (gedateerd 1905-1953) en Type II (gedateerd 1953-1962). Deze jasjes werden gemaakt van een extra zware en stevige kwaliteit spijkerstof.  
+
+Dit exemplaar dateert uit de periode 1962-1971. Dit is te zien aan het kleine label naast de borstzak, waarop het woord ‘LEVI’S’ met een grote letter E gespeld staat. Dit staat onder verzamelaars van vintage Levi’s bekend als de ‘Big E’. Vanaf 1971 verandert dit en wordt het met een kleine letter e gespeld: ‘LeVI’S’. De ‘Big E’ Levi’s zijn dus ouder en zeer gewild onder verzamelaars. Wat dit exemplaar verder bijzonder maakt is de kleur van het kleine label: wit. De kleine labels naast broek- of jaszakken werden in 1936 door Levi’s geïntroduceerd en zijn meestal rood, maar werden ook in andere kleuren zoals zwart en oranje gemaakt. De witte labels werden door Levi’s enkel in de jaren 1960s en 1970s gemaakt, vooral voor van corduroy gemaakte kledingstukken en ‘Levi’s for Gals’: een kledinglijn voor vrouwen. Dit denim jasje is echter een ‘slim fit’ model voor mannen.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mvhhsq> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16767> ;
+    ns2:identifier "ST2208" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59506" ;
+    ns2:partNumber "73664" .
+
+<https://heron.libis.be/momu/api/items/16076> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16076 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196579> ;
+    ns1:title "ST2244" ;
+    dcterms:date "ca. 1900" ;
+    dcterms:description "Kinderschort, of overgooier, voor een (school)kind van ca. tien jaar, van katoen met witte schering en blauwe inslag. Ronde kraagloze halslijn, versierd met borduursel in wit katoenen dubbele taksteek. Ingezette lange, rechte mouwen, aangerimpeld bij de pols. Manchet versierd met borduursel en sluitend met twee witte parelmoeren knopen en gehaakte lusjes. Schouderpas aan voor- en achterzijde langs de onderzijde versierd met borduursel in dubbele taksteek. Daaronder is de rok in tien platte plooien aangestikt. Een ceintuur van dezelfde stof versierd met idem borduursel is vastgestikt op de taille, sluitend op de rug door middel van twee witte parelmoeren knopen en lusjes. De rok heeft een brede zoom versierd met borduursel. Geheel open langs middenachter, en geplooid op beide achterpanden. Sluit middenachter door middel van drie witte parelmoeren knopen vanaf de hals tot onderzijde schouderpas." ;
+    dcterms:extent "hoogte: 77,5 cm  schouderbreedte: 31 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mqjq7f> ;
+    dcterms:medium "borduurwerk",
+        "haakwerk",
+        "katoen",
+        "parelmoer",
+        "platbinding" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046131>,
+        "schort" ;
+    ns4:shortDescription """Bij het maken van dit kinderschort voor alledaags gebruik is rekening gehouden met duurzaamheid. Het is namelijk op de groei gemaakt. Als je goed kijkt, zie je dat de zoom onderaan de schort een keer werd uitgelegd om het een stukje langer te maken. Iets boven de nieuwe zoomlijn zie je nog de gaatjes die de naald maakte, resten van draad, en verkleuring door het licht. Ook de versiering in dubbele taksteek werd uitgehaald en opnieuw geborduurd.  
+
+Bovendien is aan de binnenzijde van de schort te zien dat de stof zo voordelig en zuinig mogelijk werd geknipt. De zijnaden bestaan uit de zogenaamde “zelfkanten” van de stof (dat wil zeggen: de uiterste zijkanten in lengterichting). De zelfkant van een weefsel is stevig en heeft bovendien geen verdere afwerking nodig.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mqjq7f> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P54_has_current_permanent_location <https://heron.libis.be/momu/api/items/16773> ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16765> ;
+    ns2:identifier "ST2244" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59575" ;
+    ns2:partNumber "73733" .
+
+<https://heron.libis.be/momu/api/items/16090> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16090 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196492> ;
+    ns1:title "ST2253" ;
+    dcterms:date "1945" ;
+    dcterms:dateSubmitted "2022-06-28" ;
+    dcterms:description "Jurk van witte katoen met blauwe en roze ruiten." ;
+    dcterms:extent "hoogte: 100 cm  schouderbreedte: 36 cm  tailleomvang: 62 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/mjwt0r> ;
+    dcterms:medium "borduurwerk",
+        "katoen",
+        "platbinding" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046159>,
+        "jurk" ;
+    ns4:shortDescription """Een geruite katoenen jurk van een meisje of jonge vrouw met de initialen “J.B.”. Als je goed kijkt een voorbeeld van spaarzaamheid. Tijdens en net na de Tweede Wereldoorlog is textiel namelijk moeilijk te verkrijgen. Kleding is duur en “op de bon”: een nieuw kledingstuk kan enkel worden aangeschaft bij inlevering van op rantsoen gestelde textielbonnen. Zuinig omspringen met de eigen kledij is van groot belang.  
+
+De stof van deze katoenen jurk is op verschillende plaatsen nauwkeurig met de hand doorgestopt. Een eenvoudige manier om de plaatselijk fragiel geworden stof te verstevigen. Zo blijft een kostbaar kledingstuk langer draagbaar.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mjwt0r> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P54_has_current_permanent_location <https://heron.libis.be/momu/api/items/16774> ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16774> ;
+    ns2:identifier "ST2253" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59584" ;
+    ns2:partNumber "73742" ;
+    ns2:subject <http://vocab.getty.edu/aat/300209263> .
+
+<https://heron.libis.be/momu/api/items/16099> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16099 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196603> ;
+    ns1:title "ST2262" ;
+    dcterms:date "1920-1925" ;
+    dcterms:dateSubmitted "2022-06-28" ;
+    dcterms:description "Jurk, type robe de style, van blauw-groene changeant tafzijde." ;
+    dcterms:extent "hoogte: 118 cm  schouderbreedte: 40 cm" ;
+    dcterms:identifier <http://data.momu.be/item/id/md51j0> ;
+    dcterms:medium "taf" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046159>,
+        "jurk" ;
+    ns4:shortDescription """Bij de jaren 1920 denkt men al gauw aan de typische met pailletten en kralen versierde, tuniekachtige jurken met een verlaagde taille. In sterk contrast tot dit archetype, staat deze blauwgroene jurk gemodelleerd naar het type robe de style. Dit is de Franse term voor een silhouet uit de jaren 1920 dat wordt geassocieerd met de Parijse modeontwerpster Jeanne Lanvin (1867-1946). Kenmerkend voor Lanvin’s robe de style zijn nauwsluitende lijfjes, een taillelijn die verlaagd is tot onder de natuurlijke taille, en volle rokken die tot kuit of enkels reiken. Lanvin greep hiermee terug op het silhouet van japonnen gedragen aan het achttiende-eeuwse Franse hof.  
+
+Deze jurk uit de periode 1920-1925 is gemaakt van een zogeheten changeant tafzijde. De schering- en inslagdraden van dit type weefsel bestaan uit contrasterende kleuren blauwgroen en paars, wat vanuit verschillende invalshoeken een wisselend kleureffect geeft. De binnenkant is gevoerd met crèmekleurige zijde. De jurk heeft een ronde, gefronselde halsopening en aan de onderzijde licht poffende mouwen. Een gefronselde tafzijden rozet met daardoorheen een lange strook van hetzelfde materiaal legt het accent op de verlaagde taille. De jurk is middenachter op de rug versierd met decoratieve knoopjes, en sluit met metalen haken en ogen en drukknopen.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/md51j0> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16784> ;
+    ns2:identifier "ST2262" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "59593" ;
+    ns2:partNumber "73751" .
+
+<https://heron.libis.be/momu/api/items/16148> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16148 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196597> ;
+    ns1:title "ST2201" ;
+    dcterms:creator "ADOLPHE LAFONT" ;
+    dcterms:date "1970-1979" ;
+    dcterms:dateSubmitted "2022-06-28" ;
+    dcterms:description "Stofjas van kakikleurige gekeperde katoen. Wijd model met lange mouwen. Platte kraag met revers." ;
+    dcterms:identifier <http://data.momu.be/item/id/mfttkv> ;
+    dcterms:medium "katoen",
+        "metaal" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300216842>,
+        "stofjas" ;
+    ns4:shortDescription """Een stofjas is een type werkjas die over de eigen kleding wordt gedragen. Zo blijft deze beschermd tegen stof en vuil. Dergelijke stofjassen worden in verschillende beroepen gebruikt, van winkels, kantoorruimtes tot in fabrieken.  
+
+Adolphe Lafont is een bekende Franse fabrikant van werkkleding. In 1844 opende Louis Lafont een stoffenwinkel met confectieatelier in Lyon. Zijn kleinzoon Adolphe nam in 1896 de zaak over en registreerde ‘Adolphe Lafont’ als een van de eerste merken voor werkkleding in Frankrijk. Tevens opende hij een winkel voor werkkleding in Parijs. Een bekend product van Lafont zijn de salopettes en overalls.  
+
+Hoewel ontworpen als werkkleding, is in deze jas van kakikleurig gekeperd katoen nog nooit gewerkt – hij is nog splinternieuw. Zelfs het label van de maker is nog aan de jas bevestigd.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mfttkv> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16778> ;
+    ns2:identifier "ST2201" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:partNumber "74041" .
+
+<https://heron.libis.be/momu/api/items/16157> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 16157 ;
+    ns1:media <https://heron.libis.be/momu/api/media/196429> ;
+    ns1:title "ST2014" ;
+    dcterms:date "1930-1959" ;
+    dcterms:dateSubmitted "2022-06-28" ;
+    dcterms:description "Jurk, daagse jurk of werkjurk." ;
+    dcterms:identifier <http://data.momu.be/item/id/mjm68z> ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046159>,
+        "jurk" ;
+    ns4:shortDescription """Deze daagse huis- of werkjurk van bedrukt katoen is nog ongedragen. Het papieren etiket geeft inzicht in waar dit kledingstuk gekocht is: de Grand Magasins À Saint-Jacques te Reims.  
+
+Aan het begin van de jaren 1920 fuseren twee grote warenhuizen in Reims, La Samaritaine en À la Tour Saint-Jacques, onder de naam À Saint-Jacques. In deze nieuwe zaak in de Rue de Vesle verkoopt men voornamelijk dames- en kinderkleding. Tevens zijn er zijn verstelateliers, en klanten kunnen er terecht voor stoffen, interieurtextiel en een grote verscheidenheid aan accessoires. In een bijgebouw wordt heren-, jongens-, en werkkleding verkocht. De winkel wordt uiteindelijk in 1971 overgenomen door de Britse keten Marks & Spencer.  
+
+Ruimvallende jurken zoals dit exemplaar werden door vrouwen binnenshuis over de eigen kleding gedragen om deze te beschermen tijdens het (huishoudelijk) werk. De taille wordt bijeengehouden met een ceintuur, en de jurk heeft praktische ruime zakken. Door de knopen langs de gehele voorkant is de jurk snel uit te trekken indien er bezoek komt en men er deftig uit wil zien. Het is onzeker waarom deze jurk nooit gedragen is. Mogelijk komt de jurk uit een onverkochte winkelvoorraad van À Saint-Jacques.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mjm68z> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16776> ;
+    ns2:identifier "ST2014" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "60190" ;
+    ns2:partNumber "74348" .
+
+<https://heron.libis.be/momu/api/resources/14456> ns1:title "ST80186" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/14457> ns1:title "ST80187" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/14458> ns1:title "ST80188" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/14459> ns1:title "ST80189" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/14460> ns1:title "ST80204" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/14461> ns1:title "ST80205" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/14462> ns1:title "ST80206" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/14463> ns1:title "ST80207" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/14464> ns1:title "ST80208" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14455> .
+
+<https://heron.libis.be/momu/api/resources/15148> ns1:title "ST651" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14993> .
+
+<http://data.momu.be/ark:34546/m15f0n> ns1:label "ark:34546/m15f0n" .
+
+<http://data.momu.be/ark:34546/mcrjk9> ns1:label "ark:34546/mcrjk9" .
+
+<http://data.momu.be/ark:34546/md51j0> ns1:label "ark:34546/md51j0" .
+
+<http://data.momu.be/ark:34546/mfqzbw> ns1:label "ark:34546/mfqzbw" .
+
+<http://data.momu.be/ark:34546/mfttkv> ns1:label "ark:34546/mfttkv" .
+
+<http://data.momu.be/ark:34546/mg1k2p> ns1:label "ark:34546/mg1k2p" .
+
+<http://data.momu.be/ark:34546/mghx88> ns1:label "ark:34546/mghx88" .
+
+<http://data.momu.be/ark:34546/mh70xw> ns1:label "ark:34546/mh70xw" .
+
+<http://data.momu.be/ark:34546/mjm68z> ns1:label "ark:34546/mjm68z" .
+
+<http://data.momu.be/ark:34546/mjwt0r> ns1:label "ark:34546/mjwt0r" .
+
+<http://data.momu.be/ark:34546/mm90bs> ns1:label "ark:34546/mm90bs" .
+
+<http://data.momu.be/ark:34546/mpzgsv> ns1:label "ark:34546/mpzgsv" .
+
+<http://data.momu.be/ark:34546/mq2c1t> ns1:label "ark:34546/mq2c1t" .
+
+<http://data.momu.be/ark:34546/mqjq7f> ns1:label "ark:34546/mqjq7f" .
+
+<http://data.momu.be/ark:34546/mrn8vq> ns1:label "ark:34546/mrn8vq" .
+
+<http://data.momu.be/ark:34546/mtb2xd> ns1:label "ark:34546/mtb2xd" .
+
+<http://data.momu.be/ark:34546/mtx9c0> ns1:label "ark:34546/mtx9c0" .
+
+<http://data.momu.be/ark:34546/mvhhsq> ns1:label "ark:34546/mvhhsq" .
+
+<http://data.momu.be/ark:34546/mvmd1m> ns1:label "ark:34546/mvmd1m" .
+
+<http://data.momu.be/ark:34546/mw0w0c> ns1:label "ark:34546/mw0w0c" .
+
+<http://data.momu.be/ark:34546/mxd2bc> ns1:label "ark:34546/mxd2bc" .
+
+<http://data.momu.be/ark:34546/mxpp25> ns1:label "ark:34546/mxpp25" .
+
+<http://data.momu.be/ark:34546/mzs7pc> ns1:label "ark:34546/mzs7pc" .
+
+<http://data.momu.be/item/id/m15f0n> ns1:label "m15f0n" .
+
+<http://data.momu.be/item/id/mcrjk9> ns1:label "mcrjk9" .
+
+<http://data.momu.be/item/id/md51j0> ns1:label "md51j0" .
+
+<http://data.momu.be/item/id/mfqzbw> ns1:label "mfqzbw" .
+
+<http://data.momu.be/item/id/mfttkv> ns1:label "mfttkv" .
+
+<http://data.momu.be/item/id/mg1k2p> ns1:label "mg1k2p" .
+
+<http://data.momu.be/item/id/mghx88> ns1:label "mghx88" .
+
+<http://data.momu.be/item/id/mh70xw> ns1:label "mh70xw" .
+
+<http://data.momu.be/item/id/mjm68z> ns1:label "mjm68z" .
+
+<http://data.momu.be/item/id/mjwt0r> ns1:label "mjwt0r" .
+
+<http://data.momu.be/item/id/mm90bs> ns1:label "mm90bs" .
+
+<http://data.momu.be/item/id/mpzgsv> ns1:label "mpzgsv" .
+
+<http://data.momu.be/item/id/mq2c1t> ns1:label "mq2c1t" .
+
+<http://data.momu.be/item/id/mqjq7f> ns1:label "mqjq7f" .
+
+<http://data.momu.be/item/id/mrn8vq> ns1:label "mrn8vq" .
+
+<http://data.momu.be/item/id/mtb2xd> ns1:label "mtb2xd" .
+
+<http://data.momu.be/item/id/mtx9c0> ns1:label "mtx9c0" .
+
+<http://data.momu.be/item/id/mvhhsq> ns1:label "mvhhsq" .
+
+<http://data.momu.be/item/id/mvmd1m> ns1:label "mvmd1m" .
+
+<http://data.momu.be/item/id/mw0w0c> ns1:label "mw0w0c" .
+
+<http://data.momu.be/item/id/mxd2bc> ns1:label "mxd2bc" .
+
+<http://data.momu.be/item/id/mxpp25> ns1:label "mxpp25" .
+
+<http://data.momu.be/item/id/mzs7pc> ns1:label "mzs7pc" .
+
+<http://vocab.getty.edu/aat/300209263> ns1:label "dresses" .
+
+<http://vocab.getty.edu/page/aat/300046065> ns1:label "shoes" .
+
+<http://vocab.getty.edu/page/aat/300046094> ns1:label "caps" .
+
+<http://vocab.getty.edu/page/aat/300046131> ns1:label "aprons" .
+
+<http://vocab.getty.edu/page/aat/300046133> ns1:label "blouses" .
+
+<http://vocab.getty.edu/page/aat/300209850> ns1:label "raincoats" .
+
+<http://vocab.getty.edu/page/aat/300209863> ns1:label "suits" .
+
+<http://vocab.getty.edu/page/aat/300209918> ns1:label "jeans" .
+
+<http://vocab.getty.edu/page/aat/300216842> ns1:label "dusters" .
+
+<http://vocab.getty.edu/page/aat/300220740> ns1:label "underpants" .
+
+<https://heron.libis.be/momu/api/items/14993> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 14993 ;
+    ns1:media <https://heron.libis.be/momu/api/media/193870> ;
+    ns1:title "ST651/5AB" ;
+    dcterms:date "1942-1943" ;
+    dcterms:description "Sandalen, waarschijnlijk zelfgemaakt, met een sleehak van kurk. Voorblad bestaat uit twee stukken textiel die zijn voorzien van een blokpatroon in wat waarschijnlijk verzilverd draad is geweest. Sluiten aan de buitenkant van de enkel met een gesp. De sleehak is zilver gekleurd." ;
+    dcterms:identifier <http://data.momu.be/item/id/mzs7pc> ;
+    dcterms:medium "kurk",
+        "leder",
+        "metaal",
+        "zilverdraad" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046065>,
+        "schoenen" ;
+    ns4:shortDescription """Leder, rubber en metaal. Drie materialen algemeen gebruikt voor de vervaardiging van schoeisel. Tijdens de Tweede Wereldoorlog legt de Duitse bezetter beslag op deze grondstoffen ten dienste van de oorlogsindustrie. Burgers moeten daarom inventief zijn om voor deze schaars verkrijgbare materialen alternatieven te vinden. Gedurende de oorlogsjaren publiceren vrouwen- en modebladen verschillende ideeën om zelf schoenen of sandalen te maken, te versieren, en te repareren.  
+
+De hakken van deze sandalen van omstreeks 1943-1944 zijn gemaakt van kurk. Kurk is afkomstig uit het Mediterrane gebied en wordt al eeuwenlang gebruikt voor schoeisel. Het bruine materiaal is hier zilverkleurig geverfd, passend bij de met verzilverd draad versierde lederen banden van de sandalen. Naast kurken zolen werden tijdens de jaren van schaarste ook zolen van hout of gevlochten (papier)touw gebruikt.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mzs7pc> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/23668> ;
+    ns2:identifier "ST651/5AB" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "54592" ;
+    ns2:partNumber "68717" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/15148> .
+
+<https://heron.libis.be/momu/api/media/193870> ns1:id 193870 .
+
+<https://heron.libis.be/momu/api/media/194011> ns1:id 194011 .
+
+<https://heron.libis.be/momu/api/media/194149> ns1:id 194149 .
+
+<https://heron.libis.be/momu/api/media/194152> ns1:id 194152 .
+
+<https://heron.libis.be/momu/api/media/194461> ns1:id 194461 .
+
+<https://heron.libis.be/momu/api/media/196429> ns1:id 196429 .
+
+<https://heron.libis.be/momu/api/media/196447> ns1:id 196447 .
+
+<https://heron.libis.be/momu/api/media/196492> ns1:id 196492 .
+
+<https://heron.libis.be/momu/api/media/196507> ns1:id 196507 .
+
+<https://heron.libis.be/momu/api/media/196513> ns1:id 196513 .
+
+<https://heron.libis.be/momu/api/media/196528> ns1:id 196528 .
+
+<https://heron.libis.be/momu/api/media/196579> ns1:id 196579 .
+
+<https://heron.libis.be/momu/api/media/196597> ns1:id 196597 .
+
+<https://heron.libis.be/momu/api/media/196603> ns1:id 196603 .
+
+<https://heron.libis.be/momu/api/media/196714> ns1:id 196714 .
+
+<https://heron.libis.be/momu/api/media/196738> ns1:id 196738 .
+
+<https://heron.libis.be/momu/api/media/196741> ns1:id 196741 .
+
+<https://heron.libis.be/momu/api/media/196852> ns1:id 196852 .
+
+<https://heron.libis.be/momu/api/media/196882> ns1:id 196882 .
+
+<https://heron.libis.be/momu/api/media/196924> ns1:id 196924 .
+
+<https://heron.libis.be/momu/api/media/196927> ns1:id 196927 .
+
+<https://heron.libis.be/momu/api/media/197557> ns1:id 197557 .
+
+<https://heron.libis.be/momu/api/media/198865> ns1:id 198865 .
+
+<https://heron.libis.be/momu/api/media/199132> ns1:id 199132 .
+
+<https://library.momu.be/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=694> ns1:label "Leeslijst" .
+
+<http://vocab.getty.edu/page/aat/300046143> ns1:label "coats" .
+
+<http://vocab.getty.edu/page/aat/300046167> ns1:label "jackets" .
+
+<http://vocab.getty.edu/page/aat/300209935> ns1:label "trousers" .
+
+<http://vocab.getty.edu/page/aat/300046159> ns1:label "dresses" .
+
+<https://heron.libis.be/momu/api/items/14455> a ns1:Item,
+        dcmitype:PhysicalObject ;
+    ns1:id 14455 ;
+    ns1:media <https://heron.libis.be/momu/api/media/194149>,
+        <https://heron.libis.be/momu/api/media/194152> ;
+    ns1:title "ST80185" ;
+    dcterms:creator "OLYMPISCHE SPELEN LOS ANGELES" ;
+    dcterms:date "1984" ;
+    dcterms:description "Oranje jas met vooraan twee zakken. De mouwen zijn onderaan afgewerkt met drie goudkleurige knopen. De jas sluit vooraan met twee goudkleurige knopen. Beige voering. De jas maakt deel uit van een uniform van de Olympische Zomerspelen in 1984." ;
+    dcterms:identifier <http://data.momu.be/item/id/mghx88> ;
+    dcterms:medium "dacron",
+        "kunstvezel",
+        "metaal",
+        "polyester" ;
+    dcterms:publisher "MOMU" ;
+    dcterms:subject <http://vocab.getty.edu/page/aat/300046143>,
+        "jas" ;
+    ns4:shortDescription """De eerste moderne Olympische Spelen werden in de zomer van 1896 gehouden in Athene. In 1908 tijdens de Spelen in Londen werd voor het eerst een openingsdefilé ingevoerd. Vanaf de Spelen in 1924 in Parijs werd het gebruikelijk om tijdens deze ceremonie eenheid en spektakel uit te stralen door middel van een nationaal uniform. Geleidelijk in de jaren 1920 en 1930 krijgen ook stafleden zoals kaartverkopers, stadionportiers, gastvrouwen en gidsen een distinctief uniform. Zo was het stafuniform tijdens de Berlijnse Zomerspelen in 1936 wit.  
+
+In de jaren 1970 worden de uniformen in stijl en kleur uitgesplitst per functie om herkenbaarheid van verschillende functies te vergroten. Vanaf die tijd worden er ook internationaal bekende modeontwerpers en merken aangetrokken om de uniformen van het personeel in de stadions en de spelers van verschillende landen te ontwerpen. Voorbeelden hiervan zijn André Courrèges voor de Spelen in München in 1972, en Issey Miyake die in 1992 het uniform voor de Litouwse ploeg ontwerpt. 
+
+In 1984 werden de Olympische Zomerspelen gehouden in Los Angeles. Het kledingbedrijf Levi-Strauss & Co. Ontwierp de uniformen van het Amerikaanse team en van de staf. De lijn betrof kleding met een sportieve en casual uitstraling. Voor Levi-Strauss & Co. waren de Spelen bij uitstek een gelegenheid om hun activewear lijn te promoten. De 800 atleten droegen rood-wit-blauwe trainingspakken als verwijzing naar de Amerikaanse vlag. De meer dan 60.000 stafleden kregen verschillende uniformen per functie, veelal poloshirts en blazers met korte rok of broek in felle kleuren als heldergroen of blauw met oranje accenten. Hoedjes en baseballcaps, gympen en sneakers completeerden de look.""" ;
+    ns3:P48_has_preferred_identifier <http://data.momu.be/ark:34546/mghx88> ;
+    ns3:P50_has_current_keeper "Studiecollectie" ;
+    ns3:P55_has_current_location <https://heron.libis.be/momu/api/items/16779> ;
+    ns2:identifier "ST80185" ;
+    ns2:identifierGroupType "TMS" ;
+    ns2:identifierGroupValue "49542" ;
+    ns2:partNumber "63667" ;
+    ns2:relatedItem <https://heron.libis.be/momu/api/items/14456>,
+        <https://heron.libis.be/momu/api/items/14457>,
+        <https://heron.libis.be/momu/api/items/14458>,
+        <https://heron.libis.be/momu/api/items/14459>,
+        <https://heron.libis.be/momu/api/items/14460>,
+        <https://heron.libis.be/momu/api/items/14461>,
+        <https://heron.libis.be/momu/api/items/14462>,
+        <https://heron.libis.be/momu/api/items/14463>,
+        <https://heron.libis.be/momu/api/items/14464> .
+

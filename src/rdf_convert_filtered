@@ -9,7 +9,7 @@ from rdflib import Graph
 import json
 
 # Load JSON-LD file
-with open("Data/items.json") as f:
+with open("Data/items.json", encoding='utf-8') as f:
     data = json.load(f)
 
     # remove unwanted properties from the JSON-LD file
