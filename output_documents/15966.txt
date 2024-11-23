@@ -1,0 +1,16 @@
+The id of item 15966 is 15966.
+The title of item 15966 is "ST2148".
+The date of item 15966 is 1850-1900.
+The dateSubmitted of item 15966 is 2022-06-28.
+The description of item 15966 Pyjamajasje, voor een man, van lichtbeige katoenen popeline met fijne donkerbeige strepen. Ingezette rechte lange mouwen. Brede omgeslagen hemdkraag. Eén borstzak en twee opgestikte zakken aan de voorzijde. Sluit middenvoor met een parelmoeren knoopje in de hals en drie paar wit en blauw geborduurde brandebourgs, waarvan de knopen ontbreken.
+The dimensions of item 15966 are hoogte: 78 cm  schouderbreedte (rug): 38 cm.
+The medium of item 15966 includes popeline.
+The publisher of item 15966 is MOMU.
+The subject of item 15966 includes pyjamajasje.
+The context of item 15966 ‘Brandebourg’ is de naam voor een type houtje-touwtjesluiting gebruikt op heren- en dameskleding. Deze tweedelige sluiting bestaat uit ornamentele lussen in passement, waarvan de ene zijde wordt bevestigd rond een knoop in vlechtwerk of koord aan de andere zijde. Brandebourgs werden vaak gemaakt van goud- of zijdedraad. Oorspronkelijk was deze sluiting een onderdeel van de militaire kleding in Brandenburg, een deelstaat van het Pruisische Rijk.  In oorsprong komt de term van een zeventiende-eeuwse lange losse overjas, ook Brandenburg genaamd, die versierd is met de typische koordversieringen en van goud- of zijdedraad gemaakte knopen. Vanaf het midden van de achttiende eeuw verwijst de term brandebourg naar de rijkelijk versierde sluiting, die onder meer voorkomt op mantels, ochtend- en nachtkleding zoals dit pyjamajasje..
+The current keeper of item 15966 is Studiecollectie.
+The identifier of item 15966 is ST2148.
+The identifierGroupType of item 15966 is TMS.
+The identifierGroupValue of item 15966 is 59313.
+The note of item 15966 is Pattern-a-thon.
+The partNumber of item 15966 is 73471.

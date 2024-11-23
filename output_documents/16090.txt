@@ -1,0 +1,15 @@
+The id of item 16090 is 16090.
+The title of item 16090 is "ST2253".
+The date of item 16090 is 1945.
+The dateSubmitted of item 16090 is 2022-06-28.
+The description of item 16090 Jurk van witte katoen met blauwe en roze ruiten.
+The dimensions of item 16090 are hoogte: 100 cm  schouderbreedte: 36 cm  tailleomvang: 62 cm.
+The medium of item 16090 includes platbinding.
+The publisher of item 16090 is MOMU.
+The subject of item 16090 includes jurk.
+The context of item 16090 Een geruite katoenen jurk van een meisje of jonge vrouw met de initialen “J.B.”. Als je goed kijkt een voorbeeld van spaarzaamheid. Tijdens en net na de Tweede Wereldoorlog is textiel namelijk moeilijk te verkrijgen. Kleding is duur en “op de bon”: een nieuw kledingstuk kan enkel worden aangeschaft bij inlevering van op rantsoen gestelde textielbonnen. Zuinig omspringen met de eigen kledij is van groot belang.  De stof van deze katoenen jurk is op verschillende plaatsen nauwkeurig met de hand doorgestopt. Een eenvoudige manier om de plaatselijk fragiel geworden stof te verstevigen. Zo blijft een kostbaar kledingstuk langer draagbaar..
+The current keeper of item 16090 is Studiecollectie.
+The identifier of item 16090 is ST2253.
+The identifierGroupType of item 16090 is TMS.
+The identifierGroupValue of item 16090 is 59584.
+The partNumber of item 16090 is 73742.
