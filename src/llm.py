@@ -6,7 +6,8 @@ from langchain_community.graphs import Neo4jGraph
 
 from dotenv import load_dotenv
 
-
+from rdflib import Graph
+from neo4j import GraphDatabase
 
 from langchain_experimental.graph_transformers.llm import LLMGraphTransformer
 import getpass
@@ -14,12 +15,10 @@ import os
 
 # Load environment variable for OpenAI API key
 
-
-
 if __name__ == "__main__":
     load_dotenv()
     
-    loader = TextLoader("./Data/text.txt")
+    loader = TextLoader("./Data/items_filtered.ttl")
     documents = loader.load()
     text_splitter = CharacterTextSplitter(chunk_size=200, chunk_overlap=20)
     texts = text_splitter.split_documents(documents)
@@ -28,9 +27,11 @@ if __name__ == "__main__":
 
     # Extract Knowledge Graph
     llm_transformer = LLMGraphTransformer(llm=llm)
-    graph_documents = llm_transformer.convert_to_graph_documents(texts)
+    # graph_documents = llm_transformer.convert_to_graph_documents(texts)
 
-    # Load text data
-    # Store Knowledge Graph in Neo4j
-    graph_store = Neo4jGraph(url=os.getenv('NEO4J_URI'), username=os.getenv('NEO4J_USERNAME'), password=os.getenv('NEO4J_PASSWORD'))
-    graph_store.add_graph_documents(graph_documents)
+    g = Graph()
+    g.parse("Data/items_filtered.ttl", format="turtle")
+
+
+
+
