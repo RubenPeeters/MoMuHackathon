@@ -1,0 +1,8 @@
+The created of this artifact is 2020-08-25T12:32:13+00:00.
+The item 51 is public.
+This artifact was last modified on 2021-01-20T17:02:11+00:00.
+The identifier of this artifact is "Legbord 2z38".
+The description of this artifact is "Legbord voor Prorack+"
+The dimensions of this artifact are 50x80x3cm.
+The type of this artifact is Legbord.
+The note of this artifact is testrecord.

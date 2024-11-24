@@ -1,0 +1,10 @@
+The created of this artifact is 2020-08-25T12:22:31+00:00.
+The item 50 is public.
+This artifact was last modified on 2020-08-25T12:22:31+00:00.
+The identifier of this artifact is "Magazijnrek KN MZ 1".
+The description of this artifact is "Stalen magazijnrek met vier legbordvakken"
+The dimensions of this artifact are hoog: 2m.
+lang: 4m.
+diep: 80 cm.
+The type of this artifact is RAJA Prorack+.
+The note of this artifact is testrecord.

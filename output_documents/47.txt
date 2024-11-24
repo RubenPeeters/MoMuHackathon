@@ -1,0 +1,10 @@
+The created of this artifact is 2020-08-25T09:57:12+00:00.
+The item 47 is public.
+This artifact was last modified on 2021-05-11T21:46:27+00:00.
+The identifier of this artifact is "Container_demo_1".
+This artifact was created from the following period: 2020-08-25.
+The description of this artifact is "Zuurvrije doos"
+The dimensions of this artifact are 50x40x25 cm.
+The type of this artifact is Archiefdoos.
+The valid of this artifact is 2040-08-25.
+The note of this artifact is Dit is een testrecord.
