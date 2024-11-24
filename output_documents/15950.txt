@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:34+00:00.
-The item 15950 is public.
-This artifact was last modified on 2024-11-23T14:28:26+00:00.
 The identifier of this artifact is "ST2133".
 The creator of this artifact is LIVE INS.
 This artifact was created from the following period: 1970-1979.
@@ -10,6 +7,7 @@ The medium of this artifact includes machinaal borduurwerk.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes jeansbroek.
 The context of this artifact is "Broeken als dit exemplaar, strak op de bovenbenen met onderaan uitlopende pijpen, worden ook wel ‘bell-bottoms’ (bell = klok) genoemd. Oorspronkelijk waren dergelijke aan de onderzijde klokvormige broeken een kenmerkend onderdeel van het uniform van negentiende-eeuwse matrozen. Dit type broek werd echter modieus tijdens het hippie-tijdperk halverwege de jaren 1960 tot en met de jaren 1970. Jongeren begonnen zich in de jaren 1960 te verzetten tegen de gevestigde orde, de heersende consumptiemaatschappij en de oorlog in Vietnam. Een wijze van protest was dat zij hun eigen kleding maakten of tweedehands kochten, bijvoorbeeld uit winkels die overstock van het leger verkochten. Door deze militaire kledingstukken te vermaken en versieren, bijvoorbeeld met vredestekens of geborduurde bloemen, gaven zij uiting aan hun verzet tegen de oorlog in Vietnam.  Broeken als dit van spijkerstof gemaakte en met bloemen geborduurde exemplaar van het Amerikaanse denim merk ‘Live Ins’, bovenaan hoge en strak, en vanaf de dij, knie of kuit wijd uitlopend, waren destijds een grote afwijking van de gangbare mode van rechte broeken. Bell-bottoms werden populair gemaakt door muzikale sterren als Jimi Hendrix, Mick Jagger van de Rolling Stones, en het duo Sonny en Cher. Een vergelijkbaar model dat nog wijder vanaf dij of knie uitliep, was de ‘elephant bells’, in het Nederlands ook wel ‘broek met olifantenpijpen’ genoemd. Aan het einde van de jaren 1970, met de opkomst van de punk cultuur waarin nauwsluitende, rechte of taps toelopende broeken de mode werden, raken bell-bottoms uit de mode.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mcrjk9.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST2133.
 The group type of this artifact is  TMS.

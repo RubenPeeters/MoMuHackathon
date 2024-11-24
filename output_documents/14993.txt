@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:31:40+00:00.
-The item 14993 is public.
-This artifact was last modified on 2024-11-23T14:28:22+00:00.
 The identifier of this artifact is "ST651/5AB".
 This artifact was created from the following period: 1942-1943.
 The description of this artifact is "Sandalen, waarschijnlijk zelfgemaakt, met een sleehak van kurk. Voorblad bestaat uit twee stukken textiel die zijn voorzien van een blokpatroon in wat waarschijnlijk verzilverd draad is geweest. Sluiten aan de buitenkant van de enkel met een gesp. De sleehak is zilver gekleurd."
@@ -8,6 +5,7 @@ The medium of this artifact includes zilverdraad.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes schoenen.
 The context of this artifact is "Leder, rubber en metaal. Drie materialen algemeen gebruikt voor de vervaardiging van schoeisel. Tijdens de Tweede Wereldoorlog legt de Duitse bezetter beslag op deze grondstoffen ten dienste van de oorlogsindustrie. Burgers moeten daarom inventief zijn om voor deze schaars verkrijgbare materialen alternatieven te vinden. Gedurende de oorlogsjaren publiceren vrouwen- en modebladen verschillende ideeën om zelf schoenen of sandalen te maken, te versieren, en te repareren.  De hakken van deze sandalen van omstreeks 1943-1944 zijn gemaakt van kurk. Kurk is afkomstig uit het Mediterrane gebied en wordt al eeuwenlang gebruikt voor schoeisel. Het bruine materiaal is hier zilverkleurig geverfd, passend bij de met verzilverd draad versierde lederen banden van de sandalen. Naast kurken zolen werden tijdens de jaren van schaarste ook zolen van hout of gevlochten (papier)touw gebruikt.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mzs7pc.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST651/5AB.
 The group type of this artifact is  TMS.

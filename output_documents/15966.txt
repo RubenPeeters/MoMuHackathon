@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:35+00:00.
-The item 15966 is public.
-This artifact was last modified on 2024-11-23T14:28:28+00:00.
 The identifier of this artifact is "ST2148".
 This artifact was created from the following period: 1850-1900.
 This artifact was submitted on 2022-06-28.
@@ -10,6 +7,7 @@ The medium of this artifact includes popeline.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes pyjamajasje.
 The context of this artifact is "‘Brandebourg’ is de naam voor een type houtje-touwtjesluiting gebruikt op heren- en dameskleding. Deze tweedelige sluiting bestaat uit ornamentele lussen in passement, waarvan de ene zijde wordt bevestigd rond een knoop in vlechtwerk of koord aan de andere zijde. Brandebourgs werden vaak gemaakt van goud- of zijdedraad. Oorspronkelijk was deze sluiting een onderdeel van de militaire kleding in Brandenburg, een deelstaat van het Pruisische Rijk.  In oorsprong komt de term van een zeventiende-eeuwse lange losse overjas, ook Brandenburg genaamd, die versierd is met de typische koordversieringen en van goud- of zijdedraad gemaakte knopen. Vanaf het midden van de achttiende eeuw verwijst de term brandebourg naar de rijkelijk versierde sluiting, die onder meer voorkomt op mantels, ochtend- en nachtkleding zoals dit pyjamajasje.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mq2c1t.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST2148.
 The group type of this artifact is  TMS.

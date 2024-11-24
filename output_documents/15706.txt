@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:22+00:00.
-The item 15706 is public.
-This artifact was last modified on 2024-11-23T14:28:23+00:00.
 The identifier of this artifact is "ST1332A".
 This artifact was created from the following period: 1930-1960.
 The description of this artifact is "Kinderjurkje van gele katoen; Peter Pan-kraagje afgewerkt met blauw garen; smokwerk ter hoogte van de borst afgewerkt met blauw en geel garen; kleine bloemetjes in dezelfde kleuren op de gerimpelde rok. Korte pofmouwtjes. Sluit aan de achterzijde met drie drukknopen, aan de buitenkant is de sluiting afgewerkt met doorzichtige kunststof knopen met reliëf, die opgebouwd zijn uit kleine bolletjes. Netjes uitgevoerd handwerk."
@@ -8,6 +5,7 @@ The medium of this artifact includes weefsel.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes jurk.
 The context of this artifact is "Een Peter Pan-kraag is een platvallende, tweedelige ronde kraag die vanaf ongeveer 1909 modieus werd, hoewel gelijkende kragen al in de negentiende eeuw onder andere namen bestonden. De naam is afkomstig van de hoofdrolspeler uit het gelijknamige toneelstuk (première in 1904) en boek (1911) geschreven door de Schotse auteur J. M. Barrie. Actrice Maude Adams droeg een kostuum met een dergelijke kraag toen zij in 1905 de rol van Peter Pan vertolkte op het Amerikaanse Broadway. De Peter Pan kraag was vooral geliefd als onderdeel van kleding voor jonge meisjes en kleine kinderen en werd dan ook gedurende de rest van de twintigste eeuw gedragen.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mfqzbw.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST1332A.
 The group type of this artifact is  TMS.

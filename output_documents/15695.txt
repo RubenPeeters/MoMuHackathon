@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:22+00:00.
-The item 15695 is public.
-This artifact was last modified on 2024-11-23T14:28:23+00:00.
 The identifier of this artifact is "ST1320".
 The creator of this artifact is CICERONE.
 This artifact was created from the following period: 1968-1972.
@@ -10,6 +7,7 @@ The medium of this artifact includes kunststof.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes poloshirt.
 The context of this artifact is "Het poloshirt kent zijn oorsprong in India, waar eind negentiende eeuw polospelers in het warme klimaat een luchtiger kledingstuk zochten voor deze sport te paard. Het kledingstuk dat vandaag de dag bekend staat als poloshirt werd echter niet bekend door polo maar door een andere sport: tennis.  In 1926 introduceert de Franse tennisster René Lacoste, bijgenaamd ‘le Crocodile’, een innovatief kledingstuk. In plaats van het voor tennis gebruikelijke geweven witte hemd met lange mouwen, komt Lacoste met een alternatief in gebreid katoen piqué dat zorgt voor een meer ademend effect. Zijn ontwerp heeft korte mouwen met een manchet in gebreide ribsteek dat met beweging extra meegeeft. De ronde, platvallende kraag is ongesteven, en het shirt heeft een korte halsopening met twee à drie knopen middenvoor. Dit alles zorgt voor meer comfort en bewegingsvrijheid tijdens het tennisspel. Na zijn pensioen van professioneel tennis in 1933 promoot Lacoste zijn ontwerp grootschalig, en het kledingstuk wordt door andere sporters zoals polospelers opgepikt. Vanaf de jaren 1950 wordt het algemeen bekend onder de naam poloshirt.  Een kenmerk van poloshirts is dat er vaak een geborduurd logo op de linkerborst aanwezig is: denk aan de krokodil van Lacoste of de polospeler te paard als logo van de Amerikaanse modeontwerper Ralph Lauren. Lauren introduceert dit logo in 1971 op een kledinglijn voor vrouwen. In 1972 komt hij met zijn bekende herenlijn met poloshirts in een regenboog aan kleuren. Dit crèmekleurig poloshirt uit de periode 1968-1972 heeft geen logo op de linkerborst maar een borstzak. In kleur blijft het echter trouw aan zijn sportieve oorsprong in tennis en polo. Poloshirts worden allang niet meer enkel voor sportieve aangelegenheden gedragen, al blijft het wel informele kleding.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mw0w0c.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST1320.
 The group type of this artifact is  TMS.

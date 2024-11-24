@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:45+00:00.
-The item 16090 is public.
-This artifact was last modified on 2024-11-23T14:28:33+00:00.
 The identifier of this artifact is "ST2253".
 This artifact was created from the following period: 1945.
 This artifact was submitted on 2022-06-28.
@@ -10,6 +7,7 @@ The medium of this artifact includes platbinding.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes jurk.
 The context of this artifact is "Een geruite katoenen jurk van een meisje of jonge vrouw met de initialen “J.B.”. Als je goed kijkt een voorbeeld van spaarzaamheid. Tijdens en net na de Tweede Wereldoorlog is textiel namelijk moeilijk te verkrijgen. Kleding is duur en “op de bon”: een nieuw kledingstuk kan enkel worden aangeschaft bij inlevering van op rantsoen gestelde textielbonnen. Zuinig omspringen met de eigen kledij is van groot belang.  De stof van deze katoenen jurk is op verschillende plaatsen nauwkeurig met de hand doorgestopt. Een eenvoudige manier om de plaatselijk fragiel geworden stof te verstevigen. Zo blijft een kostbaar kledingstuk langer draagbaar.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mjwt0r.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST2253.
 The group type of this artifact is  TMS.
