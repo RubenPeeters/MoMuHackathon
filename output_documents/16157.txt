@@ -1,13 +1,12 @@
-The id of item 16157 is 16157.
-The title of item 16157 is "ST2014".
-The date of item 16157 is 1930-1959.
-The dateSubmitted of item 16157 is 2022-06-28.
-The description of item 16157 Jurk, daagse jurk of werkjurk.
-The publisher of item 16157 is MOMU.
-The subject of item 16157 includes jurk.
-The context of item 16157 Deze daagse huis- of werkjurk van bedrukt katoen is nog ongedragen. Het papieren etiket geeft inzicht in waar dit kledingstuk gekocht is: de Grand Magasins À Saint-Jacques te Reims.  Aan het begin van de jaren 1920 fuseren twee grote warenhuizen in Reims, La Samaritaine en À la Tour Saint-Jacques, onder de naam À Saint-Jacques. In deze nieuwe zaak in de Rue de Vesle verkoopt men voornamelijk dames- en kinderkleding. Tevens zijn er zijn verstelateliers, en klanten kunnen er terecht voor stoffen, interieurtextiel en een grote verscheidenheid aan accessoires. In een bijgebouw wordt heren-, jongens-, en werkkleding verkocht. De winkel wordt uiteindelijk in 1971 overgenomen door de Britse keten Marks & Spencer.  Ruimvallende jurken zoals dit exemplaar werden door vrouwen binnenshuis over de eigen kleding gedragen om deze te beschermen tijdens het (huishoudelijk) werk. De taille wordt bijeengehouden met een ceintuur, en de jurk heeft praktische ruime zakken. Door de knopen langs de gehele voorkant is de jurk snel uit te trekken indien er bezoek komt en men er deftig uit wil zien. Het is onzeker waarom deze jurk nooit gedragen is. Mogelijk komt de jurk uit een onverkochte winkelvoorraad van À Saint-Jacques..
-The current keeper of item 16157 is Studiecollectie.
-The identifier of item 16157 is ST2014.
-The identifierGroupType of item 16157 is TMS.
-The identifierGroupValue of item 16157 is 60190.
-The partNumber of item 16157 is 74348.
+The identifier of this artifact is "ST2014".
+This artifact was created from the following period: 1930-1959.
+This artifact was submitted on 2022-06-28.
+The description of this artifact is "Jurk, daagse jurk of werkjurk."
+The publisher of this artifact is MOMU.
+The subject of this artifact includes jurk.
+The context of this artifact is "Deze daagse huis- of werkjurk van bedrukt katoen is nog ongedragen. Het papieren etiket geeft inzicht in waar dit kledingstuk gekocht is: de Grand Magasins À Saint-Jacques te Reims.  Aan het begin van de jaren 1920 fuseren twee grote warenhuizen in Reims, La Samaritaine en À la Tour Saint-Jacques, onder de naam À Saint-Jacques. In deze nieuwe zaak in de Rue de Vesle verkoopt men voornamelijk dames- en kinderkleding. Tevens zijn er zijn verstelateliers, en klanten kunnen er terecht voor stoffen, interieurtextiel en een grote verscheidenheid aan accessoires. In een bijgebouw wordt heren-, jongens-, en werkkleding verkocht. De winkel wordt uiteindelijk in 1971 overgenomen door de Britse keten Marks & Spencer.  Ruimvallende jurken zoals dit exemplaar werden door vrouwen binnenshuis over de eigen kleding gedragen om deze te beschermen tijdens het (huishoudelijk) werk. De taille wordt bijeengehouden met een ceintuur, en de jurk heeft praktische ruime zakken. Door de knopen langs de gehele voorkant is de jurk snel uit te trekken indien er bezoek komt en men er deftig uit wil zien. Het is onzeker waarom deze jurk nooit gedragen is. Mogelijk komt de jurk uit een onverkochte winkelvoorraad van À Saint-Jacques.".
+The current keeper of this artifact is Studiecollectie.
+The identifier of this artifact is ST2014.
+The group type of this artifact is  TMS.
+The group value of this artifact is 60190.
+The partNumber of this artifact is 74348.

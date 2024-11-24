@@ -1,15 +1,14 @@
-The id of item 15864 is 15864.
-The title of item 15864 is "ST2053".
-The creator of item 15864 is AERTEX.
-The date of item 15864 is 1930-1939.
-The description of item 15864 Onderbroek, voor een man, van gemaasde ecrukleurige katoen (zogenaamde 'Aertex' techniek). Model met hoge taille en korte pijpen. Aan bovenzijde aan weerszijden richting zijkant een in twee lussen vastgenaaid wit katoenen bandje. Tailleband in een boog breder wordend richting middenvoor. Split middenvoor tot aan kruis. Brede zoom onderaan pijp. Tailleband achterzijde breder wordend richting middenachter. Twee gefestonneerde oogjes aan weerszijden van middenachter waardoor een witte katoenen veter is geregen. Sluiting middenvoor door middel van drie knoopsgaten en knopen (één met wit katoen beklede knoop, twee ontbreken). Kruis gevoerd met dezelfde stof.
-The dimensions of item 15864 are hoogte: 44 cm  tailleomvang: 72 cm.
-The medium of item 15864 includes katoen.
-The publisher of item 15864 is MOMU.
-The subject of item 15864 includes onderbroek.
-The context of item 15864 Aertex is de naam van een losgeweven en lichtgewicht katoenen weefsel dat voornamelijk wordt gebruikt voor ondergoed en sportkleding. De Cellular Clothing Company (ook wel Aertex Company) werd in 1888 opgericht in Manchester, Engeland. Het bedrijf ontwikkelde een speciale techniek om lucht en warmte vast te houden in de ruimtes tussen schering en inslag van het weefsel. Aertex textiel vormde daardoor een beschermende laag rondom het lichaam en was geschikt om zowel in de zomer als in de winter te dragen. Aertex werd gepromoot als innovatieve ‘cellulaire kleding’ voor mannen, vrouwen en kinderen. Zoals op het label van deze onderbroek uit de jaren 1930 te zien is, werd er geclaimd dat het gezond was om kleding gemaakt van Aertex te dragen. Aertex wordt vandaag de dag nog steeds geproduceerd..
-The current keeper of item 15864 is Studiecollectie.
-The identifier of item 15864 is ST2053.
-The identifierGroupType of item 15864 is TMS.
-The identifierGroupValue of item 15864 is 59019.
-The partNumber of item 15864 is 73177.
+The identifier of this artifact is "ST2053".
+The creator of this artifact is AERTEX.
+This artifact was created from the following period: 1930-1939.
+The description of this artifact is "Onderbroek, voor een man, van gemaasde ecrukleurige katoen (zogenaamde 'Aertex' techniek). Model met hoge taille en korte pijpen. Aan bovenzijde aan weerszijden richting zijkant een in twee lussen vastgenaaid wit katoenen bandje. Tailleband in een boog breder wordend richting middenvoor. Split middenvoor tot aan kruis. Brede zoom onderaan pijp. Tailleband achterzijde breder wordend richting middenachter. Twee gefestonneerde oogjes aan weerszijden van middenachter waardoor een witte katoenen veter is geregen. Sluiting middenvoor door middel van drie knoopsgaten en knopen (één met wit katoen beklede knoop, twee ontbreken). Kruis gevoerd met dezelfde stof."
+The dimensions of this artifact are hoogte: 44 cm  tailleomvang: 72 cm.
+The medium of this artifact includes katoen.
+The publisher of this artifact is MOMU.
+The subject of this artifact includes onderbroek.
+The context of this artifact is "Aertex is de naam van een losgeweven en lichtgewicht katoenen weefsel dat voornamelijk wordt gebruikt voor ondergoed en sportkleding. De Cellular Clothing Company (ook wel Aertex Company) werd in 1888 opgericht in Manchester, Engeland. Het bedrijf ontwikkelde een speciale techniek om lucht en warmte vast te houden in de ruimtes tussen schering en inslag van het weefsel. Aertex textiel vormde daardoor een beschermende laag rondom het lichaam en was geschikt om zowel in de zomer als in de winter te dragen. Aertex werd gepromoot als innovatieve ‘cellulaire kleding’ voor mannen, vrouwen en kinderen. Zoals op het label van deze onderbroek uit de jaren 1930 te zien is, werd er geclaimd dat het gezond was om kleding gemaakt van Aertex te dragen. Aertex wordt vandaag de dag nog steeds geproduceerd.".
+The current keeper of this artifact is Studiecollectie.
+The identifier of this artifact is ST2053.
+The group type of this artifact is  TMS.
+The group value of this artifact is 59019.
+The partNumber of this artifact is 73177.

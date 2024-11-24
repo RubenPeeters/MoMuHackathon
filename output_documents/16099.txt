@@ -1,15 +1,14 @@
-The id of item 16099 is 16099.
-The title of item 16099 is "ST2262".
-The date of item 16099 is 1920-1925.
-The dateSubmitted of item 16099 is 2022-06-28.
-The description of item 16099 Jurk, type robe de style, van blauw-groene changeant tafzijde.
-The dimensions of item 16099 are hoogte: 118 cm  schouderbreedte: 40 cm.
-The medium of item 16099 includes taf.
-The publisher of item 16099 is MOMU.
-The subject of item 16099 includes jurk.
-The context of item 16099 Bij de jaren 1920 denkt men al gauw aan de typische met pailletten en kralen versierde, tuniekachtige jurken met een verlaagde taille. In sterk contrast tot dit archetype, staat deze blauwgroene jurk gemodelleerd naar het type robe de style. Dit is de Franse term voor een silhouet uit de jaren 1920 dat wordt geassocieerd met de Parijse modeontwerpster Jeanne Lanvin (1867-1946). Kenmerkend voor Lanvin’s robe de style zijn nauwsluitende lijfjes, een taillelijn die verlaagd is tot onder de natuurlijke taille, en volle rokken die tot kuit of enkels reiken. Lanvin greep hiermee terug op het silhouet van japonnen gedragen aan het achttiende-eeuwse Franse hof.  Deze jurk uit de periode 1920-1925 is gemaakt van een zogeheten changeant tafzijde. De schering- en inslagdraden van dit type weefsel bestaan uit contrasterende kleuren blauwgroen en paars, wat vanuit verschillende invalshoeken een wisselend kleureffect geeft. De binnenkant is gevoerd met crèmekleurige zijde. De jurk heeft een ronde, gefronselde halsopening en aan de onderzijde licht poffende mouwen. Een gefronselde tafzijden rozet met daardoorheen een lange strook van hetzelfde materiaal legt het accent op de verlaagde taille. De jurk is middenachter op de rug versierd met decoratieve knoopjes, en sluit met metalen haken en ogen en drukknopen..
-The current keeper of item 16099 is Studiecollectie.
-The identifier of item 16099 is ST2262.
-The identifierGroupType of item 16099 is TMS.
-The identifierGroupValue of item 16099 is 59593.
-The partNumber of item 16099 is 73751.
+The identifier of this artifact is "ST2262".
+This artifact was created from the following period: 1920-1925.
+This artifact was submitted on 2022-06-28.
+The description of this artifact is "Jurk, type robe de style, van blauw-groene changeant tafzijde."
+The dimensions of this artifact are hoogte: 118 cm  schouderbreedte: 40 cm.
+The medium of this artifact includes taf.
+The publisher of this artifact is MOMU.
+The subject of this artifact includes jurk.
+The context of this artifact is "Bij de jaren 1920 denkt men al gauw aan de typische met pailletten en kralen versierde, tuniekachtige jurken met een verlaagde taille. In sterk contrast tot dit archetype, staat deze blauwgroene jurk gemodelleerd naar het type robe de style. Dit is de Franse term voor een silhouet uit de jaren 1920 dat wordt geassocieerd met de Parijse modeontwerpster Jeanne Lanvin (1867-1946). Kenmerkend voor Lanvin’s robe de style zijn nauwsluitende lijfjes, een taillelijn die verlaagd is tot onder de natuurlijke taille, en volle rokken die tot kuit of enkels reiken. Lanvin greep hiermee terug op het silhouet van japonnen gedragen aan het achttiende-eeuwse Franse hof.  Deze jurk uit de periode 1920-1925 is gemaakt van een zogeheten changeant tafzijde. De schering- en inslagdraden van dit type weefsel bestaan uit contrasterende kleuren blauwgroen en paars, wat vanuit verschillende invalshoeken een wisselend kleureffect geeft. De binnenkant is gevoerd met crèmekleurige zijde. De jurk heeft een ronde, gefronselde halsopening en aan de onderzijde licht poffende mouwen. Een gefronselde tafzijden rozet met daardoorheen een lange strook van hetzelfde materiaal legt het accent op de verlaagde taille. De jurk is middenachter op de rug versierd met decoratieve knoopjes, en sluit met metalen haken en ogen en drukknopen.".
+The current keeper of this artifact is Studiecollectie.
+The identifier of this artifact is ST2262.
+The group type of this artifact is  TMS.
+The group value of this artifact is 59593.
+The partNumber of this artifact is 73751.

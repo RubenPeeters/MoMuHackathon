@@ -1,15 +1,14 @@
-The id of item 15938 is 15938.
-The title of item 15938 is "ST2120".
-The creator of item 15938 is LA BELLE JARDINIÈRE.
-The date of item 15938 is ca. 1900.
-The description of item 15938 Platte pet, behorende tot een uniform, van donkerblauwe lakense wol. Bovenzijde van kap bestaande uit een cirkel van donkerblauw gelakt imitatieleder. Maanvormige klep van idem imitatieleder. Binnenzijde is bekleed met doorgestikte zwarte zijde in keperbinding met fijne streepjes. Goudkleurig strikje aan achterzijde hoofd.
-The dimensions of item 15938 are diameter kap: 18 cm  hoogte: 10 cm.
-The medium of item 15938 includes zijde.
-The publisher of item 15938 is MOMU.
-The subject of item 15938 includes pet.
-The context of item 15938 À La Belle Jardinière was een Franse keten van modepaleizen die in de negentiende eeuw als een van de eerste in zijn soort ontstond. Fourniturenhandelaar Pierre Parissot opende de eerste zaak in 1824 in Parijs vlakbij de Bloemenmarkt, en gaf het de wellicht daarnaar verwijzende naam La Belle Jardinière.  Parissot verkocht massa geproduceerde confectiekleding tegen vaste, lage prijzen, aan een clientèle uit de middenklasse en arbeidersklasse (arbeiders, ambachtslieden en kooplieden). De kleding werd in ateliers bovenin de warenhuizen gemaakt. Deze productie- en verkoopstrategie was nieuw en bleek een groot succes. Al gauw werden er nieuwe vestigingen geopend in andere Franse steden. La Belle Jardinière verkocht uniformen aan scholen, en tijdens de Eerste Wereldoorlog uniformen aan Franse en geallieerde officieren. Bij La Belle Jardinière kon men tevens terecht voor werkkledij en uniformen voor allerlei beroepen: van bakkers, kruideniers en slagers, tot chauffeurs en bezorgers. Deze platte pet met klep is waarschijnlijk onderdeel geweest van een uniform van iemand werkzaam in de dienstensector. Vanaf de jaren 1950 gaat het bergafwaarts met de keten, die moet concurreren met een groeiende concurrentie van goedkope confectiewinkels. In 1972 stopte het warenhuis zijn activiteiten..
-The current keeper of item 15938 is Studiecollectie.
-The identifier of item 15938 is ST2120.
-The identifierGroupType of item 15938 is TMS.
-The identifierGroupValue of item 15938 is 59132.
-The partNumber of item 15938 is 73290.
+The identifier of this artifact is "ST2120".
+The creator of this artifact is LA BELLE JARDINIÈRE.
+This artifact was created from the following period: ca. 1900.
+The description of this artifact is "Platte pet, behorende tot een uniform, van donkerblauwe lakense wol. Bovenzijde van kap bestaande uit een cirkel van donkerblauw gelakt imitatieleder. Maanvormige klep van idem imitatieleder. Binnenzijde is bekleed met doorgestikte zwarte zijde in keperbinding met fijne streepjes. Goudkleurig strikje aan achterzijde hoofd."
+The dimensions of this artifact are diameter kap: 18 cm  hoogte: 10 cm.
+The medium of this artifact includes zijde.
+The publisher of this artifact is MOMU.
+The subject of this artifact includes pet.
+The context of this artifact is "À La Belle Jardinière was een Franse keten van modepaleizen die in de negentiende eeuw als een van de eerste in zijn soort ontstond. Fourniturenhandelaar Pierre Parissot opende de eerste zaak in 1824 in Parijs vlakbij de Bloemenmarkt, en gaf het de wellicht daarnaar verwijzende naam La Belle Jardinière.  Parissot verkocht massa geproduceerde confectiekleding tegen vaste, lage prijzen, aan een clientèle uit de middenklasse en arbeidersklasse (arbeiders, ambachtslieden en kooplieden). De kleding werd in ateliers bovenin de warenhuizen gemaakt. Deze productie- en verkoopstrategie was nieuw en bleek een groot succes. Al gauw werden er nieuwe vestigingen geopend in andere Franse steden. La Belle Jardinière verkocht uniformen aan scholen, en tijdens de Eerste Wereldoorlog uniformen aan Franse en geallieerde officieren. Bij La Belle Jardinière kon men tevens terecht voor werkkledij en uniformen voor allerlei beroepen: van bakkers, kruideniers en slagers, tot chauffeurs en bezorgers. Deze platte pet met klep is waarschijnlijk onderdeel geweest van een uniform van iemand werkzaam in de dienstensector. Vanaf de jaren 1950 gaat het bergafwaarts met de keten, die moet concurreren met een groeiende concurrentie van goedkope confectiewinkels. In 1972 stopte het warenhuis zijn activiteiten.".
+The current keeper of this artifact is Studiecollectie.
+The identifier of this artifact is ST2120.
+The group type of this artifact is  TMS.
+The group value of this artifact is 59132.
+The partNumber of this artifact is 73290.

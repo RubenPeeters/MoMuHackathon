@@ -1,15 +1,14 @@
-The id of item 15992 is 15992.
-The title of item 15992 is "ST2174".
-The creator of item 15992 is BIBA.
-The date of item 15992 is 1966-1974.
-The description of item 15992 Blouse van lichtroze kunstzijden satijn. Plat kraagje van dubbele stof. Opgestikte schouderpas die aan het achterpand aangerimpeld is vastgezet. Korte, aangerimpelde mouwen, met aangestikte en omgeslagen manchetten. Figuurnaden op de borst vanuit de zijnaden. De blouse is getailleerd en heeft een aangestikt schootje van dezelfde stof aan de twee voorpanden en het achterpand. Sluitend middenvoor door middel van tien stofknopen (twee ontbreken, één los).
-The dimensions of item 15992 are hoogte: 58 cm  schouderbreedte: 35 cm  tailleomvang: 70 cm.
-The medium of item 15992 includes satijnbinding.
-The publisher of item 15992 is MOMU.
-The subject of item 15992 includes blouse.
-The context of item 15992 Modewinkel Biba was een begrip in het Londen van de jaren 1960 en de vroege jaren 1970. De van oorsprong Poolse ontwerpster Barbara Hulanicki ontwierp jeugdige looks die betaalbaar waren voor jonge, werkende vrouwen en studentes. Haar voor de Swinging Sixties typische ontwerpen, zoals ultrakorte minijurken, legden het accent op de benen van de draagster. Hulanicki haalde haar inspiratie uit de kledingstijlen van vervlogen tijden. Het aangestikte, uitlopende schootje (Engels: peplum) van deze lichtroze blouse legt het accent niet op de benen maar op de heupen, en verwijst naar modieuze silhouetten uit de jaren 1940..
-The current keeper of item 15992 is Studiecollectie.
-The identifier of item 15992 is ST2174.
-The identifierGroupType of item 15992 is TMS.
-The identifierGroupValue of item 15992 is 59470.
-The partNumber of item 15992 is 73628.
+The identifier of this artifact is "ST2174".
+The creator of this artifact is BIBA.
+This artifact was created from the following period: 1966-1974.
+The description of this artifact is "Blouse van lichtroze kunstzijden satijn. Plat kraagje van dubbele stof. Opgestikte schouderpas die aan het achterpand aangerimpeld is vastgezet. Korte, aangerimpelde mouwen, met aangestikte en omgeslagen manchetten. Figuurnaden op de borst vanuit de zijnaden. De blouse is getailleerd en heeft een aangestikt schootje van dezelfde stof aan de twee voorpanden en het achterpand. Sluitend middenvoor door middel van tien stofknopen (twee ontbreken, één los)."
+The dimensions of this artifact are hoogte: 58 cm  schouderbreedte: 35 cm  tailleomvang: 70 cm.
+The medium of this artifact includes satijnbinding.
+The publisher of this artifact is MOMU.
+The subject of this artifact includes blouse.
+The context of this artifact is "Modewinkel Biba was een begrip in het Londen van de jaren 1960 en de vroege jaren 1970. De van oorsprong Poolse ontwerpster Barbara Hulanicki ontwierp jeugdige looks die betaalbaar waren voor jonge, werkende vrouwen en studentes. Haar voor de Swinging Sixties typische ontwerpen, zoals ultrakorte minijurken, legden het accent op de benen van de draagster. Hulanicki haalde haar inspiratie uit de kledingstijlen van vervlogen tijden. Het aangestikte, uitlopende schootje (Engels: peplum) van deze lichtroze blouse legt het accent niet op de benen maar op de heupen, en verwijst naar modieuze silhouetten uit de jaren 1940.".
+The current keeper of this artifact is Studiecollectie.
+The identifier of this artifact is ST2174.
+The group type of this artifact is  TMS.
+The group value of this artifact is 59470.
+The partNumber of this artifact is 73628.

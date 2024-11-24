@@ -1,14 +1,13 @@
-The id of item 14390 is 14390.
-The title of item 14390 is "ST80062".
-The creator of item 14390 is LACEY AND SONS.
-The date of item 14390 is 1930-1940.
-The description of item 14390 Brede broek in dik, wit linnen. De broek heeft verschillende plooien in de taille, wat een wijd effect geeft aan de broekspijpen, die onderaan terug nauw aansluiten rond de enkels. Daar kan de onderkant van de broek geopend worden met knopen. Er is één achterzak. De broek sluit vooraan met knopen.
-The medium of item 14390 includes metaal.
-The publisher of item 14390 is MOMU.
-The subject of item 14390 includes broek.
-The context of item 14390 Professioneel cricketspeler William Lacey verhuist in 1887 vanuit Engeland naar Canada om daar te spelen en coachen. Aan het einde van dat decennium verhuist hij met zijn gezin naar Argentinië. In Buenos Aires zet Lacey zich in voor het in 1888 opgerichte Hurlingham Sports Club, een van de eerste sportclubs in Argentinië voor typisch Britse sporten als cricket, rugby en polo. Wanneer daar de vraag naar uitrustingen voor de sport polo toeneemt, begint hij met de verkoop van polosticks (zogenaamde ‘mallets’).  Later opent hij in het centrum van de stad een zaak voor (polo)sportkleding en materialen genaamd Lacey and Sons. Ook zoon Lewis Lacey, die internationaal bekend is als polospeler en zowel voor Engeland als Argentinië speelt, is betrokken bij zijn vaders zaak. Lewis ontwerpt in de jaren 1920 als eerste poloshirts met het logo van een polospeler te paard. Dit logo zal pas later in de jaren 1970 echt bekend gemaakt worden als het in aangepaste versie door modeontwerper Ralph Lauren gebruikt wordt bij zijn kledingmerk ‘Polo’. Lacey and Sons wordt overgenomen door Williams kleinzoon Wyndham Lacey, en de zaak sluit uiteindelijk zijn deuren in 1958.  Deze broek van stevig wit linnen loopt van wijd op heuphoogte naar nauwsluitend onder de knie, waar hij met knopen wordt vastgezet. Dit type broek is geschikt voor sportieve activiteiten zoals polo. Polobroeken worden gedragen met strakke hoge rijlaarzen die tot onder de knie reiken. Hierdoor poft dit model broek op boven de knie..
-The current keeper of item 14390 is Studiecollectie.
-The identifier of item 14390 is ST80062.
-The identifierGroupType of item 14390 is TMS.
-The identifierGroupValue of item 14390 is 49516.
-The partNumber of item 14390 is 63641.
+The identifier of this artifact is "ST80062".
+The creator of this artifact is LACEY AND SONS.
+This artifact was created from the following period: 1930-1940.
+The description of this artifact is "Brede broek in dik, wit linnen. De broek heeft verschillende plooien in de taille, wat een wijd effect geeft aan de broekspijpen, die onderaan terug nauw aansluiten rond de enkels. Daar kan de onderkant van de broek geopend worden met knopen. Er is één achterzak. De broek sluit vooraan met knopen."
+The medium of this artifact includes metaal.
+The publisher of this artifact is MOMU.
+The subject of this artifact includes broek.
+The context of this artifact is "Professioneel cricketspeler William Lacey verhuist in 1887 vanuit Engeland naar Canada om daar te spelen en coachen. Aan het einde van dat decennium verhuist hij met zijn gezin naar Argentinië. In Buenos Aires zet Lacey zich in voor het in 1888 opgerichte Hurlingham Sports Club, een van de eerste sportclubs in Argentinië voor typisch Britse sporten als cricket, rugby en polo. Wanneer daar de vraag naar uitrustingen voor de sport polo toeneemt, begint hij met de verkoop van polosticks (zogenaamde ‘mallets’).  Later opent hij in het centrum van de stad een zaak voor (polo)sportkleding en materialen genaamd Lacey and Sons. Ook zoon Lewis Lacey, die internationaal bekend is als polospeler en zowel voor Engeland als Argentinië speelt, is betrokken bij zijn vaders zaak. Lewis ontwerpt in de jaren 1920 als eerste poloshirts met het logo van een polospeler te paard. Dit logo zal pas later in de jaren 1970 echt bekend gemaakt worden als het in aangepaste versie door modeontwerper Ralph Lauren gebruikt wordt bij zijn kledingmerk ‘Polo’. Lacey and Sons wordt overgenomen door Williams kleinzoon Wyndham Lacey, en de zaak sluit uiteindelijk zijn deuren in 1958.  Deze broek van stevig wit linnen loopt van wijd op heuphoogte naar nauwsluitend onder de knie, waar hij met knopen wordt vastgezet. Dit type broek is geschikt voor sportieve activiteiten zoals polo. Polobroeken worden gedragen met strakke hoge rijlaarzen die tot onder de knie reiken. Hierdoor poft dit model broek op boven de knie.".
+The current keeper of this artifact is Studiecollectie.
+The identifier of this artifact is ST80062.
+The group type of this artifact is  TMS.
+The group value of this artifact is 49516.
+The partNumber of this artifact is 63641.

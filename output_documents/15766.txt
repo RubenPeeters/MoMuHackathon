@@ -1,14 +1,13 @@
-The id of item 15766 is 15766.
-The title of item 15766 is "ETON-PAK".
-The creator of item 15766 is BERNARDY.
-The date of item 15766 is 1950-1970.
-The description of item 15766 Pak, Eton-pak, met zwart gilet en jacquet, grijze gestreepte broek en wit hemd met aparte stijve kraag (ronde Eton-kraag) en manchetten.   A. kort jacquet in zwarte wol, met satijnen revers en voering, zwarte kunststof knopen   B. gilet in zwarte wol   C. broek in grijze gestreepte wol   D. wit katoen hemd   E. wit katoen stijve ronde kraag   FG. witte katoenen stijve manchetten
-The medium of item 15766 includes wol.
-The publisher of item 15766 is MOMU.
-The subject of item 15766 includes kostuum (pak).
-The context of item 15766 Het type Eton-pak werd oorspronkelijk vanaf 1798 door Engelse schooljongens gedragen en bestond uit een korte jas met een platte kraag en op taillehoogte puntige of naar achter recht gesneden voorpanden, een gilet met enkele knopenrij, en vaak een grijze broek. Oorspronkelijk was de jas blauw of rood, maar vanaf 1820 werd de jas zwart in rouw om koning George III.  Kenmerkend onderdeel van het pak is de losse, witte gesteven kraag, de zogenaamde Eton kraag. Deze brede kraag wordt omgeslagen over de kraag van de jas gedragen, in tegenstelling tot de rechtopstaande kragen die toen in de mode waren. De kraag werd zo populair dat hij ook bij andere soorten pakken gedragen werd om deze een voorname uitstraling te geven. Het Eton-pak kent zijn oorsprong in het schooluniform van Eton College, een prestigieuze privéschool nabij Windsor in Engeland. In de loop der tijd werd het echter ook gedragen door jongens die niet naar deze school gingen. Zo werd het pak een formeel kostuum voor welgeklede Engelse jongens uit de hogere klassen. In de laatste decennia van de twintigste eeuw raakt het Eton-pak uiteindelijk uit de mode..
-The current keeper of item 15766 is Studiecollectie.
-The identifier of item 15766 is ST1342ABCDEFG.
-The identifierGroupType of item 15766 is TMS.
-The identifierGroupValue of item 15766 is 58017.
-The partNumber of item 15766 is 72173.
+The identifier of this artifact is "ETON-PAK".
+The creator of this artifact is BERNARDY.
+This artifact was created from the following period: 1950-1970.
+The description of this artifact is "Pak, Eton-pak, met zwart gilet en jacquet, grijze gestreepte broek en wit hemd met aparte stijve kraag (ronde Eton-kraag) en manchetten.   A. kort jacquet in zwarte wol, met satijnen revers en voering, zwarte kunststof knopen   B. gilet in zwarte wol   C. broek in grijze gestreepte wol   D. wit katoen hemd   E. wit katoen stijve ronde kraag   FG. witte katoenen stijve manchetten"
+The medium of this artifact includes wol.
+The publisher of this artifact is MOMU.
+The subject of this artifact includes kostuum (pak).
+The context of this artifact is "Het type Eton-pak werd oorspronkelijk vanaf 1798 door Engelse schooljongens gedragen en bestond uit een korte jas met een platte kraag en op taillehoogte puntige of naar achter recht gesneden voorpanden, een gilet met enkele knopenrij, en vaak een grijze broek. Oorspronkelijk was de jas blauw of rood, maar vanaf 1820 werd de jas zwart in rouw om koning George III.  Kenmerkend onderdeel van het pak is de losse, witte gesteven kraag, de zogenaamde Eton kraag. Deze brede kraag wordt omgeslagen over de kraag van de jas gedragen, in tegenstelling tot de rechtopstaande kragen die toen in de mode waren. De kraag werd zo populair dat hij ook bij andere soorten pakken gedragen werd om deze een voorname uitstraling te geven. Het Eton-pak kent zijn oorsprong in het schooluniform van Eton College, een prestigieuze privéschool nabij Windsor in Engeland. In de loop der tijd werd het echter ook gedragen door jongens die niet naar deze school gingen. Zo werd het pak een formeel kostuum voor welgeklede Engelse jongens uit de hogere klassen. In de laatste decennia van de twintigste eeuw raakt het Eton-pak uiteindelijk uit de mode.".
+The current keeper of this artifact is Studiecollectie.
+The identifier of this artifact is ST1342ABCDEFG.
+The group type of this artifact is  TMS.
+The group value of this artifact is 58017.
+The partNumber of this artifact is 72173.

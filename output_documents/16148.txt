@@ -1,14 +1,13 @@
-The id of item 16148 is 16148.
-The title of item 16148 is "ST2201".
-The creator of item 16148 is ADOLPHE LAFONT.
-The date of item 16148 is 1970-1979.
-The dateSubmitted of item 16148 is 2022-06-28.
-The description of item 16148 Stofjas van kakikleurige gekeperde katoen. Wijd model met lange mouwen. Platte kraag met revers.
-The medium of item 16148 includes metaal.
-The publisher of item 16148 is MOMU.
-The subject of item 16148 includes stofjas.
-The context of item 16148 Een stofjas is een type werkjas die over de eigen kleding wordt gedragen. Zo blijft deze beschermd tegen stof en vuil. Dergelijke stofjassen worden in verschillende beroepen gebruikt, van winkels, kantoorruimtes tot in fabrieken.  Adolphe Lafont is een bekende Franse fabrikant van werkkleding. In 1844 opende Louis Lafont een stoffenwinkel met confectieatelier in Lyon. Zijn kleinzoon Adolphe nam in 1896 de zaak over en registreerde ‘Adolphe Lafont’ als een van de eerste merken voor werkkleding in Frankrijk. Tevens opende hij een winkel voor werkkleding in Parijs. Een bekend product van Lafont zijn de salopettes en overalls.  Hoewel ontworpen als werkkleding, is in deze jas van kakikleurig gekeperd katoen nog nooit gewerkt – hij is nog splinternieuw. Zelfs het label van de maker is nog aan de jas bevestigd..
-The current keeper of item 16148 is Studiecollectie.
-The identifier of item 16148 is ST2201.
-The identifierGroupType of item 16148 is TMS.
-The partNumber of item 16148 is 74041.
+The identifier of this artifact is "ST2201".
+The creator of this artifact is ADOLPHE LAFONT.
+This artifact was created from the following period: 1970-1979.
+This artifact was submitted on 2022-06-28.
+The description of this artifact is "Stofjas van kakikleurige gekeperde katoen. Wijd model met lange mouwen. Platte kraag met revers."
+The medium of this artifact includes metaal.
+The publisher of this artifact is MOMU.
+The subject of this artifact includes stofjas.
+The context of this artifact is "Een stofjas is een type werkjas die over de eigen kleding wordt gedragen. Zo blijft deze beschermd tegen stof en vuil. Dergelijke stofjassen worden in verschillende beroepen gebruikt, van winkels, kantoorruimtes tot in fabrieken.  Adolphe Lafont is een bekende Franse fabrikant van werkkleding. In 1844 opende Louis Lafont een stoffenwinkel met confectieatelier in Lyon. Zijn kleinzoon Adolphe nam in 1896 de zaak over en registreerde ‘Adolphe Lafont’ als een van de eerste merken voor werkkleding in Frankrijk. Tevens opende hij een winkel voor werkkleding in Parijs. Een bekend product van Lafont zijn de salopettes en overalls.  Hoewel ontworpen als werkkleding, is in deze jas van kakikleurig gekeperd katoen nog nooit gewerkt – hij is nog splinternieuw. Zelfs het label van de maker is nog aan de jas bevestigd.".
+The current keeper of this artifact is Studiecollectie.
+The identifier of this artifact is ST2201.
+The group type of this artifact is  TMS.
+The partNumber of this artifact is 74041.
