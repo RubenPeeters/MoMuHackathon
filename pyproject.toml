@@ -18,6 +18,8 @@ neo4j = "^5.26.0"
 langchain-ollama = "^0.2.0"
 faiss-cpu = "^1.9.0.post1"
 ipykernel = "^6.29.5"
+pillow = "^11.0.0"
+matplotlib = "^3.9.2"
 
 
 [tool.poetry.group.dev.dependencies]

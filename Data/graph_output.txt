@@ -1,250 +1,3 @@
-Subject 14993
-id: 14993
-title: ST651/5AB
-date: 1942-1943
-description: Sandalen, waarschijnlijk zelfgemaakt, met een sleehak van kurk. Voorblad bestaat uit twee stukken textiel die zijn voorzien van een blokpatroon in wat waarschijnlijk verzilverd draad is geweest. Sluiten aan de buitenkant van de enkel met een gesp. De sleehak is zilver gekleurd.
-medium: kurk
-medium: leder
-medium: metaal
-medium: zilverdraad
-publisher: MOMU
-subject: schoenen
-shortDescription: Leder, rubber en metaal. Drie materialen algemeen gebruikt voor de vervaardiging van schoeisel. Tijdens de Tweede Wereldoorlog legt de Duitse bezetter beslag op deze grondstoffen ten dienste van de oorlogsindustrie. Burgers moeten daarom inventief zijn om voor deze schaars verkrijgbare materialen alternatieven te vinden. Gedurende de oorlogsjaren publiceren vrouwen- en modebladen verschillende ideeën om zelf schoenen of sandalen te maken, te versieren, en te repareren.  
-
-De hakken van deze sandalen van omstreeks 1943-1944 zijn gemaakt van kurk. Kurk is afkomstig uit het Mediterrane gebied en wordt al eeuwenlang gebruikt voor schoeisel. Het bruine materiaal is hier zilverkleurig geverfd, passend bij de met verzilverd draad versierde lederen banden van de sandalen. Naast kurken zolen werden tijdens de jaren van schaarste ook zolen van hout of gevlochten (papier)touw gebruikt.
-P50_has_current_keeper: Studiecollectie
-identifier: ST651/5AB
-identifierGroupType: TMS
-identifierGroupValue: 54592
-partNumber: 68717
-Subject 16148
-id: 16148
-title: ST2201
-creator: ADOLPHE LAFONT
-date: 1970-1979
-dateSubmitted: 2022-06-28
-description: Stofjas van kakikleurige gekeperde katoen. Wijd model met lange mouwen. Platte kraag met revers.
-medium: katoen
-medium: metaal
-publisher: MOMU
-subject: stofjas
-shortDescription: Een stofjas is een type werkjas die over de eigen kleding wordt gedragen. Zo blijft deze beschermd tegen stof en vuil. Dergelijke stofjassen worden in verschillende beroepen gebruikt, van winkels, kantoorruimtes tot in fabrieken.  
-
-Adolphe Lafont is een bekende Franse fabrikant van werkkleding. In 1844 opende Louis Lafont een stoffenwinkel met confectieatelier in Lyon. Zijn kleinzoon Adolphe nam in 1896 de zaak over en registreerde ‘Adolphe Lafont’ als een van de eerste merken voor werkkleding in Frankrijk. Tevens opende hij een winkel voor werkkleding in Parijs. Een bekend product van Lafont zijn de salopettes en overalls.  
-
-Hoewel ontworpen als werkkleding, is in deze jas van kakikleurig gekeperd katoen nog nooit gewerkt – hij is nog splinternieuw. Zelfs het label van de maker is nog aan de jas bevestigd.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2201
-identifierGroupType: TMS
-partNumber: 74041
-Subject 15864
-id: 15864
-title: ST2053
-creator: AERTEX
-date: 1930-1939
-description: Onderbroek, voor een man, van gemaasde ecrukleurige katoen (zogenaamde 'Aertex' techniek). Model met hoge taille en korte pijpen. Aan bovenzijde aan weerszijden richting zijkant een in twee lussen vastgenaaid wit katoenen bandje. Tailleband in een boog breder wordend richting middenvoor. Split middenvoor tot aan kruis. Brede zoom onderaan pijp. Tailleband achterzijde breder wordend richting middenachter. Twee gefestonneerde oogjes aan weerszijden van middenachter waardoor een witte katoenen veter is geregen. Sluiting middenvoor door middel van drie knoopsgaten en knopen (één met wit katoen beklede knoop, twee ontbreken). Kruis gevoerd met dezelfde stof.
-extent: hoogte: 44 cm  tailleomvang: 72 cm
-medium: katoen
-publisher: MOMU
-subject: onderbroek
-shortDescription: Aertex is de naam van een losgeweven en lichtgewicht katoenen weefsel dat voornamelijk wordt gebruikt voor ondergoed en sportkleding. De Cellular Clothing Company (ook wel Aertex Company) werd in 1888 opgericht in Manchester, Engeland. Het bedrijf ontwikkelde een speciale techniek om lucht en warmte vast te houden in de ruimtes tussen schering en inslag van het weefsel. Aertex textiel vormde daardoor een beschermende laag rondom het lichaam en was geschikt om zowel in de zomer als in de winter te dragen. Aertex werd gepromoot als innovatieve ‘cellulaire kleding’ voor mannen, vrouwen en kinderen. Zoals op het label van deze onderbroek uit de jaren 1930 te zien is, werd er geclaimd dat het gezond was om kleding gemaakt van Aertex te dragen. Aertex wordt vandaag de dag nog steeds geproduceerd.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2053
-identifierGroupType: TMS
-identifierGroupValue: 59019
-partNumber: 73177
-Subject 15966
-id: 15966
-title: ST2148
-date: 1850-1900
-dateSubmitted: 2022-06-28
-description: Pyjamajasje, voor een man, van lichtbeige katoenen popeline met fijne donkerbeige strepen. Ingezette rechte lange mouwen. Brede omgeslagen hemdkraag. Eén borstzak en twee opgestikte zakken aan de voorzijde. Sluit middenvoor met een parelmoeren knoopje in de hals en drie paar wit en blauw geborduurde brandebourgs, waarvan de knopen ontbreken.
-extent: hoogte: 78 cm  schouderbreedte (rug): 38 cm
-medium: katoen
-medium: parelmoer
-medium: passement
-medium: popeline
-publisher: MOMU
-subject: pyjamajasje
-shortDescription: ‘Brandebourg’ is de naam voor een type houtje-touwtjesluiting gebruikt op heren- en dameskleding. Deze tweedelige sluiting bestaat uit ornamentele lussen in passement, waarvan de ene zijde wordt bevestigd rond een knoop in vlechtwerk of koord aan de andere zijde. Brandebourgs werden vaak gemaakt van goud- of zijdedraad. Oorspronkelijk was deze sluiting een onderdeel van de militaire kleding in Brandenburg, een deelstaat van het Pruisische Rijk.  
-
-In oorsprong komt de term van een zeventiende-eeuwse lange losse overjas, ook Brandenburg genaamd, die versierd is met de typische koordversieringen en van goud- of zijdedraad gemaakte knopen. Vanaf het midden van de achttiende eeuw verwijst de term brandebourg naar de rijkelijk versierde sluiting, die onder meer voorkomt op mantels, ochtend- en nachtkleding zoals dit pyjamajasje.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2148
-identifierGroupType: TMS
-identifierGroupValue: 59313
-note: Pattern-a-thon
-partNumber: 73471
-Subject 14390
-id: 14390
-title: ST80062
-creator: LACEY AND SONS
-date: 1930-1940
-description: Brede broek in dik, wit linnen. De broek heeft verschillende plooien in de taille, wat een wijd effect geeft aan de broekspijpen, die onderaan terug nauw aansluiten rond de enkels. Daar kan de onderkant van de broek geopend worden met knopen. Er is één achterzak. De broek sluit vooraan met knopen.
-medium: corozo
-medium: katoen
-medium: met de machine genaaid
-medium: metaal
-publisher: MOMU
-subject: broek
-shortDescription: Professioneel cricketspeler William Lacey verhuist in 1887 vanuit Engeland naar Canada om daar te spelen en coachen. Aan het einde van dat decennium verhuist hij met zijn gezin naar Argentinië. In Buenos Aires zet Lacey zich in voor het in 1888 opgerichte Hurlingham Sports Club, een van de eerste sportclubs in Argentinië voor typisch Britse sporten als cricket, rugby en polo. Wanneer daar de vraag naar uitrustingen voor de sport polo toeneemt, begint hij met de verkoop van polosticks (zogenaamde ‘mallets’).  
-
-Later opent hij in het centrum van de stad een zaak voor (polo)sportkleding en materialen genaamd Lacey and Sons. Ook zoon Lewis Lacey, die internationaal bekend is als polospeler en zowel voor Engeland als Argentinië speelt, is betrokken bij zijn vaders zaak. Lewis ontwerpt in de jaren 1920 als eerste poloshirts met het logo van een polospeler te paard. Dit logo zal pas later in de jaren 1970 echt bekend gemaakt worden als het in aangepaste versie door modeontwerper Ralph Lauren gebruikt wordt bij zijn kledingmerk ‘Polo’. Lacey and Sons wordt overgenomen door Williams kleinzoon Wyndham Lacey, en de zaak sluit uiteindelijk zijn deuren in 1958.  
-
-Deze broek van stevig wit linnen loopt van wijd op heuphoogte naar nauwsluitend onder de knie, waar hij met knopen wordt vastgezet. Dit type broek is geschikt voor sportieve activiteiten zoals polo. Polobroeken worden gedragen met strakke hoge rijlaarzen die tot onder de knie reiken. Hierdoor poft dit model broek op boven de knie.
-P50_has_current_keeper: Studiecollectie
-identifier: ST80062
-identifierGroupType: TMS
-identifierGroupValue: 49516
-partNumber: 63641
-Subject 15959
-id: 15959
-title: ST2140
-creator: NIVOSE
-date: ca. 1965
-description: Skibroek van zwarte gekeperde kunstvezel en wol mix. Lang model met elastiek onder de voeten. Hoge taille, met tailleband met twee riemlussen aan de voorzijde. Verticale steekzak met metalen ritssluiting links en rechts op de voorpanden op heuphoogte. Twee plooien links en rechts van middenvoor, waarvan telkens één van bovenaan in een scherpe vouw over de pijp naar beneden loopt. Smalle, taps toelopende pijp, met twee splitten onderaan bij de enkel en twee elastieken banden voor onder de voet. Achterzijde tailleband met twee riemlussen, en vier figuurnaden onder de tailleband. Sluiting in beide zijnaden van taille tot heup door middel van een metalen rits en een flap in de tailleband die met een knoopsgat over een zwarte plastic knoop wordt gehaald. Binnenzijde tailleband verstevigd met ecrukleurig ripsband waardoor elastiek is geregen (elastiek verdroogd en verkruimeld). Zakvoering van lichtblauwe katoen.
-extent: hoogte: 95 cm  tailleomvang: 66 cm
-medium: kunstvezel
-medium: metaal
-medium: plastic
-medium: ripsband
-medium: wol
-publisher: MOMU
-subject: broek
-shortDescription: Onder invloed van onder meer sociale wetten en tijdbesparende technologieën in verschillende industrieën, wordt aan het begin van de twintigste eeuw het bedrijven van een sport voor meer mensen een optie. Sport is niet langer enkel voor de elite met zeeën van tijd en geld. Ook mensen uit andere sociale klassen hebben door ingekorte arbeidsuren en betere lonen meer tijd en geld over om te sporten en sportkledij en uitrusting kopen. 
-
-Skiën is al vanaf de negentiende eeuw een groeiend populaire wintersport, maar dan voornamelijk voor de gegoede elite. Vanaf de jaren 1930 komt skiën als een vorm van wintervermaak in de mode onder een grotere laag van de bevolking. Vrouwen- en modetijdschriften tonen de laatste trends op gebied van modieuze skikleding en bijpassende accessoires. Deze aandacht zorgt op zijn beurt voor een groeiende belangstelling om ‘s winters te gaan skiën. Halverwege de twintigste eeuw zorgen innovaties in zowel de materialen als het vervaardigen van skiuitrusting en -vervoer voor steeds meer skicomfort. Ook skikleding maakt een ontwikkeling door: van wollen skijassen en -broeken, naar skikleding gemaakt van kunstvezel die een grotere rekbaarheid heeft en waterdicht is. 
-
-Deze skibroek van zwarte kunstvezel/wol is gemaakt door het nog steeds bestaande Franse merk Nivose in Lyon in de Franse Alpen. Nivose maakt sinds 1933 modieuze winterkleding onder het motto: “le vêtement chic du vrai skieur” (“deftige kleding voor de echte skiër”). De taps toelopende broekpijpen worden op de plaats gehouden door twee elastieken banden onder de voet. Hierover worden skischoenen gedragen. Hoewel skibroeken met band onder de voet in wollen uitvoering al sinds het einde van de jaren 1930 gedragen werden, wordt dit sluik model in stretchstof vooral modieus in de jaren 1960 en 1970.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2140
-identifierGroupType: TMS
-identifierGroupValue: 59304
-partNumber: 73462
-Subject 16076
-id: 16076
-title: ST2244
-date: ca. 1900
-description: Kinderschort, of overgooier, voor een (school)kind van ca. tien jaar, van katoen met witte schering en blauwe inslag. Ronde kraagloze halslijn, versierd met borduursel in wit katoenen dubbele taksteek. Ingezette lange, rechte mouwen, aangerimpeld bij de pols. Manchet versierd met borduursel en sluitend met twee witte parelmoeren knopen en gehaakte lusjes. Schouderpas aan voor- en achterzijde langs de onderzijde versierd met borduursel in dubbele taksteek. Daaronder is de rok in tien platte plooien aangestikt. Een ceintuur van dezelfde stof versierd met idem borduursel is vastgestikt op de taille, sluitend op de rug door middel van twee witte parelmoeren knopen en lusjes. De rok heeft een brede zoom versierd met borduursel. Geheel open langs middenachter, en geplooid op beide achterpanden. Sluit middenachter door middel van drie witte parelmoeren knopen vanaf de hals tot onderzijde schouderpas.
-extent: hoogte: 77,5 cm  schouderbreedte: 31 cm
-medium: borduurwerk
-medium: haakwerk
-medium: katoen
-medium: parelmoer
-medium: platbinding
-publisher: MOMU
-subject: schort
-shortDescription: Bij het maken van dit kinderschort voor alledaags gebruik is rekening gehouden met duurzaamheid. Het is namelijk op de groei gemaakt. Als je goed kijkt, zie je dat de zoom onderaan de schort een keer werd uitgelegd om het een stukje langer te maken. Iets boven de nieuwe zoomlijn zie je nog de gaatjes die de naald maakte, resten van draad, en verkleuring door het licht. Ook de versiering in dubbele taksteek werd uitgehaald en opnieuw geborduurd.  
-
-Bovendien is aan de binnenzijde van de schort te zien dat de stof zo voordelig en zuinig mogelijk werd geknipt. De zijnaden bestaan uit de zogenaamde “zelfkanten” van de stof (dat wil zeggen: de uiterste zijkanten in lengterichting). De zelfkant van een weefsel is stevig en heeft bovendien geen verdere afwerking nodig.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2244
-identifierGroupType: TMS
-identifierGroupValue: 59575
-partNumber: 73733
-Subject 16090
-id: 16090
-title: ST2253
-date: 1945
-dateSubmitted: 2022-06-28
-description: Jurk van witte katoen met blauwe en roze ruiten.
-extent: hoogte: 100 cm  schouderbreedte: 36 cm  tailleomvang: 62 cm
-medium: borduurwerk
-medium: katoen
-medium: platbinding
-publisher: MOMU
-subject: jurk
-shortDescription: Een geruite katoenen jurk van een meisje of jonge vrouw met de initialen “J.B.”. Als je goed kijkt een voorbeeld van spaarzaamheid. Tijdens en net na de Tweede Wereldoorlog is textiel namelijk moeilijk te verkrijgen. Kleding is duur en “op de bon”: een nieuw kledingstuk kan enkel worden aangeschaft bij inlevering van op rantsoen gestelde textielbonnen. Zuinig omspringen met de eigen kledij is van groot belang.  
-
-De stof van deze katoenen jurk is op verschillende plaatsen nauwkeurig met de hand doorgestopt. Een eenvoudige manier om de plaatselijk fragiel geworden stof te verstevigen. Zo blijft een kostbaar kledingstuk langer draagbaar.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2253
-identifierGroupType: TMS
-identifierGroupValue: 59584
-partNumber: 73742
-Subject 16009
-id: 16009
-title: ST2191
-date: ca. 1990
-description: Jasje, zogenaamde type safari-jasje of saharienne, van crèmekleurige katoen. Omgevouwen kraag. Beleg op de schouders, als een epaulet, van dezelfde katoen, met een knoopsgat en een witte plastic knoop. Ingezette rechte lange mouwen, met split bij de polsen. Rechte manchet met twee knoopsgaten en één witte plastic knoop. Schouderpas tot halverwege de borst. Opgestikte zak met stolpplooi links en rechts op de borst, met een klep die sluit door middel van een knoopsgat en een witte plastic knoop. Opgestikte tailleband van dezelfde stof. Grotere opgestikte zak met stolpplooi links en rechts de heupen, met een klep die sluit door middel van een knoopsgat en een witte plastic knoop. Naar binnen omgeslagen en vastgestikte zoom. Twee zijpanden. Schouderpas met daaronder twee rugpanden. Vastgestikte tailleband, en split in de rugpanden tot onderaan de zoom, waarbij het linkerpand iets over het rechterpand valt. Sluiting middenvoor van hals tot iets onder de tailleband door middel van vijf knoopsgaten en vijf witte plastic knopen. Zonder voering. Verstevigd en versteld op twee plaatsen op rechter voor- en zijpand bij de zak.
-extent: hoogte: 75 cm  schouderbreedte: 41 cm
-medium: katoen
-medium: kunststof
-medium: platbinding
-publisher: MOMU
-subject: vest
-shortDescription: Het safari-jasje kent zijn oorsprong in de negentiende-eeuwse koloniale expedities naar voornamelijk India en Oost-Afrika. De kleding van Europeanen moest worden aangepast aan de tropische temperaturen: luchtig, stevig en lichtgewicht was het devies. Safari-jasjes werden gedragen met hemd, een broek van stevig katoen, en laarzen met lederen of stoffen beenwindsels. Een tropenhelm beschermde tegen de felle zon. Vaak waren al deze kledingstukken en accessoires uitgevoerd in lichte kleuren zoals beige en kaki. Kenmerkend voor safari-jasjes zijn de epauletten op de schouders, een geïntegreerde tailleband met vaak een ceintuur van dezelfde stof, een split middenachter op de rug die zorgt voor meer bewegingsruimte, en ruime, opgestikte klepzakken met plooi die sluiten met een knoop.  
-
-Vanaf de jaren 1930 maakte safarikleding een doorbraak naar de mode. Een grote invloed was tevens het uitkomen van Hollywoodfilms in de jaren 1940 en 1950 die gesitueerd waren in Afrika. De hoofdrollen hierin waren weggelegd voor de grootste filmsterren van die tijd, zoals Douglas Fairbanks Jr. in de film ‘Safari’ (1940) en Clark Gable in de film ‘Mogambo’ (1953). 
-
-Hoewel oorspronkelijk een kledingstuk voor mannen werd het safari-jasje later ook door vrouwen gedragen. Belangrijk hierin was de rol van modeontwerper Yves Saint Laurent, die in 1967 een safari-jasje op de Parijse catwalk introduceerde. Vanaf 1969 was een ready-to-wear versie van dit jasje te koop in zijn Saint Laurent Rive Gauche boetiek. De safari-look bleek een groot succes in de jaren 1970.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2191
-identifierGroupType: TMS
-identifierGroupValue: 59489
-partNumber: 73647
-Subject 15950
-id: 15950
-title: ST2133
-creator: LIVE INS
-date: 1970-1979
-description: Spijkerbroek, zogenaamde type bell-bottoms, van donkerblauwe katoenen spijkerstof. Tailleband van dezelfde stof met riemlusjes. Aan de voorzijde op heuphoogte versierd met machinaal geborduurde gestileerde bloemen in gele, groene en paarse katoen. Lange, vanaf de knie wijd uitlopende pijpen. Twee opgestikte zakken op het achterwerk. Sluiting middenvoor door middel van twee paarse plastic knopen (één knoop ontbreekt en één is vervangen door een zwarte plastic knoop) en een grote metalen drukknoop bovenaan.
-extent: hoogte: 106 cm  tailleomvang: 66 cm
-medium: katoen
-medium: keperbinding
-medium: kunststof
-medium: machinaal borduurwerk
-publisher: MOMU
-subject: jeansbroek
-shortDescription: Broeken als dit exemplaar, strak op de bovenbenen met onderaan uitlopende pijpen, worden ook wel ‘bell-bottoms’ (bell = klok) genoemd. Oorspronkelijk waren dergelijke aan de onderzijde klokvormige broeken een kenmerkend onderdeel van het uniform van negentiende-eeuwse matrozen. Dit type broek werd echter modieus tijdens het hippie-tijdperk halverwege de jaren 1960 tot en met de jaren 1970. Jongeren begonnen zich in de jaren 1960 te verzetten tegen de gevestigde orde, de heersende consumptiemaatschappij en de oorlog in Vietnam. Een wijze van protest was dat zij hun eigen kleding maakten of tweedehands kochten, bijvoorbeeld uit winkels die overstock van het leger verkochten. Door deze militaire kledingstukken te vermaken en versieren, bijvoorbeeld met vredestekens of geborduurde bloemen, gaven zij uiting aan hun verzet tegen de oorlog in Vietnam.  
-
-Broeken als dit van spijkerstof gemaakte en met bloemen geborduurde exemplaar van het Amerikaanse denim merk ‘Live Ins’, bovenaan hoge en strak, en vanaf de dij, knie of kuit wijd uitlopend, waren destijds een grote afwijking van de gangbare mode van rechte broeken. Bell-bottoms werden populair gemaakt door muzikale sterren als Jimi Hendrix, Mick Jagger van de Rolling Stones, en het duo Sonny en Cher. Een vergelijkbaar model dat nog wijder vanaf dij of knie uitliep, was de ‘elephant bells’, in het Nederlands ook wel ‘broek met olifantenpijpen’ genoemd. Aan het einde van de jaren 1970, met de opkomst van de punk cultuur waarin nauwsluitende, rechte of taps toelopende broeken de mode werden, raken bell-bottoms uit de mode.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2133
-identifierGroupType: TMS
-identifierGroupValue: 59297
-partNumber: 73455
-Subject 16016
-id: 16016
-title: ST2198
-date: 1900-1909
-description: Regenjas, zogenaamde type trenchcoat, voor een man, van beige katoenen popeline. Omgevouwen puntige kraag. Lange rechte raglanmouwen, bestaande uit twee panden. Op de polsen drie riemlusjes waardoor een riempje van dezelfde stof is gehaald met vijf metalen nestelringen en een met bruin leder bekleed metalen gespje. Flap, zogenaamde stormflap, op de rechterschouder, met een knoopsgat en een plastic schildpad imitatie knoop. Riemlussen op elke zij (riem ontbreekt). Verticale zak op iedere heup, met knoopsgat en plastic knoop, die naar een opgestikte zak aan de binnenzijde van de jas op de voering leidt. Flap met twee knoopsgaten aan achterzijde van de nek, die aan twee paar plastic knoopjes kan worden bevestigd aan de achterzijde, en zo om de voorzijde van de hals kan worden geslagen. Twee achterpanden, met een split middenachter vanaf het achterwerk tot de onderzijde. Deze wordt halverwege bijeengehouden door een knoopsgat op het rechter achterpand en een plastic knoop aan de binnenzijde van het linker achterpand.  Sluiting (double breasted) links en rechts van middenvoor door middel van twee keer vijf knoopsgaten en twee keer vijf grote plastic knopen. Aan de binnenzijde langs de openingen en in de nek totaal dertien bruine plastic knopen. Voering van katoenen changeant met rode en groene draad, en tussenvoering van grof geweven wit (verkleurd) katoen. Ophanglusje aan achterzijde halsopening.
-extent: hoogte: 120 cm  schouderbreedte: 62 cm
-medium: katoen
-medium: keperbinding
-medium: leder
-medium: metaal
-medium: plastic
-medium: popeline
-publisher: MOMU
-subject: regenjas
-shortDescription: Een trenchcoat is een type uniseks, lichtgewicht, waterdichte overjas. Twee bekende Engelse fabrikanten van luxe outdoor kledij claimen de trenchcoat te hebben uitgevonden: Aquascutum (opgericht in 1851) en Burberry (opgericht in 1856). 
-
-Tijdens de Eerste Wereldoorlog werd de overjas aangepast voor gebruik door Britse officieren in de loopgraven. Hierdoor kreeg dit type jas de naam trenchcoat (trench = loopgraaf). De karakteristieke “storm flap” (ook wel “gun flap”) op de rechterschouder zorgt voor ventilatie.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2198
-identifierGroupType: TMS
-identifierGroupValue: 59496
-partNumber: 73654
-Subject 15706
-id: 15706
-title: ST1332A
-date: 1930-1960
-description: Kinderjurkje van gele katoen; Peter Pan-kraagje afgewerkt met blauw garen; smokwerk ter hoogte van de borst afgewerkt met blauw en geel garen; kleine bloemetjes in dezelfde kleuren op de gerimpelde rok. Korte pofmouwtjes. Sluit aan de achterzijde met drie drukknopen, aan de buitenkant is de sluiting afgewerkt met doorzichtige kunststof knopen met reliëf, die opgebouwd zijn uit kleine bolletjes. Netjes uitgevoerd handwerk.
-medium: borduurwerk
-medium: katoen
-medium: kunststof
-medium: smokwerk
-medium: weefsel
-publisher: MOMU
-subject: jurk
-shortDescription: Een Peter Pan-kraag is een platvallende, tweedelige ronde kraag die vanaf ongeveer 1909 modieus werd, hoewel gelijkende kragen al in de negentiende eeuw onder andere namen bestonden. De naam is afkomstig van de hoofdrolspeler uit het gelijknamige toneelstuk (première in 1904) en boek (1911) geschreven door de Schotse auteur J. M. Barrie. Actrice Maude Adams droeg een kostuum met een dergelijke kraag toen zij in 1905 de rol van Peter Pan vertolkte op het Amerikaanse Broadway. De Peter Pan kraag was vooral geliefd als onderdeel van kleding voor jonge meisjes en kleine kinderen en werd dan ook gedurende de rest van de twintigste eeuw gedragen.
-P50_has_current_keeper: Studiecollectie
-identifier: ST1332A
-identifierGroupType: TMS
-identifierGroupValue: 56962
-note: Pattern-a-thon
-partNumber: 71088
 Subject 16020
 id: 16020
 title: ST2203
@@ -271,6 +24,24 @@ identifier: ST2203
 identifierGroupType: TMS
 identifierGroupValue: 59501
 partNumber: 73659
+Subject 16157
+id: 16157
+title: ST2014
+date: 1930-1959
+dateSubmitted: 2022-06-28
+description: Jurk, daagse jurk of werkjurk.
+publisher: MOMU
+subject: jurk
+shortDescription: Deze daagse huis- of werkjurk van bedrukt katoen is nog ongedragen. Het papieren etiket geeft inzicht in waar dit kledingstuk gekocht is: de Grand Magasins À Saint-Jacques te Reims.  
+
+Aan het begin van de jaren 1920 fuseren twee grote warenhuizen in Reims, La Samaritaine en À la Tour Saint-Jacques, onder de naam À Saint-Jacques. In deze nieuwe zaak in de Rue de Vesle verkoopt men voornamelijk dames- en kinderkleding. Tevens zijn er zijn verstelateliers, en klanten kunnen er terecht voor stoffen, interieurtextiel en een grote verscheidenheid aan accessoires. In een bijgebouw wordt heren-, jongens-, en werkkleding verkocht. De winkel wordt uiteindelijk in 1971 overgenomen door de Britse keten Marks & Spencer.  
+
+Ruimvallende jurken zoals dit exemplaar werden door vrouwen binnenshuis over de eigen kleding gedragen om deze te beschermen tijdens het (huishoudelijk) werk. De taille wordt bijeengehouden met een ceintuur, en de jurk heeft praktische ruime zakken. Door de knopen langs de gehele voorkant is de jurk snel uit te trekken indien er bezoek komt en men er deftig uit wil zien. Het is onzeker waarom deze jurk nooit gedragen is. Mogelijk komt de jurk uit een onverkochte winkelvoorraad van À Saint-Jacques.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2014
+identifierGroupType: TMS
+identifierGroupValue: 60190
+partNumber: 74348
 Subject 15938
 id: 15938
 title: ST2120
@@ -299,63 +70,6 @@ identifier: ST2120
 identifierGroupType: TMS
 identifierGroupValue: 59132
 partNumber: 73290
-Subject 15766
-id: 15766
-title: ST1342ABCDEFG
-creator: BERNARDY
-date: 1950-1970
-description: Pak, Eton-pak, met zwart gilet en jacquet, grijze gestreepte broek en wit hemd met aparte stijve kraag (ronde Eton-kraag) en manchetten.   A. kort jacquet in zwarte wol, met satijnen revers en voering, zwarte kunststof knopen   B. gilet in zwarte wol   C. broek in grijze gestreepte wol   D. wit katoen hemd   E. wit katoen stijve ronde kraag   FG. witte katoenen stijve manchetten
-medium: katoen
-medium: kunststof
-medium: wol
-publisher: MOMU
-subject: kostuum (pak)
-title: ETON-PAK
-shortDescription: Het type Eton-pak werd oorspronkelijk vanaf 1798 door Engelse schooljongens gedragen en bestond uit een korte jas met een platte kraag en op taillehoogte puntige of naar achter recht gesneden voorpanden, een gilet met enkele knopenrij, en vaak een grijze broek. Oorspronkelijk was de jas blauw of rood, maar vanaf 1820 werd de jas zwart in rouw om koning George III.  
-
-Kenmerkend onderdeel van het pak is de losse, witte gesteven kraag, de zogenaamde Eton kraag. Deze brede kraag wordt omgeslagen over de kraag van de jas gedragen, in tegenstelling tot de rechtopstaande kragen die toen in de mode waren. De kraag werd zo populair dat hij ook bij andere soorten pakken gedragen werd om deze een voorname uitstraling te geven. 
-
-Het Eton-pak kent zijn oorsprong in het schooluniform van Eton College, een prestigieuze privéschool nabij Windsor in Engeland. In de loop der tijd werd het echter ook gedragen door jongens die niet naar deze school gingen. Zo werd het pak een formeel kostuum voor welgeklede Engelse jongens uit de hogere klassen. In de laatste decennia van de twintigste eeuw raakt het Eton-pak uiteindelijk uit de mode.
-P50_has_current_keeper: Studiecollectie
-identifier: ST1342ABCDEFG
-identifierGroupType: TMS
-identifierGroupValue: 58017
-partNumber: 72173
-Subject 15992
-id: 15992
-title: ST2174
-creator: BIBA
-date: 1966-1974
-description: Blouse van lichtroze kunstzijden satijn. Plat kraagje van dubbele stof. Opgestikte schouderpas die aan het achterpand aangerimpeld is vastgezet. Korte, aangerimpelde mouwen, met aangestikte en omgeslagen manchetten. Figuurnaden op de borst vanuit de zijnaden. De blouse is getailleerd en heeft een aangestikt schootje van dezelfde stof aan de twee voorpanden en het achterpand. Sluitend middenvoor door middel van tien stofknopen (twee ontbreken, één los).
-extent: hoogte: 58 cm  schouderbreedte: 35 cm  tailleomvang: 70 cm
-medium: kunstzijde
-medium: satijnbinding
-publisher: MOMU
-subject: blouse
-shortDescription: Modewinkel Biba was een begrip in het Londen van de jaren 1960 en de vroege jaren 1970. De van oorsprong Poolse ontwerpster Barbara Hulanicki ontwierp jeugdige looks die betaalbaar waren voor jonge, werkende vrouwen en studentes. Haar voor de Swinging Sixties typische ontwerpen, zoals ultrakorte minijurken, legden het accent op de benen van de draagster. Hulanicki haalde haar inspiratie uit de kledingstijlen van vervlogen tijden. Het aangestikte, uitlopende schootje (Engels: peplum) van deze lichtroze blouse legt het accent niet op de benen maar op de heupen, en verwijst naar modieuze silhouetten uit de jaren 1940.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2174
-identifierGroupType: TMS
-identifierGroupValue: 59470
-partNumber: 73628
-Subject 16157
-id: 16157
-title: ST2014
-date: 1930-1959
-dateSubmitted: 2022-06-28
-description: Jurk, daagse jurk of werkjurk.
-publisher: MOMU
-subject: jurk
-shortDescription: Deze daagse huis- of werkjurk van bedrukt katoen is nog ongedragen. Het papieren etiket geeft inzicht in waar dit kledingstuk gekocht is: de Grand Magasins À Saint-Jacques te Reims.  
-
-Aan het begin van de jaren 1920 fuseren twee grote warenhuizen in Reims, La Samaritaine en À la Tour Saint-Jacques, onder de naam À Saint-Jacques. In deze nieuwe zaak in de Rue de Vesle verkoopt men voornamelijk dames- en kinderkleding. Tevens zijn er zijn verstelateliers, en klanten kunnen er terecht voor stoffen, interieurtextiel en een grote verscheidenheid aan accessoires. In een bijgebouw wordt heren-, jongens-, en werkkleding verkocht. De winkel wordt uiteindelijk in 1971 overgenomen door de Britse keten Marks & Spencer.  
-
-Ruimvallende jurken zoals dit exemplaar werden door vrouwen binnenshuis over de eigen kleding gedragen om deze te beschermen tijdens het (huishoudelijk) werk. De taille wordt bijeengehouden met een ceintuur, en de jurk heeft praktische ruime zakken. Door de knopen langs de gehele voorkant is de jurk snel uit te trekken indien er bezoek komt en men er deftig uit wil zien. Het is onzeker waarom deze jurk nooit gedragen is. Mogelijk komt de jurk uit een onverkochte winkelvoorraad van À Saint-Jacques.
-P50_has_current_keeper: Studiecollectie
-identifier: ST2014
-identifierGroupType: TMS
-identifierGroupValue: 60190
-partNumber: 74348
 Subject 15695
 id: 15695
 title: ST1320
@@ -378,28 +92,85 @@ identifier: ST1320
 identifierGroupType: TMS
 identifierGroupValue: 56949
 partNumber: 71075
-Subject 14641
-id: 14641
-title: ST80519
-date: 1900-1910
-description: Dunne, ecrukleurige, lange jas die tijdens het auto rijden over de kleding werd gedragen om deze te beschermen. De jas heeft een kleine kraag, lange mouwen, twee zakken vooraan en sluit vooraan met vijf knopen.
-medium: kunststof
-medium: linnen
+Subject 16099
+id: 16099
+title: ST2262
+date: 1920-1925
+dateSubmitted: 2022-06-28
+description: Jurk, type robe de style, van blauw-groene changeant tafzijde.
+extent: hoogte: 118 cm  schouderbreedte: 40 cm
+medium: taf
+publisher: MOMU
+subject: jurk
+shortDescription: Bij de jaren 1920 denkt men al gauw aan de typische met pailletten en kralen versierde, tuniekachtige jurken met een verlaagde taille. In sterk contrast tot dit archetype, staat deze blauwgroene jurk gemodelleerd naar het type robe de style. Dit is de Franse term voor een silhouet uit de jaren 1920 dat wordt geassocieerd met de Parijse modeontwerpster Jeanne Lanvin (1867-1946). Kenmerkend voor Lanvin’s robe de style zijn nauwsluitende lijfjes, een taillelijn die verlaagd is tot onder de natuurlijke taille, en volle rokken die tot kuit of enkels reiken. Lanvin greep hiermee terug op het silhouet van japonnen gedragen aan het achttiende-eeuwse Franse hof.  
+
+Deze jurk uit de periode 1920-1925 is gemaakt van een zogeheten changeant tafzijde. De schering- en inslagdraden van dit type weefsel bestaan uit contrasterende kleuren blauwgroen en paars, wat vanuit verschillende invalshoeken een wisselend kleureffect geeft. De binnenkant is gevoerd met crèmekleurige zijde. De jurk heeft een ronde, gefronselde halsopening en aan de onderzijde licht poffende mouwen. Een gefronselde tafzijden rozet met daardoorheen een lange strook van hetzelfde materiaal legt het accent op de verlaagde taille. De jurk is middenachter op de rug versierd met decoratieve knoopjes, en sluit met metalen haken en ogen en drukknopen.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2262
+identifierGroupType: TMS
+identifierGroupValue: 59593
+partNumber: 73751
+Subject 14455
+id: 14455
+title: ST80185
+creator: OLYMPISCHE SPELEN LOS ANGELES
+date: 1984
+description: Oranje jas met vooraan twee zakken. De mouwen zijn onderaan afgewerkt met drie goudkleurige knopen. De jas sluit vooraan met twee goudkleurige knopen. Beige voering. De jas maakt deel uit van een uniform van de Olympische Zomerspelen in 1984.
+medium: dacron
+medium: kunstvezel
 medium: metaal
+medium: polyester
 publisher: MOMU
 subject: jas
-shortDescription: Dit type losse, lichtgewicht jas wordt ook wel ‘duster’ genoemd. Een duster wordt tijdens het autorijden over de kleding gedragen om deze onderweg tegen vuil en stof (‘dust’ in het Engels) te beschermen. De duster is een aanpassing van een soortgelijke jas die vanaf het einde van de achttiende eeuw werd gedragen voor reizen per paard of koets. Een duster was ruimvallend, reikte van nek tot kuit of enkel, en werd typisch gemaakt van ecrukleurig katoenen canvas of linnen waardoor de kleur van stof minder opviel. 
+shortDescription: De eerste moderne Olympische Spelen werden in de zomer van 1896 gehouden in Athene. In 1908 tijdens de Spelen in Londen werd voor het eerst een openingsdefilé ingevoerd. Vanaf de Spelen in 1924 in Parijs werd het gebruikelijk om tijdens deze ceremonie eenheid en spektakel uit te stralen door middel van een nationaal uniform. Geleidelijk in de jaren 1920 en 1930 krijgen ook stafleden zoals kaartverkopers, stadionportiers, gastvrouwen en gidsen een distinctief uniform. Zo was het stafuniform tijdens de Berlijnse Zomerspelen in 1936 wit.  
 
-Hoewel de eerste auto’s al in de jaren 1880 worden gebouwd, zal dit vervoersmiddel pas tijdens de eerste decennia van de twintigste eeuw voor steeds meer mensen beschikbaar worden als alternatief voor reizen per koets of trein. Eerst zitten vooral mannen achter het stuur, maar geleidelijk aan leren steeds meer vrouwen autorijden. De groeiende populariteit van de auto als vervoersmiddel, in Europa vooral in de jaren na de Eerste Wereldoorlog, wordt weerspiegeld in specifieke modes en accessoires voor achter het stuur of in de passagiersstoel.  
+In de jaren 1970 worden de uniformen in stijl en kleur uitgesplitst per functie om herkenbaarheid van verschillende functies te vergroten. Vanaf die tijd worden er ook internationaal bekende modeontwerpers en merken aangetrokken om de uniformen van het personeel in de stadions en de spelers van verschillende landen te ontwerpen. Voorbeelden hiervan zijn André Courrèges voor de Spelen in München in 1972, en Issey Miyake die in 1992 het uniform voor de Litouwse ploeg ontwerpt. 
 
-De eerste modellen auto’s hadden geen voorruit, ruiten, of dak. Ze boden daarom weinig bescherming tegen de elementen. Niet overal waren wegen bestraat, dus een autorit kon een stoffige aangelegenheid worden. Tijdens het toeren met de auto werden er dus zoals vroeger bij paard en koets wijde jassen ter bescherming over de eigen kleding gedragen. Ook kwamen er modieuze accessoires op de markt, zoals speciale maskers met ingebouwde stofbrillen of ruime petten met vizier die het kapsel beschermden.  
-
-Dit exemplaar duster was vooral geschikt voor zomerse autoritten. Dusters werden aangepast naar smaak met elementen zoals plastic knopen (een nieuw en modieus materiaal) of garneersels als lint of koord. Vanaf de jaren 1920 worden auto’s geavanceerder en zijn er steeds meer wegen bestraat. Men kiest er dan nog wel voor om een lichte, wijde jas over de kleding te dragen, maar dusters als dit exemplaar worden steeds minder gedragen.
+In 1984 werden de Olympische Zomerspelen gehouden in Los Angeles. Het kledingbedrijf Levi-Strauss & Co. Ontwierp de uniformen van het Amerikaanse team en van de staf. De lijn betrof kleding met een sportieve en casual uitstraling. Voor Levi-Strauss & Co. waren de Spelen bij uitstek een gelegenheid om hun activewear lijn te promoten. De 800 atleten droegen rood-wit-blauwe trainingspakken als verwijzing naar de Amerikaanse vlag. De meer dan 60.000 stafleden kregen verschillende uniformen per functie, veelal poloshirts en blazers met korte rok of broek in felle kleuren als heldergroen of blauw met oranje accenten. Hoedjes en baseballcaps, gympen en sneakers completeerden de look.
 P50_has_current_keeper: Studiecollectie
-identifier: ST80519
+identifier: ST80185
 identifierGroupType: TMS
-identifierGroupValue: 49650
-partNumber: 63775
+identifierGroupValue: 49542
+partNumber: 63667
+Subject 15992
+id: 15992
+title: ST2174
+creator: BIBA
+date: 1966-1974
+description: Blouse van lichtroze kunstzijden satijn. Plat kraagje van dubbele stof. Opgestikte schouderpas die aan het achterpand aangerimpeld is vastgezet. Korte, aangerimpelde mouwen, met aangestikte en omgeslagen manchetten. Figuurnaden op de borst vanuit de zijnaden. De blouse is getailleerd en heeft een aangestikt schootje van dezelfde stof aan de twee voorpanden en het achterpand. Sluitend middenvoor door middel van tien stofknopen (twee ontbreken, één los).
+extent: hoogte: 58 cm  schouderbreedte: 35 cm  tailleomvang: 70 cm
+medium: kunstzijde
+medium: satijnbinding
+publisher: MOMU
+subject: blouse
+shortDescription: Modewinkel Biba was een begrip in het Londen van de jaren 1960 en de vroege jaren 1970. De van oorsprong Poolse ontwerpster Barbara Hulanicki ontwierp jeugdige looks die betaalbaar waren voor jonge, werkende vrouwen en studentes. Haar voor de Swinging Sixties typische ontwerpen, zoals ultrakorte minijurken, legden het accent op de benen van de draagster. Hulanicki haalde haar inspiratie uit de kledingstijlen van vervlogen tijden. Het aangestikte, uitlopende schootje (Engels: peplum) van deze lichtroze blouse legt het accent niet op de benen maar op de heupen, en verwijst naar modieuze silhouetten uit de jaren 1940.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2174
+identifierGroupType: TMS
+identifierGroupValue: 59470
+partNumber: 73628
+Subject 15966
+id: 15966
+title: ST2148
+date: 1850-1900
+dateSubmitted: 2022-06-28
+description: Pyjamajasje, voor een man, van lichtbeige katoenen popeline met fijne donkerbeige strepen. Ingezette rechte lange mouwen. Brede omgeslagen hemdkraag. Eén borstzak en twee opgestikte zakken aan de voorzijde. Sluit middenvoor met een parelmoeren knoopje in de hals en drie paar wit en blauw geborduurde brandebourgs, waarvan de knopen ontbreken.
+extent: hoogte: 78 cm  schouderbreedte (rug): 38 cm
+medium: katoen
+medium: parelmoer
+medium: passement
+medium: popeline
+publisher: MOMU
+subject: pyjamajasje
+shortDescription: ‘Brandebourg’ is de naam voor een type houtje-touwtjesluiting gebruikt op heren- en dameskleding. Deze tweedelige sluiting bestaat uit ornamentele lussen in passement, waarvan de ene zijde wordt bevestigd rond een knoop in vlechtwerk of koord aan de andere zijde. Brandebourgs werden vaak gemaakt van goud- of zijdedraad. Oorspronkelijk was deze sluiting een onderdeel van de militaire kleding in Brandenburg, een deelstaat van het Pruisische Rijk.  
+
+In oorsprong komt de term van een zeventiende-eeuwse lange losse overjas, ook Brandenburg genaamd, die versierd is met de typische koordversieringen en van goud- of zijdedraad gemaakte knopen. Vanaf het midden van de achttiende eeuw verwijst de term brandebourg naar de rijkelijk versierde sluiting, die onder meer voorkomt op mantels, ochtend- en nachtkleding zoals dit pyjamajasje.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2148
+identifierGroupType: TMS
+identifierGroupValue: 59313
+note: Pattern-a-thon
+partNumber: 73471
 Subject 16030
 id: 16030
 title: ST2208
@@ -424,24 +195,66 @@ identifier: ST2208
 identifierGroupType: TMS
 identifierGroupValue: 59506
 partNumber: 73664
-Subject 16099
-id: 16099
-title: ST2262
-date: 1920-1925
+Subject 16090
+id: 16090
+title: ST2253
+date: 1945
 dateSubmitted: 2022-06-28
-description: Jurk, type robe de style, van blauw-groene changeant tafzijde.
-extent: hoogte: 118 cm  schouderbreedte: 40 cm
-medium: taf
+description: Jurk van witte katoen met blauwe en roze ruiten.
+extent: hoogte: 100 cm  schouderbreedte: 36 cm  tailleomvang: 62 cm
+medium: borduurwerk
+medium: katoen
+medium: platbinding
 publisher: MOMU
 subject: jurk
-shortDescription: Bij de jaren 1920 denkt men al gauw aan de typische met pailletten en kralen versierde, tuniekachtige jurken met een verlaagde taille. In sterk contrast tot dit archetype, staat deze blauwgroene jurk gemodelleerd naar het type robe de style. Dit is de Franse term voor een silhouet uit de jaren 1920 dat wordt geassocieerd met de Parijse modeontwerpster Jeanne Lanvin (1867-1946). Kenmerkend voor Lanvin’s robe de style zijn nauwsluitende lijfjes, een taillelijn die verlaagd is tot onder de natuurlijke taille, en volle rokken die tot kuit of enkels reiken. Lanvin greep hiermee terug op het silhouet van japonnen gedragen aan het achttiende-eeuwse Franse hof.  
+shortDescription: Een geruite katoenen jurk van een meisje of jonge vrouw met de initialen “J.B.”. Als je goed kijkt een voorbeeld van spaarzaamheid. Tijdens en net na de Tweede Wereldoorlog is textiel namelijk moeilijk te verkrijgen. Kleding is duur en “op de bon”: een nieuw kledingstuk kan enkel worden aangeschaft bij inlevering van op rantsoen gestelde textielbonnen. Zuinig omspringen met de eigen kledij is van groot belang.  
 
-Deze jurk uit de periode 1920-1925 is gemaakt van een zogeheten changeant tafzijde. De schering- en inslagdraden van dit type weefsel bestaan uit contrasterende kleuren blauwgroen en paars, wat vanuit verschillende invalshoeken een wisselend kleureffect geeft. De binnenkant is gevoerd met crèmekleurige zijde. De jurk heeft een ronde, gefronselde halsopening en aan de onderzijde licht poffende mouwen. Een gefronselde tafzijden rozet met daardoorheen een lange strook van hetzelfde materiaal legt het accent op de verlaagde taille. De jurk is middenachter op de rug versierd met decoratieve knoopjes, en sluit met metalen haken en ogen en drukknopen.
+De stof van deze katoenen jurk is op verschillende plaatsen nauwkeurig met de hand doorgestopt. Een eenvoudige manier om de plaatselijk fragiel geworden stof te verstevigen. Zo blijft een kostbaar kledingstuk langer draagbaar.
 P50_has_current_keeper: Studiecollectie
-identifier: ST2262
+identifier: ST2253
 identifierGroupType: TMS
-identifierGroupValue: 59593
-partNumber: 73751
+identifierGroupValue: 59584
+partNumber: 73742
+Subject 15950
+id: 15950
+title: ST2133
+creator: LIVE INS
+date: 1970-1979
+description: Spijkerbroek, zogenaamde type bell-bottoms, van donkerblauwe katoenen spijkerstof. Tailleband van dezelfde stof met riemlusjes. Aan de voorzijde op heuphoogte versierd met machinaal geborduurde gestileerde bloemen in gele, groene en paarse katoen. Lange, vanaf de knie wijd uitlopende pijpen. Twee opgestikte zakken op het achterwerk. Sluiting middenvoor door middel van twee paarse plastic knopen (één knoop ontbreekt en één is vervangen door een zwarte plastic knoop) en een grote metalen drukknoop bovenaan.
+extent: hoogte: 106 cm  tailleomvang: 66 cm
+medium: katoen
+medium: keperbinding
+medium: kunststof
+medium: machinaal borduurwerk
+publisher: MOMU
+subject: jeansbroek
+shortDescription: Broeken als dit exemplaar, strak op de bovenbenen met onderaan uitlopende pijpen, worden ook wel ‘bell-bottoms’ (bell = klok) genoemd. Oorspronkelijk waren dergelijke aan de onderzijde klokvormige broeken een kenmerkend onderdeel van het uniform van negentiende-eeuwse matrozen. Dit type broek werd echter modieus tijdens het hippie-tijdperk halverwege de jaren 1960 tot en met de jaren 1970. Jongeren begonnen zich in de jaren 1960 te verzetten tegen de gevestigde orde, de heersende consumptiemaatschappij en de oorlog in Vietnam. Een wijze van protest was dat zij hun eigen kleding maakten of tweedehands kochten, bijvoorbeeld uit winkels die overstock van het leger verkochten. Door deze militaire kledingstukken te vermaken en versieren, bijvoorbeeld met vredestekens of geborduurde bloemen, gaven zij uiting aan hun verzet tegen de oorlog in Vietnam.  
+
+Broeken als dit van spijkerstof gemaakte en met bloemen geborduurde exemplaar van het Amerikaanse denim merk ‘Live Ins’, bovenaan hoge en strak, en vanaf de dij, knie of kuit wijd uitlopend, waren destijds een grote afwijking van de gangbare mode van rechte broeken. Bell-bottoms werden populair gemaakt door muzikale sterren als Jimi Hendrix, Mick Jagger van de Rolling Stones, en het duo Sonny en Cher. Een vergelijkbaar model dat nog wijder vanaf dij of knie uitliep, was de ‘elephant bells’, in het Nederlands ook wel ‘broek met olifantenpijpen’ genoemd. Aan het einde van de jaren 1970, met de opkomst van de punk cultuur waarin nauwsluitende, rechte of taps toelopende broeken de mode werden, raken bell-bottoms uit de mode.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2133
+identifierGroupType: TMS
+identifierGroupValue: 59297
+partNumber: 73455
+Subject 14993
+id: 14993
+title: ST651/5AB
+date: 1942-1943
+description: Sandalen, waarschijnlijk zelfgemaakt, met een sleehak van kurk. Voorblad bestaat uit twee stukken textiel die zijn voorzien van een blokpatroon in wat waarschijnlijk verzilverd draad is geweest. Sluiten aan de buitenkant van de enkel met een gesp. De sleehak is zilver gekleurd.
+medium: kurk
+medium: leder
+medium: metaal
+medium: zilverdraad
+publisher: MOMU
+subject: schoenen
+shortDescription: Leder, rubber en metaal. Drie materialen algemeen gebruikt voor de vervaardiging van schoeisel. Tijdens de Tweede Wereldoorlog legt de Duitse bezetter beslag op deze grondstoffen ten dienste van de oorlogsindustrie. Burgers moeten daarom inventief zijn om voor deze schaars verkrijgbare materialen alternatieven te vinden. Gedurende de oorlogsjaren publiceren vrouwen- en modebladen verschillende ideeën om zelf schoenen of sandalen te maken, te versieren, en te repareren.  
+
+De hakken van deze sandalen van omstreeks 1943-1944 zijn gemaakt van kurk. Kurk is afkomstig uit het Mediterrane gebied en wordt al eeuwenlang gebruikt voor schoeisel. Het bruine materiaal is hier zilverkleurig geverfd, passend bij de met verzilverd draad versierde lederen banden van de sandalen. Naast kurken zolen werden tijdens de jaren van schaarste ook zolen van hout of gevlochten (papier)touw gebruikt.
+P50_has_current_keeper: Studiecollectie
+identifier: ST651/5AB
+identifierGroupType: TMS
+identifierGroupValue: 54592
+partNumber: 68717
 Subject 15812
 id: 15812
 title: ST2010
@@ -464,25 +277,212 @@ identifier: ST2010
 identifierGroupType: TMS
 identifierGroupValue: 58742
 partNumber: 72900
-Subject 14455
-id: 14455
-title: ST80185
-creator: OLYMPISCHE SPELEN LOS ANGELES
-date: 1984
-description: Oranje jas met vooraan twee zakken. De mouwen zijn onderaan afgewerkt met drie goudkleurige knopen. De jas sluit vooraan met twee goudkleurige knopen. Beige voering. De jas maakt deel uit van een uniform van de Olympische Zomerspelen in 1984.
-medium: dacron
-medium: kunstvezel
+Subject 14641
+id: 14641
+title: ST80519
+date: 1900-1910
+description: Dunne, ecrukleurige, lange jas die tijdens het auto rijden over de kleding werd gedragen om deze te beschermen. De jas heeft een kleine kraag, lange mouwen, twee zakken vooraan en sluit vooraan met vijf knopen.
+medium: kunststof
+medium: linnen
 medium: metaal
-medium: polyester
 publisher: MOMU
 subject: jas
-shortDescription: De eerste moderne Olympische Spelen werden in de zomer van 1896 gehouden in Athene. In 1908 tijdens de Spelen in Londen werd voor het eerst een openingsdefilé ingevoerd. Vanaf de Spelen in 1924 in Parijs werd het gebruikelijk om tijdens deze ceremonie eenheid en spektakel uit te stralen door middel van een nationaal uniform. Geleidelijk in de jaren 1920 en 1930 krijgen ook stafleden zoals kaartverkopers, stadionportiers, gastvrouwen en gidsen een distinctief uniform. Zo was het stafuniform tijdens de Berlijnse Zomerspelen in 1936 wit.  
+shortDescription: Dit type losse, lichtgewicht jas wordt ook wel ‘duster’ genoemd. Een duster wordt tijdens het autorijden over de kleding gedragen om deze onderweg tegen vuil en stof (‘dust’ in het Engels) te beschermen. De duster is een aanpassing van een soortgelijke jas die vanaf het einde van de achttiende eeuw werd gedragen voor reizen per paard of koets. Een duster was ruimvallend, reikte van nek tot kuit of enkel, en werd typisch gemaakt van ecrukleurig katoenen canvas of linnen waardoor de kleur van stof minder opviel. 
 
-In de jaren 1970 worden de uniformen in stijl en kleur uitgesplitst per functie om herkenbaarheid van verschillende functies te vergroten. Vanaf die tijd worden er ook internationaal bekende modeontwerpers en merken aangetrokken om de uniformen van het personeel in de stadions en de spelers van verschillende landen te ontwerpen. Voorbeelden hiervan zijn André Courrèges voor de Spelen in München in 1972, en Issey Miyake die in 1992 het uniform voor de Litouwse ploeg ontwerpt. 
+Hoewel de eerste auto’s al in de jaren 1880 worden gebouwd, zal dit vervoersmiddel pas tijdens de eerste decennia van de twintigste eeuw voor steeds meer mensen beschikbaar worden als alternatief voor reizen per koets of trein. Eerst zitten vooral mannen achter het stuur, maar geleidelijk aan leren steeds meer vrouwen autorijden. De groeiende populariteit van de auto als vervoersmiddel, in Europa vooral in de jaren na de Eerste Wereldoorlog, wordt weerspiegeld in specifieke modes en accessoires voor achter het stuur of in de passagiersstoel.  
 
-In 1984 werden de Olympische Zomerspelen gehouden in Los Angeles. Het kledingbedrijf Levi-Strauss & Co. Ontwierp de uniformen van het Amerikaanse team en van de staf. De lijn betrof kleding met een sportieve en casual uitstraling. Voor Levi-Strauss & Co. waren de Spelen bij uitstek een gelegenheid om hun activewear lijn te promoten. De 800 atleten droegen rood-wit-blauwe trainingspakken als verwijzing naar de Amerikaanse vlag. De meer dan 60.000 stafleden kregen verschillende uniformen per functie, veelal poloshirts en blazers met korte rok of broek in felle kleuren als heldergroen of blauw met oranje accenten. Hoedjes en baseballcaps, gympen en sneakers completeerden de look.
+De eerste modellen auto’s hadden geen voorruit, ruiten, of dak. Ze boden daarom weinig bescherming tegen de elementen. Niet overal waren wegen bestraat, dus een autorit kon een stoffige aangelegenheid worden. Tijdens het toeren met de auto werden er dus zoals vroeger bij paard en koets wijde jassen ter bescherming over de eigen kleding gedragen. Ook kwamen er modieuze accessoires op de markt, zoals speciale maskers met ingebouwde stofbrillen of ruime petten met vizier die het kapsel beschermden.  
+
+Dit exemplaar duster was vooral geschikt voor zomerse autoritten. Dusters werden aangepast naar smaak met elementen zoals plastic knopen (een nieuw en modieus materiaal) of garneersels als lint of koord. Vanaf de jaren 1920 worden auto’s geavanceerder en zijn er steeds meer wegen bestraat. Men kiest er dan nog wel voor om een lichte, wijde jas over de kleding te dragen, maar dusters als dit exemplaar worden steeds minder gedragen.
 P50_has_current_keeper: Studiecollectie
-identifier: ST80185
+identifier: ST80519
 identifierGroupType: TMS
-identifierGroupValue: 49542
-partNumber: 63667
+identifierGroupValue: 49650
+partNumber: 63775
+Subject 14390
+id: 14390
+title: ST80062
+creator: LACEY AND SONS
+date: 1930-1940
+description: Brede broek in dik, wit linnen. De broek heeft verschillende plooien in de taille, wat een wijd effect geeft aan de broekspijpen, die onderaan terug nauw aansluiten rond de enkels. Daar kan de onderkant van de broek geopend worden met knopen. Er is één achterzak. De broek sluit vooraan met knopen.
+medium: corozo
+medium: katoen
+medium: met de machine genaaid
+medium: metaal
+publisher: MOMU
+subject: broek
+shortDescription: Professioneel cricketspeler William Lacey verhuist in 1887 vanuit Engeland naar Canada om daar te spelen en coachen. Aan het einde van dat decennium verhuist hij met zijn gezin naar Argentinië. In Buenos Aires zet Lacey zich in voor het in 1888 opgerichte Hurlingham Sports Club, een van de eerste sportclubs in Argentinië voor typisch Britse sporten als cricket, rugby en polo. Wanneer daar de vraag naar uitrustingen voor de sport polo toeneemt, begint hij met de verkoop van polosticks (zogenaamde ‘mallets’).  
+
+Later opent hij in het centrum van de stad een zaak voor (polo)sportkleding en materialen genaamd Lacey and Sons. Ook zoon Lewis Lacey, die internationaal bekend is als polospeler en zowel voor Engeland als Argentinië speelt, is betrokken bij zijn vaders zaak. Lewis ontwerpt in de jaren 1920 als eerste poloshirts met het logo van een polospeler te paard. Dit logo zal pas later in de jaren 1970 echt bekend gemaakt worden als het in aangepaste versie door modeontwerper Ralph Lauren gebruikt wordt bij zijn kledingmerk ‘Polo’. Lacey and Sons wordt overgenomen door Williams kleinzoon Wyndham Lacey, en de zaak sluit uiteindelijk zijn deuren in 1958.  
+
+Deze broek van stevig wit linnen loopt van wijd op heuphoogte naar nauwsluitend onder de knie, waar hij met knopen wordt vastgezet. Dit type broek is geschikt voor sportieve activiteiten zoals polo. Polobroeken worden gedragen met strakke hoge rijlaarzen die tot onder de knie reiken. Hierdoor poft dit model broek op boven de knie.
+P50_has_current_keeper: Studiecollectie
+identifier: ST80062
+identifierGroupType: TMS
+identifierGroupValue: 49516
+partNumber: 63641
+Subject 16016
+id: 16016
+title: ST2198
+date: 1900-1909
+description: Regenjas, zogenaamde type trenchcoat, voor een man, van beige katoenen popeline. Omgevouwen puntige kraag. Lange rechte raglanmouwen, bestaande uit twee panden. Op de polsen drie riemlusjes waardoor een riempje van dezelfde stof is gehaald met vijf metalen nestelringen en een met bruin leder bekleed metalen gespje. Flap, zogenaamde stormflap, op de rechterschouder, met een knoopsgat en een plastic schildpad imitatie knoop. Riemlussen op elke zij (riem ontbreekt). Verticale zak op iedere heup, met knoopsgat en plastic knoop, die naar een opgestikte zak aan de binnenzijde van de jas op de voering leidt. Flap met twee knoopsgaten aan achterzijde van de nek, die aan twee paar plastic knoopjes kan worden bevestigd aan de achterzijde, en zo om de voorzijde van de hals kan worden geslagen. Twee achterpanden, met een split middenachter vanaf het achterwerk tot de onderzijde. Deze wordt halverwege bijeengehouden door een knoopsgat op het rechter achterpand en een plastic knoop aan de binnenzijde van het linker achterpand.  Sluiting (double breasted) links en rechts van middenvoor door middel van twee keer vijf knoopsgaten en twee keer vijf grote plastic knopen. Aan de binnenzijde langs de openingen en in de nek totaal dertien bruine plastic knopen. Voering van katoenen changeant met rode en groene draad, en tussenvoering van grof geweven wit (verkleurd) katoen. Ophanglusje aan achterzijde halsopening.
+extent: hoogte: 120 cm  schouderbreedte: 62 cm
+medium: katoen
+medium: keperbinding
+medium: leder
+medium: metaal
+medium: plastic
+medium: popeline
+publisher: MOMU
+subject: regenjas
+shortDescription: Een trenchcoat is een type uniseks, lichtgewicht, waterdichte overjas. Twee bekende Engelse fabrikanten van luxe outdoor kledij claimen de trenchcoat te hebben uitgevonden: Aquascutum (opgericht in 1851) en Burberry (opgericht in 1856). 
+
+Tijdens de Eerste Wereldoorlog werd de overjas aangepast voor gebruik door Britse officieren in de loopgraven. Hierdoor kreeg dit type jas de naam trenchcoat (trench = loopgraaf). De karakteristieke “storm flap” (ook wel “gun flap”) op de rechterschouder zorgt voor ventilatie.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2198
+identifierGroupType: TMS
+identifierGroupValue: 59496
+partNumber: 73654
+Subject 15959
+id: 15959
+title: ST2140
+creator: NIVOSE
+date: ca. 1965
+description: Skibroek van zwarte gekeperde kunstvezel en wol mix. Lang model met elastiek onder de voeten. Hoge taille, met tailleband met twee riemlussen aan de voorzijde. Verticale steekzak met metalen ritssluiting links en rechts op de voorpanden op heuphoogte. Twee plooien links en rechts van middenvoor, waarvan telkens één van bovenaan in een scherpe vouw over de pijp naar beneden loopt. Smalle, taps toelopende pijp, met twee splitten onderaan bij de enkel en twee elastieken banden voor onder de voet. Achterzijde tailleband met twee riemlussen, en vier figuurnaden onder de tailleband. Sluiting in beide zijnaden van taille tot heup door middel van een metalen rits en een flap in de tailleband die met een knoopsgat over een zwarte plastic knoop wordt gehaald. Binnenzijde tailleband verstevigd met ecrukleurig ripsband waardoor elastiek is geregen (elastiek verdroogd en verkruimeld). Zakvoering van lichtblauwe katoen.
+extent: hoogte: 95 cm  tailleomvang: 66 cm
+medium: kunstvezel
+medium: metaal
+medium: plastic
+medium: ripsband
+medium: wol
+publisher: MOMU
+subject: broek
+shortDescription: Onder invloed van onder meer sociale wetten en tijdbesparende technologieën in verschillende industrieën, wordt aan het begin van de twintigste eeuw het bedrijven van een sport voor meer mensen een optie. Sport is niet langer enkel voor de elite met zeeën van tijd en geld. Ook mensen uit andere sociale klassen hebben door ingekorte arbeidsuren en betere lonen meer tijd en geld over om te sporten en sportkledij en uitrusting kopen. 
+
+Skiën is al vanaf de negentiende eeuw een groeiend populaire wintersport, maar dan voornamelijk voor de gegoede elite. Vanaf de jaren 1930 komt skiën als een vorm van wintervermaak in de mode onder een grotere laag van de bevolking. Vrouwen- en modetijdschriften tonen de laatste trends op gebied van modieuze skikleding en bijpassende accessoires. Deze aandacht zorgt op zijn beurt voor een groeiende belangstelling om ‘s winters te gaan skiën. Halverwege de twintigste eeuw zorgen innovaties in zowel de materialen als het vervaardigen van skiuitrusting en -vervoer voor steeds meer skicomfort. Ook skikleding maakt een ontwikkeling door: van wollen skijassen en -broeken, naar skikleding gemaakt van kunstvezel die een grotere rekbaarheid heeft en waterdicht is. 
+
+Deze skibroek van zwarte kunstvezel/wol is gemaakt door het nog steeds bestaande Franse merk Nivose in Lyon in de Franse Alpen. Nivose maakt sinds 1933 modieuze winterkleding onder het motto: “le vêtement chic du vrai skieur” (“deftige kleding voor de echte skiër”). De taps toelopende broekpijpen worden op de plaats gehouden door twee elastieken banden onder de voet. Hierover worden skischoenen gedragen. Hoewel skibroeken met band onder de voet in wollen uitvoering al sinds het einde van de jaren 1930 gedragen werden, wordt dit sluik model in stretchstof vooral modieus in de jaren 1960 en 1970.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2140
+identifierGroupType: TMS
+identifierGroupValue: 59304
+partNumber: 73462
+Subject 15766
+id: 15766
+title: ST1342ABCDEFG
+creator: BERNARDY
+date: 1950-1970
+description: Pak, Eton-pak, met zwart gilet en jacquet, grijze gestreepte broek en wit hemd met aparte stijve kraag (ronde Eton-kraag) en manchetten.   A. kort jacquet in zwarte wol, met satijnen revers en voering, zwarte kunststof knopen   B. gilet in zwarte wol   C. broek in grijze gestreepte wol   D. wit katoen hemd   E. wit katoen stijve ronde kraag   FG. witte katoenen stijve manchetten
+medium: katoen
+medium: kunststof
+medium: wol
+publisher: MOMU
+subject: kostuum (pak)
+title: ETON-PAK
+shortDescription: Het type Eton-pak werd oorspronkelijk vanaf 1798 door Engelse schooljongens gedragen en bestond uit een korte jas met een platte kraag en op taillehoogte puntige of naar achter recht gesneden voorpanden, een gilet met enkele knopenrij, en vaak een grijze broek. Oorspronkelijk was de jas blauw of rood, maar vanaf 1820 werd de jas zwart in rouw om koning George III.  
+
+Kenmerkend onderdeel van het pak is de losse, witte gesteven kraag, de zogenaamde Eton kraag. Deze brede kraag wordt omgeslagen over de kraag van de jas gedragen, in tegenstelling tot de rechtopstaande kragen die toen in de mode waren. De kraag werd zo populair dat hij ook bij andere soorten pakken gedragen werd om deze een voorname uitstraling te geven. 
+
+Het Eton-pak kent zijn oorsprong in het schooluniform van Eton College, een prestigieuze privéschool nabij Windsor in Engeland. In de loop der tijd werd het echter ook gedragen door jongens die niet naar deze school gingen. Zo werd het pak een formeel kostuum voor welgeklede Engelse jongens uit de hogere klassen. In de laatste decennia van de twintigste eeuw raakt het Eton-pak uiteindelijk uit de mode.
+P50_has_current_keeper: Studiecollectie
+identifier: ST1342ABCDEFG
+identifierGroupType: TMS
+identifierGroupValue: 58017
+partNumber: 72173
+Subject 15706
+id: 15706
+title: ST1332A
+date: 1930-1960
+description: Kinderjurkje van gele katoen; Peter Pan-kraagje afgewerkt met blauw garen; smokwerk ter hoogte van de borst afgewerkt met blauw en geel garen; kleine bloemetjes in dezelfde kleuren op de gerimpelde rok. Korte pofmouwtjes. Sluit aan de achterzijde met drie drukknopen, aan de buitenkant is de sluiting afgewerkt met doorzichtige kunststof knopen met reliëf, die opgebouwd zijn uit kleine bolletjes. Netjes uitgevoerd handwerk.
+medium: borduurwerk
+medium: katoen
+medium: kunststof
+medium: smokwerk
+medium: weefsel
+publisher: MOMU
+subject: jurk
+shortDescription: Een Peter Pan-kraag is een platvallende, tweedelige ronde kraag die vanaf ongeveer 1909 modieus werd, hoewel gelijkende kragen al in de negentiende eeuw onder andere namen bestonden. De naam is afkomstig van de hoofdrolspeler uit het gelijknamige toneelstuk (première in 1904) en boek (1911) geschreven door de Schotse auteur J. M. Barrie. Actrice Maude Adams droeg een kostuum met een dergelijke kraag toen zij in 1905 de rol van Peter Pan vertolkte op het Amerikaanse Broadway. De Peter Pan kraag was vooral geliefd als onderdeel van kleding voor jonge meisjes en kleine kinderen en werd dan ook gedurende de rest van de twintigste eeuw gedragen.
+P50_has_current_keeper: Studiecollectie
+identifier: ST1332A
+identifierGroupType: TMS
+identifierGroupValue: 56962
+note: Pattern-a-thon
+partNumber: 71088
+Subject 16148
+id: 16148
+title: ST2201
+creator: ADOLPHE LAFONT
+date: 1970-1979
+dateSubmitted: 2022-06-28
+description: Stofjas van kakikleurige gekeperde katoen. Wijd model met lange mouwen. Platte kraag met revers.
+medium: katoen
+medium: metaal
+publisher: MOMU
+subject: stofjas
+shortDescription: Een stofjas is een type werkjas die over de eigen kleding wordt gedragen. Zo blijft deze beschermd tegen stof en vuil. Dergelijke stofjassen worden in verschillende beroepen gebruikt, van winkels, kantoorruimtes tot in fabrieken.  
+
+Adolphe Lafont is een bekende Franse fabrikant van werkkleding. In 1844 opende Louis Lafont een stoffenwinkel met confectieatelier in Lyon. Zijn kleinzoon Adolphe nam in 1896 de zaak over en registreerde ‘Adolphe Lafont’ als een van de eerste merken voor werkkleding in Frankrijk. Tevens opende hij een winkel voor werkkleding in Parijs. Een bekend product van Lafont zijn de salopettes en overalls.  
+
+Hoewel ontworpen als werkkleding, is in deze jas van kakikleurig gekeperd katoen nog nooit gewerkt – hij is nog splinternieuw. Zelfs het label van de maker is nog aan de jas bevestigd.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2201
+identifierGroupType: TMS
+partNumber: 74041
+Subject 16009
+id: 16009
+title: ST2191
+date: ca. 1990
+description: Jasje, zogenaamde type safari-jasje of saharienne, van crèmekleurige katoen. Omgevouwen kraag. Beleg op de schouders, als een epaulet, van dezelfde katoen, met een knoopsgat en een witte plastic knoop. Ingezette rechte lange mouwen, met split bij de polsen. Rechte manchet met twee knoopsgaten en één witte plastic knoop. Schouderpas tot halverwege de borst. Opgestikte zak met stolpplooi links en rechts op de borst, met een klep die sluit door middel van een knoopsgat en een witte plastic knoop. Opgestikte tailleband van dezelfde stof. Grotere opgestikte zak met stolpplooi links en rechts de heupen, met een klep die sluit door middel van een knoopsgat en een witte plastic knoop. Naar binnen omgeslagen en vastgestikte zoom. Twee zijpanden. Schouderpas met daaronder twee rugpanden. Vastgestikte tailleband, en split in de rugpanden tot onderaan de zoom, waarbij het linkerpand iets over het rechterpand valt. Sluiting middenvoor van hals tot iets onder de tailleband door middel van vijf knoopsgaten en vijf witte plastic knopen. Zonder voering. Verstevigd en versteld op twee plaatsen op rechter voor- en zijpand bij de zak.
+extent: hoogte: 75 cm  schouderbreedte: 41 cm
+medium: katoen
+medium: kunststof
+medium: platbinding
+publisher: MOMU
+subject: vest
+shortDescription: Het safari-jasje kent zijn oorsprong in de negentiende-eeuwse koloniale expedities naar voornamelijk India en Oost-Afrika. De kleding van Europeanen moest worden aangepast aan de tropische temperaturen: luchtig, stevig en lichtgewicht was het devies. Safari-jasjes werden gedragen met hemd, een broek van stevig katoen, en laarzen met lederen of stoffen beenwindsels. Een tropenhelm beschermde tegen de felle zon. Vaak waren al deze kledingstukken en accessoires uitgevoerd in lichte kleuren zoals beige en kaki. Kenmerkend voor safari-jasjes zijn de epauletten op de schouders, een geïntegreerde tailleband met vaak een ceintuur van dezelfde stof, een split middenachter op de rug die zorgt voor meer bewegingsruimte, en ruime, opgestikte klepzakken met plooi die sluiten met een knoop.  
+
+Vanaf de jaren 1930 maakte safarikleding een doorbraak naar de mode. Een grote invloed was tevens het uitkomen van Hollywoodfilms in de jaren 1940 en 1950 die gesitueerd waren in Afrika. De hoofdrollen hierin waren weggelegd voor de grootste filmsterren van die tijd, zoals Douglas Fairbanks Jr. in de film ‘Safari’ (1940) en Clark Gable in de film ‘Mogambo’ (1953). 
+
+Hoewel oorspronkelijk een kledingstuk voor mannen werd het safari-jasje later ook door vrouwen gedragen. Belangrijk hierin was de rol van modeontwerper Yves Saint Laurent, die in 1967 een safari-jasje op de Parijse catwalk introduceerde. Vanaf 1969 was een ready-to-wear versie van dit jasje te koop in zijn Saint Laurent Rive Gauche boetiek. De safari-look bleek een groot succes in de jaren 1970.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2191
+identifierGroupType: TMS
+identifierGroupValue: 59489
+partNumber: 73647
+Subject 16076
+id: 16076
+title: ST2244
+date: ca. 1900
+description: Kinderschort, of overgooier, voor een (school)kind van ca. tien jaar, van katoen met witte schering en blauwe inslag. Ronde kraagloze halslijn, versierd met borduursel in wit katoenen dubbele taksteek. Ingezette lange, rechte mouwen, aangerimpeld bij de pols. Manchet versierd met borduursel en sluitend met twee witte parelmoeren knopen en gehaakte lusjes. Schouderpas aan voor- en achterzijde langs de onderzijde versierd met borduursel in dubbele taksteek. Daaronder is de rok in tien platte plooien aangestikt. Een ceintuur van dezelfde stof versierd met idem borduursel is vastgestikt op de taille, sluitend op de rug door middel van twee witte parelmoeren knopen en lusjes. De rok heeft een brede zoom versierd met borduursel. Geheel open langs middenachter, en geplooid op beide achterpanden. Sluit middenachter door middel van drie witte parelmoeren knopen vanaf de hals tot onderzijde schouderpas.
+extent: hoogte: 77,5 cm  schouderbreedte: 31 cm
+medium: borduurwerk
+medium: haakwerk
+medium: katoen
+medium: parelmoer
+medium: platbinding
+publisher: MOMU
+subject: schort
+shortDescription: Bij het maken van dit kinderschort voor alledaags gebruik is rekening gehouden met duurzaamheid. Het is namelijk op de groei gemaakt. Als je goed kijkt, zie je dat de zoom onderaan de schort een keer werd uitgelegd om het een stukje langer te maken. Iets boven de nieuwe zoomlijn zie je nog de gaatjes die de naald maakte, resten van draad, en verkleuring door het licht. Ook de versiering in dubbele taksteek werd uitgehaald en opnieuw geborduurd.  
+
+Bovendien is aan de binnenzijde van de schort te zien dat de stof zo voordelig en zuinig mogelijk werd geknipt. De zijnaden bestaan uit de zogenaamde “zelfkanten” van de stof (dat wil zeggen: de uiterste zijkanten in lengterichting). De zelfkant van een weefsel is stevig en heeft bovendien geen verdere afwerking nodig.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2244
+identifierGroupType: TMS
+identifierGroupValue: 59575
+partNumber: 73733
+Subject 15864
+id: 15864
+title: ST2053
+creator: AERTEX
+date: 1930-1939
+description: Onderbroek, voor een man, van gemaasde ecrukleurige katoen (zogenaamde 'Aertex' techniek). Model met hoge taille en korte pijpen. Aan bovenzijde aan weerszijden richting zijkant een in twee lussen vastgenaaid wit katoenen bandje. Tailleband in een boog breder wordend richting middenvoor. Split middenvoor tot aan kruis. Brede zoom onderaan pijp. Tailleband achterzijde breder wordend richting middenachter. Twee gefestonneerde oogjes aan weerszijden van middenachter waardoor een witte katoenen veter is geregen. Sluiting middenvoor door middel van drie knoopsgaten en knopen (één met wit katoen beklede knoop, twee ontbreken). Kruis gevoerd met dezelfde stof.
+extent: hoogte: 44 cm  tailleomvang: 72 cm
+medium: katoen
+publisher: MOMU
+subject: onderbroek
+shortDescription: Aertex is de naam van een losgeweven en lichtgewicht katoenen weefsel dat voornamelijk wordt gebruikt voor ondergoed en sportkleding. De Cellular Clothing Company (ook wel Aertex Company) werd in 1888 opgericht in Manchester, Engeland. Het bedrijf ontwikkelde een speciale techniek om lucht en warmte vast te houden in de ruimtes tussen schering en inslag van het weefsel. Aertex textiel vormde daardoor een beschermende laag rondom het lichaam en was geschikt om zowel in de zomer als in de winter te dragen. Aertex werd gepromoot als innovatieve ‘cellulaire kleding’ voor mannen, vrouwen en kinderen. Zoals op het label van deze onderbroek uit de jaren 1930 te zien is, werd er geclaimd dat het gezond was om kleding gemaakt van Aertex te dragen. Aertex wordt vandaag de dag nog steeds geproduceerd.
+P50_has_current_keeper: Studiecollectie
+identifier: ST2053
+identifierGroupType: TMS
+identifierGroupValue: 59019
+partNumber: 73177
