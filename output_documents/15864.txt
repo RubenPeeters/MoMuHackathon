@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:29+00:00.
-The item 15864 is public.
-This artifact was last modified on 2024-11-23T14:28:25+00:00.
 The identifier of this artifact is "ST2053".
 The creator of this artifact is AERTEX.
 This artifact was created from the following period: 1930-1939.
@@ -10,6 +7,7 @@ The medium of this artifact includes katoen.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes onderbroek.
 The context of this artifact is "Aertex is de naam van een losgeweven en lichtgewicht katoenen weefsel dat voornamelijk wordt gebruikt voor ondergoed en sportkleding. De Cellular Clothing Company (ook wel Aertex Company) werd in 1888 opgericht in Manchester, Engeland. Het bedrijf ontwikkelde een speciale techniek om lucht en warmte vast te houden in de ruimtes tussen schering en inslag van het weefsel. Aertex textiel vormde daardoor een beschermende laag rondom het lichaam en was geschikt om zowel in de zomer als in de winter te dragen. Aertex werd gepromoot als innovatieve ‘cellulaire kleding’ voor mannen, vrouwen en kinderen. Zoals op het label van deze onderbroek uit de jaren 1930 te zien is, werd er geclaimd dat het gezond was om kleding gemaakt van Aertex te dragen. Aertex wordt vandaag de dag nog steeds geproduceerd.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mg1k2p.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST2053.
 The group type of this artifact is  TMS.

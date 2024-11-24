@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:35+00:00.
-The item 15959 is public.
-This artifact was last modified on 2024-11-23T14:28:27+00:00.
 The identifier of this artifact is "ST2140".
 The creator of this artifact is NIVOSE.
 This artifact was created from the following period: ca. 1965.
@@ -10,6 +7,7 @@ The medium of this artifact includes wol.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes broek.
 The context of this artifact is "Onder invloed van onder meer sociale wetten en tijdbesparende technologieën in verschillende industrieën, wordt aan het begin van de twintigste eeuw het bedrijven van een sport voor meer mensen een optie. Sport is niet langer enkel voor de elite met zeeën van tijd en geld. Ook mensen uit andere sociale klassen hebben door ingekorte arbeidsuren en betere lonen meer tijd en geld over om te sporten en sportkledij en uitrusting kopen. Skiën is al vanaf de negentiende eeuw een groeiend populaire wintersport, maar dan voornamelijk voor de gegoede elite. Vanaf de jaren 1930 komt skiën als een vorm van wintervermaak in de mode onder een grotere laag van de bevolking. Vrouwen- en modetijdschriften tonen de laatste trends op gebied van modieuze skikleding en bijpassende accessoires. Deze aandacht zorgt op zijn beurt voor een groeiende belangstelling om ‘s winters te gaan skiën. Halverwege de twintigste eeuw zorgen innovaties in zowel de materialen als het vervaardigen van skiuitrusting en -vervoer voor steeds meer skicomfort. Ook skikleding maakt een ontwikkeling door: van wollen skijassen en -broeken, naar skikleding gemaakt van kunstvezel die een grotere rekbaarheid heeft en waterdicht is. Deze skibroek van zwarte kunstvezel/wol is gemaakt door het nog steeds bestaande Franse merk Nivose in Lyon in de Franse Alpen. Nivose maakt sinds 1933 modieuze winterkleding onder het motto: “le vêtement chic du vrai skieur” (“deftige kleding voor de echte skiër”). De taps toelopende broekpijpen worden op de plaats gehouden door twee elastieken banden onder de voet. Hierover worden skischoenen gedragen. Hoewel skibroeken met band onder de voet in wollen uitvoering al sinds het einde van de jaren 1930 gedragen werden, wordt dit sluik model in stretchstof vooral modieus in de jaren 1960 en 1970.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mm90bs.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST2140.
 The group type of this artifact is  TMS.

@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:24+00:00.
-The item 15766 is public.
-This artifact was last modified on 2024-11-23T14:28:24+00:00.
 The identifier of this artifact is "ETON-PAK".
 The creator of this artifact is BERNARDY.
 This artifact was created from the following period: 1950-1970.
@@ -9,6 +6,7 @@ The medium of this artifact includes wol.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes kostuum (pak).
 The context of this artifact is "Het type Eton-pak werd oorspronkelijk vanaf 1798 door Engelse schooljongens gedragen en bestond uit een korte jas met een platte kraag en op taillehoogte puntige of naar achter recht gesneden voorpanden, een gilet met enkele knopenrij, en vaak een grijze broek. Oorspronkelijk was de jas blauw of rood, maar vanaf 1820 werd de jas zwart in rouw om koning George III.  Kenmerkend onderdeel van het pak is de losse, witte gesteven kraag, de zogenaamde Eton kraag. Deze brede kraag wordt omgeslagen over de kraag van de jas gedragen, in tegenstelling tot de rechtopstaande kragen die toen in de mode waren. De kraag werd zo populair dat hij ook bij andere soorten pakken gedragen werd om deze een voorname uitstraling te geven. Het Eton-pak kent zijn oorsprong in het schooluniform van Eton College, een prestigieuze privéschool nabij Windsor in Engeland. In de loop der tijd werd het echter ook gedragen door jongens die niet naar deze school gingen. Zo werd het pak een formeel kostuum voor welgeklede Engelse jongens uit de hogere klassen. In de laatste decennia van de twintigste eeuw raakt het Eton-pak uiteindelijk uit de mode.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mpzgsv.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST1342ABCDEFG.
 The group type of this artifact is  TMS.

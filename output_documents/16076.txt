@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:43+00:00.
-The item 16076 is public.
-This artifact was last modified on 2024-11-23T14:28:33+00:00.
 The identifier of this artifact is "ST2244".
 This artifact was created from the following period: ca. 1900.
 The description of this artifact is "Kinderschort, of overgooier, voor een (school)kind van ca. tien jaar, van katoen met witte schering en blauwe inslag. Ronde kraagloze halslijn, versierd met borduursel in wit katoenen dubbele taksteek. Ingezette lange, rechte mouwen, aangerimpeld bij de pols. Manchet versierd met borduursel en sluitend met twee witte parelmoeren knopen en gehaakte lusjes. Schouderpas aan voor- en achterzijde langs de onderzijde versierd met borduursel in dubbele taksteek. Daaronder is de rok in tien platte plooien aangestikt. Een ceintuur van dezelfde stof versierd met idem borduursel is vastgestikt op de taille, sluitend op de rug door middel van twee witte parelmoeren knopen en lusjes. De rok heeft een brede zoom versierd met borduursel. Geheel open langs middenachter, en geplooid op beide achterpanden. Sluit middenachter door middel van drie witte parelmoeren knopen vanaf de hals tot onderzijde schouderpas."
@@ -9,6 +6,7 @@ The medium of this artifact includes platbinding.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes schort.
 The context of this artifact is "Bij het maken van dit kinderschort voor alledaags gebruik is rekening gehouden met duurzaamheid. Het is namelijk op de groei gemaakt. Als je goed kijkt, zie je dat de zoom onderaan de schort een keer werd uitgelegd om het een stukje langer te maken. Iets boven de nieuwe zoomlijn zie je nog de gaatjes die de naald maakte, resten van draad, en verkleuring door het licht. Ook de versiering in dubbele taksteek werd uitgehaald en opnieuw geborduurd.  Bovendien is aan de binnenzijde van de schort te zien dat de stof zo voordelig en zuinig mogelijk werd geknipt. De zijnaden bestaan uit de zogenaamde “zelfkanten” van de stof (dat wil zeggen: de uiterste zijkanten in lengterichting). De zelfkant van een weefsel is stevig en heeft bovendien geen verdere afwerking nodig.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mqjq7f.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST2244.
 The group type of this artifact is  TMS.

@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:32:33+00:00.
-The item 15938 is public.
-This artifact was last modified on 2024-11-23T14:28:26+00:00.
 The identifier of this artifact is "ST2120".
 The creator of this artifact is LA BELLE JARDINIÈRE.
 This artifact was created from the following period: ca. 1900.
@@ -10,6 +7,7 @@ The medium of this artifact includes zijde.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes pet.
 The context of this artifact is "À La Belle Jardinière was een Franse keten van modepaleizen die in de negentiende eeuw als een van de eerste in zijn soort ontstond. Fourniturenhandelaar Pierre Parissot opende de eerste zaak in 1824 in Parijs vlakbij de Bloemenmarkt, en gaf het de wellicht daarnaar verwijzende naam La Belle Jardinière.  Parissot verkocht massa geproduceerde confectiekleding tegen vaste, lage prijzen, aan een clientèle uit de middenklasse en arbeidersklasse (arbeiders, ambachtslieden en kooplieden). De kleding werd in ateliers bovenin de warenhuizen gemaakt. Deze productie- en verkoopstrategie was nieuw en bleek een groot succes. Al gauw werden er nieuwe vestigingen geopend in andere Franse steden. La Belle Jardinière verkocht uniformen aan scholen, en tijdens de Eerste Wereldoorlog uniformen aan Franse en geallieerde officieren. Bij La Belle Jardinière kon men tevens terecht voor werkkledij en uniformen voor allerlei beroepen: van bakkers, kruideniers en slagers, tot chauffeurs en bezorgers. Deze platte pet met klep is waarschijnlijk onderdeel geweest van een uniform van iemand werkzaam in de dienstensector. Vanaf de jaren 1950 gaat het bergafwaarts met de keten, die moet concurreren met een groeiende concurrentie van goedkope confectiewinkels. In 1972 stopte het warenhuis zijn activiteiten.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mxpp25.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST2120.
 The group type of this artifact is  TMS.

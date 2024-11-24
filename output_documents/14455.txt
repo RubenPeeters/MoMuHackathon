@@ -1,6 +1,3 @@
-The created of this artifact is 2021-01-14T19:30:48+00:00.
-The item 14455 is public.
-This artifact was last modified on 2024-11-23T14:28:21+00:00.
 The identifier of this artifact is "ST80185".
 The creator of this artifact is OLYMPISCHE SPELEN LOS ANGELES.
 This artifact was created from the following period: 1984.
@@ -9,6 +6,7 @@ The medium of this artifact includes polyester.
 The publisher of this artifact is MOMU.
 The subject of this artifact includes jas.
 The context of this artifact is "De eerste moderne Olympische Spelen werden in de zomer van 1896 gehouden in Athene. In 1908 tijdens de Spelen in Londen werd voor het eerst een openingsdefilé ingevoerd. Vanaf de Spelen in 1924 in Parijs werd het gebruikelijk om tijdens deze ceremonie eenheid en spektakel uit te stralen door middel van een nationaal uniform. Geleidelijk in de jaren 1920 en 1930 krijgen ook stafleden zoals kaartverkopers, stadionportiers, gastvrouwen en gidsen een distinctief uniform. Zo was het stafuniform tijdens de Berlijnse Zomerspelen in 1936 wit.  In de jaren 1970 worden de uniformen in stijl en kleur uitgesplitst per functie om herkenbaarheid van verschillende functies te vergroten. Vanaf die tijd worden er ook internationaal bekende modeontwerpers en merken aangetrokken om de uniformen van het personeel in de stadions en de spelers van verschillende landen te ontwerpen. Voorbeelden hiervan zijn André Courrèges voor de Spelen in München in 1972, en Issey Miyake die in 1992 het uniform voor de Litouwse ploeg ontwerpt. In 1984 werden de Olympische Zomerspelen gehouden in Los Angeles. Het kledingbedrijf Levi-Strauss & Co. Ontwierp de uniformen van het Amerikaanse team en van de staf. De lijn betrof kleding met een sportieve en casual uitstraling. Voor Levi-Strauss & Co. waren de Spelen bij uitstek een gelegenheid om hun activewear lijn te promoten. De 800 atleten droegen rood-wit-blauwe trainingspakken als verwijzing naar de Amerikaanse vlag. De meer dan 60.000 stafleden kregen verschillende uniformen per functie, veelal poloshirts en blazers met korte rok of broek in felle kleuren als heldergroen of blauw met oranje accenten. Hoedjes en baseballcaps, gympen en sneakers completeerden de look.".
+The preferred identifier of this artifact is http://data.momu.be/ark:34546/mghx88.
 The current keeper of this artifact is Studiecollectie.
 The identifier of this artifact is ST80185.
 The group type of this artifact is  TMS.
